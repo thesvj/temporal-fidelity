@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+.venv*/
+*.swp
+*~
+
+data/
+logs/
+uv.lock
+
+figs/*.png

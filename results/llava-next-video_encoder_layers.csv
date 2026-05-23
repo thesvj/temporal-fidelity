@@ -1,0 +1,9 @@
+layer,accuracy,std,stage
+0,1.0,0.0,encoder
+3,0.7976923076923076,0.043555038975052515,encoder
+6,1.0,0.0,encoder
+9,1.0,0.0,encoder
+12,1.0,0.0,encoder
+15,1.0,0.0,encoder
+18,1.0,0.0,encoder
+21,1.0,0.0,encoder

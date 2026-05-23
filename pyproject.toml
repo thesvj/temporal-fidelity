@@ -1,0 +1,46 @@
+[project]
+name = "temporal-fidelity"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.7,<2.12",
+    "torchvision>=0.22,<0.27",
+    "transformers>=4.49,<5",
+    "accelerate",
+    "numpy",
+    "pillow",
+    "matplotlib",
+    "pandas",
+    "tqdm",
+    "av",
+    "scikit-learn",
+    "opencv-python-headless",
+    # Video decoding for VideoLLaMA2 / Video-ChatGPT
+    "decord",
+    # VideoLLaMA2, PLLaVA, Video-ChatGPT are auto-cloned at first use
+    # (none of them are pip-installable without system deps / setup.py)
+    "imageio",
+    "imageio-ffmpeg",
+    "sentencepiece",
+    "tiktoken",
+    "einops",
+    "protobuf",
+    "timm",
+    "ffmpeg-python",
+    "huggingface-hub",
+    "scipy",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel",
+    "jupyter",
+]
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu128" }]
+torchvision = [{ index = "pytorch-cu128" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
