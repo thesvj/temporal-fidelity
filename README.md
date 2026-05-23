@@ -142,17 +142,6 @@ Output goes to `figs/` (PDF) and `results/` (LaTeX tables).
 └── pyproject.toml
 ```
 
-## Citation
-
-```bibtex
-@inproceedings{temporal-fidelity-2026,
-  title={Temporal Fidelity: Probing the Temporal Resolution Limits of Video-Language Models},
-  author={thesvj},
-  booktitle={Proceedings of ACL},
-  year={2026}
-}
-```
-
 ## License
 
 MIT
