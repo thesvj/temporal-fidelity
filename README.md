@@ -147,7 +147,7 @@ Output goes to `figs/` (PDF) and `results/` (LaTeX tables).
 ```bibtex
 @inproceedings{temporal-fidelity-2026,
   title={Temporal Fidelity: Probing the Temporal Resolution Limits of Video-Language Models},
-  author={SVJ},
+  author={thesvj},
   booktitle={Proceedings of ACL},
   year={2026}
 }
