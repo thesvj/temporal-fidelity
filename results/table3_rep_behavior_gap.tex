@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Representation--behavior gap. Probe accuracy (max across layers, E005) vs.\ behavioral balanced accuracy (E001). $\Delta$: gap (positive = information present in representations but unused behaviorally).}
+\label{tab:gap}
+\begin{tabular}{lccccc}
+\toprule
+ & Behav. BAcc & Probe (Enc) & Probe (LLM) & $\Delta$ Enc & $\Delta$ LLM \\
+Model &  &  &  &  &  \\
+\midrule
+Molmo2 & 0.891 & 1.000 & 1.000 & +0.109 & +0.109 \\
+VideoChat-Flash & 0.597 & 1.000 & 0.997 & +0.403 & +0.400 \\
+Qwen2.5-VL & 0.509 & 1.000 & 1.000 & +0.491 & +0.491 \\
+InternVL2.5 & 0.500 & 1.000 & 1.000 & +0.500 & +0.500 \\
+LLaVA-NeXT-Video & 0.500 & 1.000 & 1.000 & +0.500 & +0.500 \\
+Video-LLaMA2 & 0.500 & -- & 0.462 & -- & -0.038 \\
+VideoLLaMA3 & -- & 1.000 & 0.923 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
