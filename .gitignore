@@ -1,15 +1,9 @@
 __pycache__/
-*.py[cod]
-*.egg-info/
-build/
-dist/
+*.pyc
 
-.venv*/
-*.swp
-*~
+# answer key for the human rating kit: kept out of the public release (raters must not see it)
+human_kit/key.json
 
+# regenerated locally (see README): stimuli and probe features
 data/
-logs/
-uv.lock
-
-figs/
+*.npz

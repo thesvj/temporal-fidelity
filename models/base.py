@@ -55,6 +55,9 @@ HF_IDS = {
     "internvl2.5":      "OpenGVLab/InternVL2_5-8B",
     "videollama3":      "DAMO-NLP-SG/VideoLLaMA3-7B",
     "videochat-flash":  "OpenGVLab/VideoChat-Flash-Qwen2-7B_res448",
+    "qwen2.5-vl-72b":   "Qwen/Qwen2.5-VL-72B-Instruct",
+    "qwen3-vl-8b":      "Qwen/Qwen3-VL-8B-Instruct",
+    "internvl2.5-78b":  "OpenGVLab/InternVL2_5-78B",
 }
 
 CACHE = Path.home() / ".cache" / "temporal_probing"

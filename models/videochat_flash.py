@@ -39,6 +39,11 @@ class VideoChatFlash(VideoModel):
 
     def __init__(self, n_frames: int = 8):
         from transformers import AutoModel, AutoTokenizer
+        import transformers.dynamic_module_utils as dmu
+        # modeling_qwen2_flash.py imports flash_attn only under `if is_flash_attn_2_available()`, but the
+        # remote-code import check still demands it on some hosts. The non-flash path is what actually runs.
+        _get_imports = dmu.get_imports
+        dmu.get_imports = lambda f: [i for i in _get_imports(f) if i != "flash_attn"]
         _ensure_videochat_flash()
         hf = HF_IDS[self.name]
         self.n = n_frames

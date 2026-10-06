@@ -1,0 +1,502 @@
+[
+ {
+  "id": "real_08",
+  "family": "real",
+  "question": "Did the bowling pins move BEFORE the cat?"
+ },
+ {
+  "id": "real_11",
+  "family": "real",
+  "question": "Did the kittens move BEFORE the weightlifter?"
+ },
+ {
+  "id": "shape_37",
+  "family": "shape",
+  "question": "Did the magenta triangle move BEFORE the red triangle?"
+ },
+ {
+  "id": "real_24",
+  "family": "real",
+  "question": "Did the blacksmith move BEFORE the woman exercising?"
+ },
+ {
+  "id": "real_19",
+  "family": "real",
+  "question": "Did the horse move BEFORE the metal droplets?"
+ },
+ {
+  "id": "shape_43",
+  "family": "shape",
+  "question": "Did the red square move BEFORE the magenta triangle?"
+ },
+ {
+  "id": "shape_35",
+  "family": "shape",
+  "question": "Did the yellow square move BEFORE the red circle?"
+ },
+ {
+  "id": "real_31",
+  "family": "real",
+  "question": "Did the horse move BEFORE the cook?"
+ },
+ {
+  "id": "real_04",
+  "family": "real",
+  "question": "Did the signer move BEFORE the guitarist?"
+ },
+ {
+  "id": "real_47",
+  "family": "real",
+  "question": "Did the blacksmith move BEFORE the squirrel?"
+ },
+ {
+  "id": "shape_15",
+  "family": "shape",
+  "question": "Did the cyan circle move BEFORE the yellow square?"
+ },
+ {
+  "id": "real_48",
+  "family": "real",
+  "question": "Did the juggler move BEFORE the signer?"
+ },
+ {
+  "id": "real_06",
+  "family": "real",
+  "question": "Did the squirrel move BEFORE the cook?"
+ },
+ {
+  "id": "shape_10",
+  "family": "shape",
+  "question": "Did the blue circle move BEFORE the cyan circle?"
+ },
+ {
+  "id": "shape_09",
+  "family": "shape",
+  "question": "Did the cyan triangle move BEFORE the blue triangle?"
+ },
+ {
+  "id": "real_30",
+  "family": "real",
+  "question": "Did the horse move BEFORE the guitarist?"
+ },
+ {
+  "id": "real_03",
+  "family": "real",
+  "question": "Did the ballerina move BEFORE the cat?"
+ },
+ {
+  "id": "shape_18",
+  "family": "shape",
+  "question": "Did the cyan circle move BEFORE the red triangle?"
+ },
+ {
+  "id": "real_33",
+  "family": "real",
+  "question": "Did the archer move BEFORE the guitarist?"
+ },
+ {
+  "id": "real_34",
+  "family": "real",
+  "question": "Did the man exercising move BEFORE the dancer?"
+ },
+ {
+  "id": "shape_32",
+  "family": "shape",
+  "question": "Did the red square move BEFORE the cyan triangle?"
+ },
+ {
+  "id": "real_45",
+  "family": "real",
+  "question": "Did the signer move BEFORE the cat?"
+ },
+ {
+  "id": "real_18",
+  "family": "real",
+  "question": "Did the man exercising move BEFORE the ballerina?"
+ },
+ {
+  "id": "real_42",
+  "family": "real",
+  "question": "Did the squirrel move BEFORE the bowler?"
+ },
+ {
+  "id": "shape_36",
+  "family": "shape",
+  "question": "Did the blue square move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "shape_16",
+  "family": "shape",
+  "question": "Did the red circle move BEFORE the cyan square?"
+ },
+ {
+  "id": "shape_19",
+  "family": "shape",
+  "question": "Did the yellow circle move BEFORE the blue circle?"
+ },
+ {
+  "id": "real_44",
+  "family": "real",
+  "question": "Did the judo fighters move BEFORE the metal droplets?"
+ },
+ {
+  "id": "shape_20",
+  "family": "shape",
+  "question": "Did the blue square move BEFORE the magenta square?"
+ },
+ {
+  "id": "shape_44",
+  "family": "shape",
+  "question": "Did the magenta circle move BEFORE the cyan triangle?"
+ },
+ {
+  "id": "shape_31",
+  "family": "shape",
+  "question": "Did the blue circle move BEFORE the green triangle?"
+ },
+ {
+  "id": "shape_21",
+  "family": "shape",
+  "question": "Did the cyan square move BEFORE the green square?"
+ },
+ {
+  "id": "real_20",
+  "family": "real",
+  "question": "Did the horse move BEFORE the bowler?"
+ },
+ {
+  "id": "real_49",
+  "family": "real",
+  "question": "Did the metal droplets move BEFORE the locust?"
+ },
+ {
+  "id": "real_15",
+  "family": "real",
+  "question": "Did the kittens move BEFORE the bowling pins?"
+ },
+ {
+  "id": "shape_17",
+  "family": "shape",
+  "question": "Did the red circle move BEFORE the yellow square?"
+ },
+ {
+  "id": "shape_02",
+  "family": "shape",
+  "question": "Did the green square move BEFORE the red square?"
+ },
+ {
+  "id": "shape_42",
+  "family": "shape",
+  "question": "Did the red circle move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "shape_13",
+  "family": "shape",
+  "question": "Did the yellow triangle move BEFORE the cyan triangle?"
+ },
+ {
+  "id": "shape_27",
+  "family": "shape",
+  "question": "Did the green circle move BEFORE the yellow square?"
+ },
+ {
+  "id": "real_35",
+  "family": "real",
+  "question": "Did the weightlifter move BEFORE the cook?"
+ },
+ {
+  "id": "shape_30",
+  "family": "shape",
+  "question": "Did the magenta square move BEFORE the cyan triangle?"
+ },
+ {
+  "id": "shape_24",
+  "family": "shape",
+  "question": "Did the yellow circle move BEFORE the magenta circle?"
+ },
+ {
+  "id": "shape_49",
+  "family": "shape",
+  "question": "Did the cyan triangle move BEFORE the magenta triangle?"
+ },
+ {
+  "id": "shape_45",
+  "family": "shape",
+  "question": "Did the red triangle move BEFORE the magenta circle?"
+ },
+ {
+  "id": "real_21",
+  "family": "real",
+  "question": "Did the man exercising move BEFORE the boxer?"
+ },
+ {
+  "id": "real_26",
+  "family": "real",
+  "question": "Did the juggler move BEFORE the bowling pins?"
+ },
+ {
+  "id": "shape_34",
+  "family": "shape",
+  "question": "Did the cyan triangle move BEFORE the blue triangle?"
+ },
+ {
+  "id": "shape_04",
+  "family": "shape",
+  "question": "Did the blue square move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "shape_26",
+  "family": "shape",
+  "question": "Did the green triangle move BEFORE the red triangle?"
+ },
+ {
+  "id": "real_43",
+  "family": "real",
+  "question": "Did the woman exercising move BEFORE the dancer?"
+ },
+ {
+  "id": "real_25",
+  "family": "real",
+  "question": "Did the archer move BEFORE the cat?"
+ },
+ {
+  "id": "real_13",
+  "family": "real",
+  "question": "Did the archer move BEFORE the weightlifter?"
+ },
+ {
+  "id": "real_07",
+  "family": "real",
+  "question": "Did the squirrel move BEFORE the ballerina?"
+ },
+ {
+  "id": "real_17",
+  "family": "real",
+  "question": "Did the kittens move BEFORE the bass player?"
+ },
+ {
+  "id": "shape_47",
+  "family": "shape",
+  "question": "Did the blue square move BEFORE the red circle?"
+ },
+ {
+  "id": "real_39",
+  "family": "real",
+  "question": "Did the signer move BEFORE the blacksmith?"
+ },
+ {
+  "id": "shape_12",
+  "family": "shape",
+  "question": "Did the yellow circle move BEFORE the red triangle?"
+ },
+ {
+  "id": "real_09",
+  "family": "real",
+  "question": "Did the guitarist move BEFORE the squirrel?"
+ },
+ {
+  "id": "shape_38",
+  "family": "shape",
+  "question": "Did the red square move BEFORE the green circle?"
+ },
+ {
+  "id": "real_27",
+  "family": "real",
+  "question": "Did the dancer move BEFORE the squirrel?"
+ },
+ {
+  "id": "shape_07",
+  "family": "shape",
+  "question": "Did the green triangle move BEFORE the magenta square?"
+ },
+ {
+  "id": "shape_08",
+  "family": "shape",
+  "question": "Did the cyan circle move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "real_38",
+  "family": "real",
+  "question": "Did the squirrel move BEFORE the ballerina?"
+ },
+ {
+  "id": "shape_48",
+  "family": "shape",
+  "question": "Did the green square move BEFORE the magenta square?"
+ },
+ {
+  "id": "shape_01",
+  "family": "shape",
+  "question": "Did the red triangle move BEFORE the yellow square?"
+ },
+ {
+  "id": "real_28",
+  "family": "real",
+  "question": "Did the guitarist move BEFORE the squirrel?"
+ },
+ {
+  "id": "real_32",
+  "family": "real",
+  "question": "Did the typist move BEFORE the cat?"
+ },
+ {
+  "id": "shape_03",
+  "family": "shape",
+  "question": "Did the yellow square move BEFORE the magenta square?"
+ },
+ {
+  "id": "shape_46",
+  "family": "shape",
+  "question": "Did the green circle move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "shape_23",
+  "family": "shape",
+  "question": "Did the yellow circle move BEFORE the blue square?"
+ },
+ {
+  "id": "shape_14",
+  "family": "shape",
+  "question": "Did the yellow circle move BEFORE the magenta triangle?"
+ },
+ {
+  "id": "shape_22",
+  "family": "shape",
+  "question": "Did the blue square move BEFORE the cyan square?"
+ },
+ {
+  "id": "shape_41",
+  "family": "shape",
+  "question": "Did the blue triangle move BEFORE the yellow circle?"
+ },
+ {
+  "id": "shape_25",
+  "family": "shape",
+  "question": "Did the cyan circle move BEFORE the red circle?"
+ },
+ {
+  "id": "shape_33",
+  "family": "shape",
+  "question": "Did the magenta circle move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "real_46",
+  "family": "real",
+  "question": "Did the woman exercising move BEFORE the ballerina?"
+ },
+ {
+  "id": "real_02",
+  "family": "real",
+  "question": "Did the dancer move BEFORE the cat?"
+ },
+ {
+  "id": "shape_05",
+  "family": "shape",
+  "question": "Did the yellow square move BEFORE the red square?"
+ },
+ {
+  "id": "real_23",
+  "family": "real",
+  "question": "Did the man exercising move BEFORE the signer?"
+ },
+ {
+  "id": "shape_06",
+  "family": "shape",
+  "question": "Did the red square move BEFORE the yellow square?"
+ },
+ {
+  "id": "real_05",
+  "family": "real",
+  "question": "Did the guitarist move BEFORE the cook?"
+ },
+ {
+  "id": "real_41",
+  "family": "real",
+  "question": "Did the dancer move BEFORE the typist?"
+ },
+ {
+  "id": "real_00",
+  "family": "real",
+  "question": "Did the cook move BEFORE the squirrel?"
+ },
+ {
+  "id": "real_40",
+  "family": "real",
+  "question": "Did the juggler move BEFORE the ballerina?"
+ },
+ {
+  "id": "real_10",
+  "family": "real",
+  "question": "Did the man exercising move BEFORE the signer?"
+ },
+ {
+  "id": "shape_11",
+  "family": "shape",
+  "question": "Did the blue triangle move BEFORE the yellow triangle?"
+ },
+ {
+  "id": "shape_00",
+  "family": "shape",
+  "question": "Did the red circle move BEFORE the yellow square?"
+ },
+ {
+  "id": "real_37",
+  "family": "real",
+  "question": "Did the judo fighters move BEFORE the ballerina?"
+ },
+ {
+  "id": "real_16",
+  "family": "real",
+  "question": "Did the typist move BEFORE the ballerina?"
+ },
+ {
+  "id": "shape_40",
+  "family": "shape",
+  "question": "Did the yellow square move BEFORE the blue triangle?"
+ },
+ {
+  "id": "shape_29",
+  "family": "shape",
+  "question": "Did the yellow triangle move BEFORE the red square?"
+ },
+ {
+  "id": "real_12",
+  "family": "real",
+  "question": "Did the ballerina move BEFORE the woman exercising?"
+ },
+ {
+  "id": "shape_39",
+  "family": "shape",
+  "question": "Did the magenta circle move BEFORE the blue triangle?"
+ },
+ {
+  "id": "real_14",
+  "family": "real",
+  "question": "Did the typist move BEFORE the ballerina?"
+ },
+ {
+  "id": "real_01",
+  "family": "real",
+  "question": "Did the dancer move BEFORE the signer?"
+ },
+ {
+  "id": "real_36",
+  "family": "real",
+  "question": "Did the man exercising move BEFORE the bowling pins?"
+ },
+ {
+  "id": "shape_28",
+  "family": "shape",
+  "question": "Did the blue square move BEFORE the magenta square?"
+ },
+ {
+  "id": "real_29",
+  "family": "real",
+  "question": "Did the ballerina move BEFORE the man exercising?"
+ },
+ {
+  "id": "real_22",
+  "family": "real",
+  "question": "Did the boxer move BEFORE the cat?"
+ }
+]

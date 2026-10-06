@@ -1,8 +1,13 @@
 """LLaVA-NeXT-Video — llava-hf/LLaVA-NeXT-Video-7B-DPO-hf (native HF)."""
 
+import os
 from pathlib import Path
 import torch
 from models.base import VideoModel, HF_IDS, load_frames
+
+
+VICUNA_SYS = ("A chat between a curious human and an artificial intelligence assistant. "
+              "The assistant gives helpful, detailed, and polite answers to the human's questions.")
 
 
 class LLaVANextVideo(VideoModel):
@@ -22,6 +27,9 @@ class LLaVANextVideo(VideoModel):
     def _inputs(self, video_path: Path, prompt: str):
         frames = load_frames(video_path, self.n)
         conv   = [{"role": "user", "content": [{"type": "video"}, {"type": "text", "text": prompt}]}]
+        if os.environ.get("LLAVA_SYS"):
+            # LLaVA's vicuna_v1 conversation (lmms-eval `llava_vid` default); the HF port's template adds no system prompt
+            conv.insert(0, {"role": "system", "content": [{"type": "text", "text": VICUNA_SYS}]})
         text   = self._proc.apply_chat_template(conv, add_generation_prompt=True)
         return self._proc(text=text, videos=frames, return_tensors="pt").to(self._model.device)
 

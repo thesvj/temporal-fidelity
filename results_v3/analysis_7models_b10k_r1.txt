@@ -1,0 +1,68 @@
+recorded frame indices: 4800 (model, clip) pairs; rules used for the rest
+sampler           invisible (recorded)  invisible (rule)  disagree
+uniform8                      195/1200               195         0
+molmo2                        262/1200               262         0
+midpoint8                     185/1200               185        10
+vcf64                           0/1200                 0         0
+
+=== v3 controlled results (results_v3) ===
+model                P(Y)   BAcc  BAcc_v  AUC_all  AUC_vis         [95% CI]    perm p           recal
+Molmo2              0.310  0.768   0.855    0.910    0.977 [0.966, 0.986]    0.0001  0.942 [0.925, 0.958]
+                   visible 938/1200, permutation exceedances 0/10000
+VideoChat-Flash     0.036  0.536   0.536    0.687    0.687 [0.656, 0.717]    0.0001  0.650 [0.623, 0.675]
+                   visible 1200/1200, permutation exceedances 0/10000
+Qwen2.5-VL-7B       0.018  0.511   0.513    0.587    0.605 [0.571, 0.639]    0.0001  0.569 [0.535, 0.605]
+                   visible 1005/1200, permutation exceedances 0/10000
+InternVL2.5-8B      0.007  0.504   0.505    0.539    0.544 [0.508, 0.580]    0.0142  0.545 [0.513, 0.568]
+                   visible 1005/1200, permutation exceedances 141/10000
+LLaVA-NeXT-Video    0.000  0.500   0.500    0.479    0.477 [0.442, 0.513]    0.2122  0.494 [0.456, 0.514]
+                   visible 1005/1200, permutation exceedances 2121/10000
+Video-LLaMA2        1.000  0.500   0.500    0.514    0.521 [0.486, 0.557]    0.2431  0.507 [0.481, 0.528]
+                   visible 1015/1200, permutation exceedances 2430/10000
+Qwen2.5-VL-72B      0.221  0.639   0.661    0.679    0.711 [0.678, 0.743]    0.0001  0.701 [0.668, 0.728]
+                   visible 1005/1200, permutation exceedances 0/10000
+
+Holm-adjusted order-margin p (72-78B family): {'Qwen2.5-VL-72B': 0.0001}
+
+Holm-adjusted order-margin p (7-8B family): {'Molmo2': 0.0006, 'VideoChat-Flash': 0.0006, 'Qwen2.5-VL-7B': 0.0006, 'InternVL2.5-8B': 0.0426, 'LLaVA-NeXT-Video': 0.4244, 'Video-LLaMA2': 0.4244}
+
+=== move question (twin = any change, solo = object binding) ===
+model               P(Y)real  P(Y)twin  AUC_twin         [95% CI]        p  AUC_solo         [95% CI]        p
+Molmo2                 0.921     0.000     0.996 [0.991, 1.000]   0.0001     0.994 [0.987, 0.998]   0.0001
+VideoChat-Flash        0.471     0.004     0.804 [0.761, 0.845]   0.0001     0.945 [0.927, 0.961]   0.0001
+Qwen2.5-VL-7B          0.433     0.000     0.893 [0.861, 0.924]   0.0001     0.897 [0.871, 0.922]   0.0001
+InternVL2.5-8B         0.092     0.000     0.867 [0.837, 0.896]   0.0001     0.814 [0.783, 0.846]   0.0001
+LLaVA-NeXT-Video       0.000     0.000     0.499 [0.481, 0.518]   0.9419     0.512 [0.494, 0.531]   0.2085
+Video-LLaMA2           0.607     0.412     0.639 [0.614, 0.666]   0.0001     0.541 [0.513, 0.568]   0.0032
+Qwen2.5-VL-72B         0.575     0.000     0.878 [0.840, 0.914]   0.0001     0.959 [0.943, 0.973]   0.0001
+  AUC_twin separates a moving clip from a frozen one: a change detector achieves this.
+  AUC_solo separates 'the queried shape moved' from 'the other shape moved': needs binding.
+
+=== polarity control: 'did both shapes stay still?' (gold: real NO, twin YES) ===
+model               P(Y)real  P(Y)twin    BAcc   verdict
+Molmo2                 0.008     1.000   0.996   passes: answer tracks motion in this polarity
+VideoChat-Flash        0.000     0.350   0.675   partial: tracks motion, criterion far toward NO
+Qwen2.5-VL-7B          0.096     0.617   0.760   passes: answer tracks motion in this polarity
+InternVL2.5-8B         0.671     1.000   0.665   fails: says 'still' about most clips where a shape moved
+LLaVA-NeXT-Video       0.921     0.900   0.490   fails: says 'still' whether or not a shape moved
+Video-LLaMA2           0.046     0.087   0.521   fails: says 'not still' whether or not a shape moved
+Qwen2.5-VL-72B         0.113     1.000   0.944   passes: answer tracks motion in this polarity
+
+=== prompt variants and interval estimation (v3 stimuli) ===
+model               orig BAcc  rev BAcc  forced BAcc  forced AUC  interval acc  bins used
+Molmo2                  0.768     0.757        0.746       0.844         0.552          4
+VideoChat-Flash         0.536     0.624        0.576       0.571         0.392          4
+Qwen2.5-VL-7B           0.511     0.537        0.528       0.538         0.267          2
+InternVL2.5-8B          0.504     0.501        0.537       0.522         0.259          3
+LLaVA-NeXT-Video        0.500     0.500        0.500       0.491         0.167          2
+Video-LLaMA2            0.500     0.500        0.503       0.504         0.289          3
+Qwen2.5-VL-72B          0.639       nan          nan         nan           nan          0
+
+=== 8 vs 32 frames on the SAME stimuli (v3 stratifies these across all 12 intervals) ===
+VideoChat-Flash    8f 0.520 -> 32f 0.535  (delta +0.016, n=240, 12 intervals)
+Qwen2.5-VL-7B      8f 0.507 -> 32f 0.504  (delta -0.003, n=240, 12 intervals)
+InternVL2.5-8B     8f 0.504 -> 32f 0.504  (delta +0.000, n=240, 12 intervals)
+LLaVA-NeXT-Video   8f 0.500 -> 32f 0.500  (delta +0.000, n=240, 12 intervals)
+
+wrote results_v3/numbers_v3.json and results_v3/table_main_rows.tex (7 rows)
+DONE

@@ -1,0 +1,17 @@
+v3   harness  n_vis 1005 AUC 0.608 [0.5715916319524382, 0.6425071583714169] BAcc 0.519 P(Y) 0.025 | repro max|dm| None
+      own class:     {'s_odd': (556, 0.79), 's_even_e_odd': (228, 0.228), 's_even_e_even': (164, 0.44)}
+      harness class: {'s_odd': (556, 0.79), 's_even_e_odd': (228, 0.228), 's_even_e_even': (164, 0.44)}
+      harness 4-way: {'sodd_eeven': (269, 0.875), 'sodd_eodd': (287, 0.747), 'seven_eodd': (228, 0.228), 'seven_eeven': (164, 0.44)}
+      4-way, kept:   {'sodd_eeven': (269, 0.875), 'sodd_eodd': (287, 0.747), 'seven_eodd': (228, 0.228), 'seven_eeven': (164, 0.44)} | one-jump 57 0.865 {'inside': (57, 0.865)}
+v3   shift    n_vis 1005 AUC 0.572 [0.5367100182311125, 0.6081606628013814] BAcc 0.516 P(Y) 0.032
+      own class:     {'s_odd': (307, 0.807), 's_even_e_odd': (269, 0.163), 's_even_e_even': (103, 0.571)}
+      harness class: {'s_odd': (556, 0.398), 's_even_e_odd': (228, 0.929), 's_even_e_even': (164, 0.796)}
+      harness 4-way: {'sodd_eeven': (269, 0.163), 'sodd_eodd': (287, 0.613), 'seven_eodd': (228, 0.929), 'seven_eeven': (164, 0.796)}
+      4-way, kept:   {'sodd_eeven': (269, 0.163), 'sodd_eodd': (103, 0.571), 'seven_eodd': (143, 0.896), 'seven_eeven': (164, 0.796)} | one-jump 326 0.682 {'inside': (85, 0.975), 'between': (241, 0.625)}
+      vs harness, same trials: {'n': 1005, 'arm': 0.572, 'harness': 0.608, 'diff_ci': [-0.09223248777413023, 0.023626350940244963]}
+v3   shift2   n_vis 1005 AUC 0.740 [0.7097320453639989, 0.7698268600584207] BAcc 0.518 P(Y) 0.026
+      own class:     {'s_odd': (324, 0.838), 's_even_e_odd': (143, 0.28)}
+      harness class: {'s_odd': (556, 0.878), 's_even_e_odd': (228, 0.429), 's_even_e_even': (164, 0.617)}
+      harness 4-way: {'sodd_eeven': (269, 0.891), 'sodd_eodd': (287, 0.875), 'seven_eodd': (228, 0.429), 'seven_eeven': (164, 0.617)}
+      4-way, kept:   {'sodd_eeven': (221, 0.885), 'sodd_eodd': (103, 0.858), 'seven_eodd': (143, 0.28)} | one-jump 535 0.821 {'inside': (289, 0.95), 'between': (246, 0.638)}
+      vs harness, same trials: {'n': 1005, 'arm': 0.74, 'harness': 0.608, 'diff_ci': [0.11130334302791364, 0.1542045667829113]}

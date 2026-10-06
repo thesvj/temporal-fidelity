@@ -1,0 +1,23 @@
+v3   harness  n_vis 1005 AUC 0.711 [0.6785315334425933, 0.7419901395430851] BAcc 0.661 P(Y) 0.234 | repro max|dm| None
+      own class:     {'s_odd': (556, 0.915), 's_even_e_odd': (228, 0.175), 's_even_e_even': (164, 0.61)}
+      harness class: {'s_odd': (556, 0.915), 's_even_e_odd': (228, 0.175), 's_even_e_even': (164, 0.61)}
+      harness 4-way: {'sodd_eeven': (269, 0.936), 'sodd_eodd': (287, 0.939), 'seven_eodd': (228, 0.175), 'seven_eeven': (164, 0.61)}
+      4-way, kept:   {'sodd_eeven': (269, 0.936), 'sodd_eodd': (287, 0.939), 'seven_eodd': (228, 0.175), 'seven_eeven': (164, 0.61)} | one-jump 57 1.0 {'inside': (57, 1.0)}
+v3   shift    n_vis 1005 AUC 0.667 [0.632988839435088, 0.7009845917091353] BAcc 0.604 P(Y) 0.162
+      own class:     {'s_odd': (307, 0.945), 's_even_e_odd': (269, 0.161), 's_even_e_even': (103, 0.689)}
+      harness class: {'s_odd': (556, 0.431), 's_even_e_odd': (228, 0.986), 's_even_e_even': (164, 0.963)}
+      harness 4-way: {'sodd_eeven': (269, 0.161), 'sodd_eodd': (287, 0.747), 'seven_eodd': (228, 0.986), 'seven_eeven': (164, 0.963)}
+      4-way, kept:   {'sodd_eeven': (269, 0.161), 'sodd_eodd': (103, 0.689), 'seven_eodd': (143, 0.966), 'seven_eeven': (164, 0.963)} | one-jump 326 0.881 {'inside': (85, 1.0), 'between': (241, 0.803)}
+      vs harness, same trials: {'n': 1005, 'arm': 0.667, 'harness': 0.711, 'diff_ci': [-0.09694704027521933, 0.00760413968751555]}
+v3   shift2   n_vis 1005 AUC 0.851 [0.8279474281457262, 0.873289288584541] BAcc 0.628 P(Y) 0.154
+      own class:     {'s_odd': (324, 0.916), 's_even_e_odd': (143, 0.326)}
+      harness class: {'s_odd': (556, 0.941), 's_even_e_odd': (228, 0.528), 's_even_e_even': (164, 0.898)}
+      harness 4-way: {'sodd_eeven': (269, 0.931), 'sodd_eodd': (287, 0.957), 'seven_eodd': (228, 0.528), 'seven_eeven': (164, 0.898)}
+      4-way, kept:   {'sodd_eeven': (221, 0.928), 'sodd_eodd': (103, 0.975), 'seven_eodd': (143, 0.326)} | one-jump 535 0.964 {'inside': (289, 0.993), 'between': (246, 0.897)}
+      vs harness, same trials: {'n': 1005, 'arm': 0.851, 'harness': 0.711, 'diff_ci': [0.11982945251374533, 0.16181830502427658]}
+v3   ts       n_vis 1005 AUC 0.712 [0.678420205181637, 0.743787074969286] BAcc 0.645 P(Y) 0.234
+      own class:     {'s_odd': (556, 0.905), 's_even_e_odd': (228, 0.218), 's_even_e_even': (164, 0.622)}
+      harness class: {'s_odd': (556, 0.905), 's_even_e_odd': (228, 0.218), 's_even_e_even': (164, 0.622)}
+      harness 4-way: {'sodd_eeven': (269, 0.899), 'sodd_eodd': (287, 0.935), 'seven_eodd': (228, 0.218), 'seven_eeven': (164, 0.622)}
+      4-way, kept:   {'sodd_eeven': (269, 0.899), 'sodd_eodd': (287, 0.935), 'seven_eodd': (228, 0.218), 'seven_eeven': (164, 0.622)} | one-jump 57 0.999 {'inside': (57, 0.999)}
+      vs harness, same trials: {'n': 1005, 'arm': 0.712, 'harness': 0.711, 'diff_ci': [-0.009337507679582127, 0.01128623482055184]}

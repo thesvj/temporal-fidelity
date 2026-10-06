@@ -19,6 +19,8 @@ def _register_lazy():
     from models.internvl25 import InternVL25
     from models.videollama3 import VideoLLaMA3Adapter
     from models.videochat_flash import VideoChatFlash
+    from models.qwen25_vl import Qwen25VL72B, Qwen3VL8B
+    from models.internvl25 import InternVL25_78B
 
     _CLASSES.update({
         "llava-next-video": LLaVANextVideo,
@@ -28,6 +30,9 @@ def _register_lazy():
         "internvl2.5":      InternVL25,
         "videollama3":      VideoLLaMA3Adapter,
         "videochat-flash":  VideoChatFlash,
+        "qwen2.5-vl-72b":  Qwen25VL72B,
+        "qwen3-vl-8b":     Qwen3VL8B,
+        "internvl2.5-78b": InternVL25_78B,
     })
 
 

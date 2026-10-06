@@ -38,6 +38,10 @@ PROMPTS = {
     "simultaneity": (
         "Did both shapes start moving at EXACTLY the same time? Answer YES or NO."
     ),
+    "count": (
+        "How many times did the {color_a} {shape_a} move in this video? "
+        "Answer with a single number."
+    ),
 }
 
 INTERVAL_BINS = [(0, 1000, "A"), (1000, 2000, "B"), (2000, 5000, "C"), (5000, 1e9, "D")]
@@ -57,6 +61,24 @@ def _parse_yn(text: str) -> int | None:
     if has_yes and not has_no: return 1
     if has_no  and not has_yes: return 0
     if has_yes: return 1   # both present: YES wins (model affirmed then qualified)
+    return None
+
+
+
+_WORD_NUMS = {
+    "ZERO": 0, "ONE": 1, "TWO": 2, "THREE": 3, "FOUR": 4, "FIVE": 5,
+    "SIX": 6, "SEVEN": 7, "EIGHT": 8, "NINE": 9, "TEN": 10,
+    "ELEVEN": 11, "TWELVE": 12, "ONCE": 1, "TWICE": 2,
+}
+
+def _parse_int(text: str) -> int | None:
+    t = text.upper()
+    m = re.search(r'\b(\d{1,2})\b', t)
+    if m:
+        return int(m.group(1))
+    for w, v in _WORD_NUMS.items():
+        if re.search(rf'\b{w}\b', t):
+            return v
     return None
 
 
@@ -92,13 +114,16 @@ def run(model_name: str, meta: Path, task: str, fps_filter: int | None, out: Pat
 
     rows = []
     for _, row in tqdm(df.iterrows(), total=len(df), desc=f"{model_name}/{task}"):
-        prompt = PROMPTS[task].format(**row) if task == "order" else PROMPTS[task]
+        prompt = PROMPTS[task].format(**row) if task in ("order", "count") else PROMPTS[task]
 
         resp = model.ask(Path(row["path"]), prompt)
 
         if task in ("order", "simultaneity"):
             pred = _parse_yn(resp)
             gt   = int(row["a_first"]) if task == "order" else int(row["simultaneous"])
+        elif task == "count":
+            pred = _parse_int(resp)
+            gt   = int(row["n_events"])
         else:
             pred = _parse_abcd(resp)
             gt   = _interval_label(int(row["interval_ms"]))
@@ -125,8 +150,9 @@ if __name__ == "__main__":
     p.add_argument("--model",  required=True,
                    choices=["llava-next-video", "video-llama2",
                             "qwen2.5-vl", "molmo2", "internvl2.5",
-                            "videollama3", "videochat-flash"])
-    p.add_argument("--task",   required=True, choices=["order", "interval", "simultaneity"])
+                            "videollama3", "videochat-flash",
+                            "qwen2.5-vl-72b", "internvl2.5-78b"])
+    p.add_argument("--task",   required=True, choices=["order", "interval", "simultaneity", "count"])
     p.add_argument("--meta",   default="data/videos/metadata.csv")
     p.add_argument("--fps",    type=int, default=None, help="filter by fps (E004)")
     p.add_argument("--out",    default=None, help="override output csv path")

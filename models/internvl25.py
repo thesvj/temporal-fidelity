@@ -4,6 +4,7 @@ Requires transformers~=4.45 — the remote model code uses the pre-4.50 API.
 The run script pins the correct version in .venv-internvl2.5.
 """
 
+import os
 from pathlib import Path
 import torch
 from models.base import VideoModel, HF_IDS, load_frames, _remove_hooks
@@ -36,7 +37,7 @@ class InternVL25(VideoModel):
 
     def _to_pixel_values(self, video_path: Path) -> torch.Tensor:
         from PIL import Image
-        frames = load_frames(video_path, self.n)
+        frames = _read_ref(video_path) if os.environ.get("INTERNVL_REF") else load_frames(video_path, self.n)
         pil    = [Image.fromarray(f) for f in frames]
         pixels = torch.stack([self._transform(f) for f in pil])
         return pixels.to(self._model.device, torch.bfloat16)
@@ -79,3 +80,26 @@ class InternVL25(VideoModel):
         with torch.no_grad():
             out = self._model.vision_model(pv, output_hidden_states=True)
         return {l: out.hidden_states[l].mean(dim=1).float().cpu() for l in layers}
+
+
+class InternVL25_78B(InternVL25):
+    """InternVL2.5-78B — scaling control (InternViT-6B + Qwen2.5-72B backbone)."""
+    name = "internvl2.5-78b"
+    n_llm_layers = 80   # Qwen2.5-72B
+    n_enc_layers = 45   # InternViT-6B
+
+
+def ref_index(total: int, num_segments: int = 32) -> list[int]:
+    """Frame indices of the model card's video example (load_video/get_index, bound=None, num_segments=32):
+    the midpoint of each of 32 equal segments of [0, total - 1]."""
+    import numpy as np
+    start_idx, end_idx = 0, total - 1
+    seg = float(end_idx - start_idx) / num_segments
+    return [int(start_idx + seg / 2 + np.round(seg * i)) for i in range(num_segments)]
+
+
+def _read_ref(video_path):
+    import decord
+    decord.bridge.set_bridge("native")
+    vr = decord.VideoReader(str(video_path), ctx=decord.cpu(0))
+    return vr.get_batch(ref_index(len(vr))).asnumpy()

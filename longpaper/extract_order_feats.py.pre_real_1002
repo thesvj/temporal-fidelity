@@ -1,0 +1,260 @@
+"""
+Long-paper control: ORDER-label (a_first) features from the decision pass.
+
+For every fps30 order video (1300) and each model, runs the *behavioural* E1 order prompt through
+model.ask() and captures LLM hidden states during the prefill pass with forward hooks:
+  - pool=mean : mean over all prefill positions (what layer_probe.py did, but with the order prompt)
+  - pool=last : last prefill position = the decision/read-out position
+Two input conditions:
+  - real    : frames in true temporal order (identical to E1)
+  - shuf    : decord VideoReader.get_batch patched so sampled frames are fed in a random
+              (per-video, seeded, non-identity) order -> temporal sequence destroyed, bag of frames kept.
+Optionally (--encoder) vision-encoder features (adapter.extract_vision_features, real order only).
+Also stores the generated responses for both conditions (behaviour under frame shuffling) and
+the prefill sequence length (duration leak check).
+
+VideoLLaMA3: adapter.ask() slices generate() output by input length, but generate() is called with
+inputs_embeds and returns only new tokens -> every response was "" in the original runs. Fixed here.
+
+Usage (cwd irrelevant; paths are absolute):
+  .venv-<model>/bin/python longpaper/extract_order_feats.py --model molmo2 [--limit 1] [--encoder]
+"""
+import argparse
+import os
+import sys
+import time
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+import torch
+
+ACL = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ACL))
+os.chdir(ACL)
+
+from models import load_model, _CLASSES, _register_lazy  # noqa: E402
+from models.base import VideoModel  # noqa: E402
+from probe import PROMPTS, _parse_yn  # noqa: E402
+
+VISION_KEYS = ("vision", "visual", "vit", "image_encoder", "resampler", "mm_projector")
+
+# ---------------------------------------------------------------- frame-order shuffling via decord
+import decord  # noqa: E402
+
+_ORIG_GET_BATCH = decord.VideoReader.get_batch
+SHUF = {"on": False, "rng": None, "calls": 0, "shuffled_calls": 0}
+# Window-dropped condition. Shuffling frames does NOT remove the order cue: it keeps the frame set, and
+# the order is recoverable from a set holding one pre-jump and one between-jumps frame. Replacing every
+# sampled frame that falls inside [f_first, f_second) with the last pre-jump frame does remove it --- no
+# frame then shows exactly one shape displaced --- so the label is unidentifiable from the input and any
+# probe accuracy above majority is a leak. This is the floor the probe results are read against.
+DROP = {"on": False, "lo": None, "hi": None, "dropped_calls": 0, "frames_replaced": 0}
+
+
+def _transform(idx):
+    """Apply the active drop/shuffle condition to a list of decoded frame indices."""
+    SHUF["calls"] += 1
+    idx = [int(i) for i in list(idx)]
+    if DROP["on"] and DROP["lo"] is not None:
+        lo, hi = DROP["lo"], DROP["hi"]
+        ref = max(lo - 1, 0)
+        new = [ref if lo <= i < hi else i for i in idx]
+        if new != idx:
+            DROP["frames_replaced"] += sum(a != b for a, b in zip(new, idx))
+            DROP["dropped_calls"] += 1
+        idx = new
+    if SHUF["on"] and len(idx) > 1:
+        perm = SHUF["rng"].permutation(len(idx))
+        while np.all(perm == np.arange(len(idx))):
+            perm = SHUF["rng"].permutation(len(idx))
+        idx = [idx[i] for i in perm]
+        SHUF["shuffled_calls"] += 1
+    return idx
+
+
+def _patched_get_batch(self, indices):
+    return _ORIG_GET_BATCH(self, _transform(indices))
+
+
+def patch_pyav_loader():
+    """VideoChat-Flash decodes .avi through PyAV (mm_utils.read_frames_av), bypassing decord. Its frame
+    choice goes through the module-level get_frame_indices, so wrapping that applies the same conditions."""
+    mods = [m for n, m in list(sys.modules.items())
+            if n.endswith("mm_utils") and hasattr(m, "read_frames_av") and hasattr(m, "get_frame_indices")]
+    if not mods:
+        raise RuntimeError("PyAV loader module not found")
+    for m in mods:
+        orig = m.get_frame_indices
+        m.get_frame_indices = lambda *a, _o=orig, **k: _transform(_o(*a, **k))
+    print(f"  patched PyAV get_frame_indices in {len(mods)} module(s)", flush=True)
+
+
+decord.VideoReader.get_batch = _patched_get_batch
+
+
+# ---------------------------------------------------------------- helpers
+def find_llm_layers(model: VideoModel, n: int):
+    root = model._model
+    cands = [(name, m) for name, m in root.named_modules()
+             if isinstance(m, torch.nn.ModuleList) and len(m) == n
+             and not any(k in name.lower() for k in VISION_KEYS)]
+    if len(cands) != 1:
+        raise RuntimeError(f"LLM layer ModuleList ambiguous/missing (n={n}): {[c[0] for c in cands]}")
+    print(f"  LLM layers: {cands[0][0]} (len={n})", flush=True)
+    return cands[0][1]
+
+
+def fix_videollama3(model):
+    def ask(video_path, prompt):
+        inputs = model._make_inputs(video_path, prompt)
+        with torch.no_grad():
+            out = model._model.generate(**inputs, max_new_tokens=64)
+        seq = out[0]
+        L = inputs["input_ids"].shape[1]
+        if seq.shape[0] > L and torch.equal(seq[:L].cpu(), inputs["input_ids"][0].cpu()):
+            seq = seq[L:]
+        return model._proc.decode(seq, skip_special_tokens=True).strip()
+    model.ask = ask
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--model", required=True)
+    ap.add_argument("--meta", default="data/videos_v3/metadata.csv")
+    ap.add_argument("--limit", type=int, default=None, help="videos per interval (smoke test)")
+    ap.add_argument("--encoder", action="store_true")
+    ap.add_argument("--conds", nargs="+", default=["real", "shuf", "drop"])
+    ap.add_argument("--outdir", default=str(ACL / "longpaper" / "feats"))
+    ap.add_argument("--save-every", type=int, default=100)
+    args = ap.parse_args()
+
+    _register_lazy()
+    n = getattr(_CLASSES[args.model], "n_llm_layers", 32)
+    layers = list(range(0, n, max(1, n // 8)))
+    if (n - 1) not in layers:
+        layers.append(n - 1)
+    enc_layers = list(range(0, 24, 3))
+
+    df = pd.read_csv(args.meta)
+    if "fps" in df.columns:
+        df = df[df["fps"] == 30]
+    if args.limit:
+        df = df.groupby("interval_ms", group_keys=False).head(args.limit)
+    df = df.reset_index(drop=True)
+
+    outdir = Path(args.outdir)
+    outdir.mkdir(parents=True, exist_ok=True)
+    tag = f"{args.model}" + (f"_smoke{args.limit}" if args.limit else "")
+    out_path = outdir / f"{tag}.npz"
+    part_path = outdir / f"{tag}.partial.npz"
+
+    t0 = time.time()
+    model = load_model(args.model)
+    if args.model == "videollama3":
+        fix_videollama3(model)
+    if args.model == "videochat-flash":
+        patch_pyav_loader()
+    print(f"  loaded {args.model} in {time.time() - t0:.0f}s; layers={layers}", flush=True)
+
+    blocks = find_llm_layers(model, n)
+    cap = {}
+
+    def mk(l):
+        def hook(_m, _i, out):
+            if l in cap:
+                return
+            h = out[0] if isinstance(out, (tuple, list)) else out
+            if h.dim() == 3 and h.shape[1] > 1:
+                h = h[0].float()
+                cap[l] = (h.mean(0).cpu().numpy().astype(np.float16),
+                          h[-1].cpu().numpy().astype(np.float16), int(h.shape[0]))
+        return hook
+
+    handles = [blocks[l].register_forward_hook(mk(l)) for l in layers]
+    has_enc = type(model).extract_vision_features is not VideoModel.extract_vision_features
+
+    store = {}
+    start = 0
+    if part_path.exists():
+        z = np.load(part_path, allow_pickle=True)
+        start = int(z["n_done"])
+        for k in z.files:
+            if k != "n_done":
+                store[k] = list(z[k])
+        print(f"  resuming from {start}", flush=True)
+
+    def put(k, v):
+        store.setdefault(k, []).append(v)
+
+    def save(path, n_done):
+        arrs = {k: np.stack(v) if isinstance(v[0], np.ndarray) else np.array(v) for k, v in store.items()}
+        np.savez(path, n_done=n_done, **arrs)
+
+    for i in range(start, len(df)):
+        row = df.iloc[i]
+        # v3 draws which shape the question names first, and the label (`gt`) is about that shape. The
+        # probe must see the same prompt the behavioural run saw, or it is decoding a different task.
+        if "name_first" in row and str(row["name_first"]) == "b":
+            prompt = PROMPTS["order"].format(color_a=row["color_b"], shape_a=row["shape_b"],
+                                             color_b=row["color_a"], shape_b=row["shape_a"])
+        else:
+            prompt = PROMPTS["order"].format(**row)
+        for cond in args.conds:
+            cap.clear()
+            SHUF["on"] = cond == "shuf"
+            SHUF["rng"] = np.random.default_rng(100_000 + i)
+            DROP["on"] = cond == "drop"
+            if DROP["on"]:
+                if "f_first" not in row or "f_second" not in row:
+                    raise RuntimeError("--conds drop needs f_first/f_second (v3 metadata)")
+                a, b = int(row["f_first"]), int(row["f_second"])
+                DROP["lo"], DROP["hi"] = min(a, b), max(a, b)
+            before, before_d = SHUF["shuffled_calls"], DROP["dropped_calls"]
+            resp = model.ask(Path(row["path"]), prompt)
+            SHUF["on"] = DROP["on"] = False
+            if cond == "shuf" and SHUF["shuffled_calls"] == before:
+                raise RuntimeError("frame shuffle NOT applied (decoder path bypasses decord.get_batch)")
+            if cond == "drop" and DROP["dropped_calls"] == before_d:
+                # No sampled frame fell in the window: the trial was already invisible to this model,
+                # so 'drop' is identical to 'real'. That is expected, not an error; it is recorded so the
+                # probe can restrict the floor to trials where the control actually did something.
+                put("drop_noop", 1)
+            elif cond == "drop":
+                put("drop_noop", 0)
+            missing = [l for l in layers if l not in cap]
+            if missing:
+                raise RuntimeError(f"hooks did not capture prefill for layers {missing}")
+            for l in layers:
+                put(f"{cond}_mean_L{l}", cap[l][0])
+                put(f"{cond}_last_L{l}", cap[l][1])
+            put(f"{cond}_seqlen", cap[layers[0]][2])
+            put(f"{cond}_resp", str(resp))
+        if args.encoder and has_enc:
+            with torch.no_grad():
+                ef = model.extract_vision_features(Path(row["path"]), enc_layers)
+            for l, h in ef.items():
+                a = h.float()
+                while a.dim() > 1:
+                    a = a.mean(0)
+                put(f"enc_mean_L{l}", a.numpy().astype(np.float16))
+        put("path", row["path"]); put("interval_ms", int(row["interval_ms"])); put("a_first", int(bool(row["a_first"])))
+        put("gt", int(row["gt"]) if "gt" in row else int(bool(row["a_first"])))
+        put("name_first", str(row["name_first"]) if "name_first" in row else "a")
+        if i < 3 or (i + 1) % 50 == 0:
+            print(f"  [{i + 1}/{len(df)}] {time.time() - t0:.0f}s iv={row['interval_ms']} a_first={row['a_first']} "
+                  f"real={store.get('real_resp', [''])[-1][:20]!r} shuf={store.get('shuf_resp', [''])[-1][:20]!r} "
+                  f"seqlen={cap[layers[0]][2]}", flush=True)
+        if (i + 1) % args.save_every == 0:
+            save(part_path, i + 1)
+
+    for h in handles:
+        h.remove()
+    save(out_path, len(df))
+    if part_path.exists():
+        part_path.unlink()
+    print(f"DONE {args.model} n={len(df)} -> {out_path}  ({time.time() - t0:.0f}s; decord calls={SHUF['calls']})", flush=True)
+
+
+if __name__ == "__main__":
+    main()

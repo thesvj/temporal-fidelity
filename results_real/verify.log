@@ -1,0 +1,16 @@
+[PASS] pairs: 600 flipped pairs, 1200 trials, P(gt=1) = 0.500, 0 malformed
+[PASS] cross-category: 0 trials pair two bursts of one category or source
+       trial classes [uniform8]: state 1040, phase-only 160, blind 0
+       trial classes [midpoint8]: state 1036, phase-only 164, blind 0
+       trial classes [molmo2]: state 946, phase-only 254, blind 0
+       trial classes [vcf64]: state 1200, phase-only 0, blind 0
+[PASS] recorded frames: 4800 (sampler, clip) entries expected, 0 missing
+[PASS] encoding leak: 600 pairs, 0 differ outside [f_first, f_second + K - 1)
+[PASS] burst quality: 2400 panel events, 0 below threshold (change after 1 frame >= 0.4, pre vs post >= 1.5)
+[PASS] ideal observer [uniform8]: visible 1040/1040 right, invisible 0/160 decided
+[PASS] ideal observer [midpoint8]: visible 1036/1036 right, invisible 0/164 decided
+[PASS] ideal observer [molmo2]: visible 946/946 right, invisible 0/254 decided
+[PASS] ideal observer [vcf64]: visible 1200/1200 right, invisible 0/0 decided
+[PASS] twins: 240 twins, 0 with a frame that is not frame 0 of the real clip
+
+10/10 checks passed

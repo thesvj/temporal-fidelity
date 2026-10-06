@@ -1,0 +1,120 @@
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00000.avi", "n_frames": 92, "idx": [0, 15, 30, 45, 60, 75, 90, 91]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00000_flip.avi", "n_frames": 92, "idx": [0, 15, 30, 45, 60, 75, 90, 91]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00012.avi", "n_frames": 86, "idx": [0, 15, 30, 45, 60, 75, 85]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00012_flip.avi", "n_frames": 86, "idx": [0, 15, 30, 45, 60, 75, 85]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00024.avi", "n_frames": 95, "idx": [0, 15, 30, 45, 60, 75, 90, 94]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00024_flip.avi", "n_frames": 95, "idx": [0, 15, 30, 45, 60, 75, 90, 94]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00036.avi", "n_frames": 91, "idx": [0, 15, 30, 45, 60, 75, 90]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00036_flip.avi", "n_frames": 91, "idx": [0, 15, 30, 45, 60, 75, 90]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00048.avi", "n_frames": 92, "idx": [0, 15, 30, 45, 60, 75, 90, 91]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_67ms/real_67_00048_flip.avi", "n_frames": 92, "idx": [0, 15, 30, 45, 60, 75, 90, 91]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00001.avi", "n_frames": 99, "idx": [0, 15, 30, 45, 60, 75, 90, 98]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00001_flip.avi", "n_frames": 99, "idx": [0, 15, 30, 45, 60, 75, 90, 98]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00013.avi", "n_frames": 94, "idx": [0, 15, 30, 45, 60, 75, 90, 93]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00013_flip.avi", "n_frames": 94, "idx": [0, 15, 30, 45, 60, 75, 90, 93]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00025.avi", "n_frames": 85, "idx": [0, 15, 30, 45, 60, 75, 84]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00025_flip.avi", "n_frames": 85, "idx": [0, 15, 30, 45, 60, 75, 84]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00037.avi", "n_frames": 80, "idx": [0, 15, 30, 45, 60, 75, 79]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00037_flip.avi", "n_frames": 80, "idx": [0, 15, 30, 45, 60, 75, 79]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00049.avi", "n_frames": 106, "idx": [0, 15, 30, 45, 60, 75, 90, 105]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_100ms/real_100_00049_flip.avi", "n_frames": 106, "idx": [0, 15, 30, 45, 60, 75, 90, 105]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00002.avi", "n_frames": 80, "idx": [0, 15, 30, 45, 60, 75, 79]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00002_flip.avi", "n_frames": 80, "idx": [0, 15, 30, 45, 60, 75, 79]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00014.avi", "n_frames": 92, "idx": [0, 15, 30, 45, 60, 75, 90, 91]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00014_flip.avi", "n_frames": 92, "idx": [0, 15, 30, 45, 60, 75, 90, 91]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00026.avi", "n_frames": 89, "idx": [0, 15, 30, 45, 60, 75, 88]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00026_flip.avi", "n_frames": 89, "idx": [0, 15, 30, 45, 60, 75, 88]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00038.avi", "n_frames": 94, "idx": [0, 15, 30, 45, 60, 75, 90, 93]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00038_flip.avi", "n_frames": 94, "idx": [0, 15, 30, 45, 60, 75, 90, 93]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00050.avi", "n_frames": 105, "idx": [0, 15, 30, 45, 60, 75, 90, 104]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_200ms/real_200_00050_flip.avi", "n_frames": 105, "idx": [0, 15, 30, 45, 60, 75, 90, 104]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00003.avi", "n_frames": 99, "idx": [0, 15, 30, 45, 60, 75, 90, 98]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00003_flip.avi", "n_frames": 99, "idx": [0, 15, 30, 45, 60, 75, 90, 98]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00015.avi", "n_frames": 98, "idx": [0, 15, 30, 45, 60, 75, 90, 97]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00015_flip.avi", "n_frames": 98, "idx": [0, 15, 30, 45, 60, 75, 90, 97]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00027.avi", "n_frames": 95, "idx": [0, 15, 30, 45, 60, 75, 90, 94]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00027_flip.avi", "n_frames": 95, "idx": [0, 15, 30, 45, 60, 75, 90, 94]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00039.avi", "n_frames": 91, "idx": [0, 15, 30, 45, 60, 75, 90]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00039_flip.avi", "n_frames": 91, "idx": [0, 15, 30, 45, 60, 75, 90]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00051.avi", "n_frames": 100, "idx": [0, 15, 30, 45, 60, 75, 90, 99]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_333ms/real_333_00051_flip.avi", "n_frames": 100, "idx": [0, 15, 30, 45, 60, 75, 90, 99]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00004.avi", "n_frames": 115, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 114]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00004_flip.avi", "n_frames": 115, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 114]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00016.avi", "n_frames": 111, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 110]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00016_flip.avi", "n_frames": 111, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 110]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00028.avi", "n_frames": 99, "idx": [0, 15, 30, 45, 60, 75, 90, 98]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00028_flip.avi", "n_frames": 99, "idx": [0, 15, 30, 45, 60, 75, 90, 98]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00040.avi", "n_frames": 112, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 111]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00040_flip.avi", "n_frames": 112, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 111]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00052.avi", "n_frames": 115, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 114]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_500ms/real_500_00052_flip.avi", "n_frames": 115, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 114]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00005.avi", "n_frames": 116, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 115]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00005_flip.avi", "n_frames": 116, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 115]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00017.avi", "n_frames": 117, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 116]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00017_flip.avi", "n_frames": 117, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 116]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00029.avi", "n_frames": 131, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 130]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00029_flip.avi", "n_frames": 131, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 130]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00041.avi", "n_frames": 124, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 123]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00041_flip.avi", "n_frames": 124, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 123]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00053.avi", "n_frames": 112, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 111]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1000ms/real_1000_00053_flip.avi", "n_frames": 112, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 111]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00006.avi", "n_frames": 136, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00006_flip.avi", "n_frames": 136, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00018.avi", "n_frames": 148, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 147]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00018_flip.avi", "n_frames": 148, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 147]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00030.avi", "n_frames": 128, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 127]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00030_flip.avi", "n_frames": 128, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 127]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00042.avi", "n_frames": 134, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 133]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00042_flip.avi", "n_frames": 134, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 133]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00054.avi", "n_frames": 122, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 121]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_1500ms/real_1500_00054_flip.avi", "n_frames": 122, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 121]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00007.avi", "n_frames": 164, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 163]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00007_flip.avi", "n_frames": 164, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 163]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00019.avi", "n_frames": 133, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 132]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00019_flip.avi", "n_frames": 133, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 132]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00031.avi", "n_frames": 146, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 145]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00031_flip.avi", "n_frames": 146, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 145]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00043.avi", "n_frames": 137, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 136]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00043_flip.avi", "n_frames": 137, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 136]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00055.avi", "n_frames": 150, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 149]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_2000ms/real_2000_00055_flip.avi", "n_frames": 150, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 149]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00008.avi", "n_frames": 183, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 182]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00008_flip.avi", "n_frames": 183, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 182]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00020.avi", "n_frames": 181, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00020_flip.avi", "n_frames": 181, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00032.avi", "n_frames": 185, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 184]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00032_flip.avi", "n_frames": 185, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 184]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00044.avi", "n_frames": 166, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00044_flip.avi", "n_frames": 166, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00056.avi", "n_frames": 177, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 176]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_3000ms/real_3000_00056_flip.avi", "n_frames": 177, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 176]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00009.avi", "n_frames": 234, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 233]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00009_flip.avi", "n_frames": 234, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 233]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00021.avi", "n_frames": 234, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 233]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00021_flip.avi", "n_frames": 234, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 233]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00033.avi", "n_frames": 239, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 238]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00033_flip.avi", "n_frames": 239, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 238]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00045.avi", "n_frames": 241, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00045_flip.avi", "n_frames": 241, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00057.avi", "n_frames": 233, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 232]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_5000ms/real_5000_00057_flip.avi", "n_frames": 233, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 232]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00010.avi", "n_frames": 295, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 294]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00010_flip.avi", "n_frames": 295, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 294]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00022.avi", "n_frames": 293, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 292]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00022_flip.avi", "n_frames": 293, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 292]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00034.avi", "n_frames": 282, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 281]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00034_flip.avi", "n_frames": 282, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 281]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00046.avi", "n_frames": 298, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 297]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00046_flip.avi", "n_frames": 298, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 297]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00058.avi", "n_frames": 289, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 288]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_7000ms/real_7000_00058_flip.avi", "n_frames": 289, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 288]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00011.avi", "n_frames": 390, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 389]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00011_flip.avi", "n_frames": 390, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 389]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00023.avi", "n_frames": 385, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 384]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00023_flip.avi", "n_frames": 385, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 384]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00035.avi", "n_frames": 390, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 389]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00035_flip.avi", "n_frames": 390, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 389]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00047.avi", "n_frames": 395, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390, 394]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00047_flip.avi", "n_frames": 395, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390, 394]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00059.avi", "n_frames": 391, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390]}
+{"model": "molmo2", "n": 8, "path": "data/videos_real_pilot/int_10000ms/real_10000_00059_flip.avi", "n_frames": 391, "idx": [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390]}

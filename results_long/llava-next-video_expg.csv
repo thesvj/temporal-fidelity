@@ -1,0 +1,1971 @@
+item,path,interval_ms,a_first,n_frames,gt,pred,margin,top_token,response
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0026.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0086.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0002.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0055.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0075.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0093.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0016.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0073.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0054.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0095.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0053.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0092.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0078.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0013.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0007.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0030.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0022.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0024.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0033.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0008.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0043.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0062.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0003.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0071.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0045.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0048.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0006.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0099.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0082.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0076.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0060.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0080.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0090.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0068.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0051.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0027.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0018.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0056.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_bf_0063.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_67ms/fps30_int67_af_0074.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0026.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0086.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0002.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0055.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0075.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0093.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0016.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0073.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0054.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0095.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0053.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0092.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0078.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0013.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0007.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0030.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0022.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0024.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0033.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0008.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0043.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0062.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0003.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0071.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0045.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0048.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0006.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0099.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0082.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0076.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0060.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0080.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0090.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0068.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0051.mp4,0,False,8,0,0,-0.6868,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0027.mp4,0,False,8,0,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_bf_0018.mp4,0,False,8,0,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0056.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0063.mp4,0,True,8,1,0,-0.9329,No,No
+order_real,data/videos/fps30/int_100ms/fps30_int100_af_0074.mp4,0,True,8,1,0,-0.6868,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0026.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0086.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0002.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0055.mp4,0,True,8,1,0,-0.9353,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0075.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0093.mp4,0,True,8,1,0,-0.9353,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0016.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0073.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0054.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0095.mp4,0,False,8,0,0,-1.0078,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0053.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0092.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0078.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0013.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0007.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0030.mp4,0,False,8,0,0,-1.0078,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0022.mp4,0,False,8,0,0,-1.0078,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0024.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0033.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0008.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0043.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0062.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0003.mp4,0,True,8,1,0,-0.9353,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0071.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0045.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0048.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0006.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0099.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0082.mp4,0,True,8,1,0,-0.706,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0076.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0060.mp4,0,False,8,0,0,-1.0078,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0080.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0090.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0068.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0051.mp4,0,True,8,1,0,-0.9353,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_bf_0027.mp4,0,False,8,0,0,-0.6552,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0018.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0056.mp4,0,True,8,1,0,-0.9353,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0063.mp4,0,True,8,1,0,-0.9353,No,No
+order_real,data/videos/fps30/int_200ms/fps30_int200_af_0074.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0026.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0086.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0002.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0055.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0075.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0093.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0016.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0073.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0054.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0095.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0053.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0092.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0078.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0013.mp4,0,True,8,1,0,-0.9358,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0007.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0030.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0022.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0024.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0033.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0008.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0043.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0062.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0003.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0071.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0045.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0048.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0006.mp4,0,True,8,1,0,-0.9358,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0099.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0082.mp4,0,True,8,1,0,-0.9358,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0076.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0060.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0080.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0090.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0068.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_af_0051.mp4,0,True,8,1,0,-0.9358,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0027.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0018.mp4,0,False,8,0,0,-0.9158,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0056.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0063.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_333ms/fps30_int333_bf_0074.mp4,0,False,8,0,0,-0.6287,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0026.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0086.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0002.mp4,0,True,8,1,0,-0.9486,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0055.mp4,0,True,8,1,0,-0.9486,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0075.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0093.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0016.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0073.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0054.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0095.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0053.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0092.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0078.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0013.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0007.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0030.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0022.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0024.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0033.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0008.mp4,0,True,8,1,0,-0.9486,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0043.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0062.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0003.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0071.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0045.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0048.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0006.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0099.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0082.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0076.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0060.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0080.mp4,0,True,8,1,0,-0.69,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0090.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0068.mp4,0,False,8,0,0,-0.6417,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0051.mp4,0,True,8,1,0,-0.9486,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0027.mp4,0,True,8,1,0,-0.9486,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0018.mp4,0,True,8,1,0,-0.9965,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0056.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_af_0063.mp4,0,True,8,1,0,-0.9486,No,No
+order_real,data/videos/fps30/int_500ms/fps30_int500_bf_0074.mp4,0,False,8,0,0,-0.9026,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0026.mp4,0,True,8,1,0,-1.014,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0086.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0002.mp4,0,True,8,1,0,-1.014,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0055.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0075.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0093.mp4,0,True,8,1,0,-1.014,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0016.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0073.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0054.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0095.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0053.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0092.mp4,0,True,8,1,0,-1.014,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0078.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0013.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0007.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0030.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0022.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0024.mp4,0,True,8,1,0,-1.014,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0033.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0008.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0043.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0062.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0003.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0071.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0045.mp4,0,False,8,0,0,-0.6694,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0048.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0006.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0099.mp4,0,False,8,0,0,-0.6694,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0082.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0076.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0060.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0080.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0090.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0068.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0051.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0027.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0018.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0056.mp4,0,True,8,1,0,-0.9525,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0063.mp4,0,False,8,0,0,-0.9154,No,No
+order_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0074.mp4,0,True,8,1,0,-0.7351,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0026.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0086.mp4,0,True,8,1,0,-0.7235,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0002.mp4,0,True,8,1,0,-0.7235,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0055.mp4,0,False,8,0,0,-0.6112,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0075.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0093.mp4,0,True,8,1,0,-0.7235,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0016.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0073.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0054.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0095.mp4,0,True,8,1,0,-0.7235,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0053.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0092.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0078.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0013.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0007.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0030.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0022.mp4,0,True,8,1,0,-0.9661,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0024.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0033.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0008.mp4,0,False,8,0,0,-0.6112,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0043.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0062.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0003.mp4,0,False,8,0,0,-0.6112,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0071.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0045.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0048.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0006.mp4,0,False,8,0,0,-0.6112,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0099.mp4,0,True,8,1,0,-0.7235,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0082.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0076.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0060.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0080.mp4,0,False,8,0,0,-0.6112,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0090.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0068.mp4,0,False,8,0,0,-0.6112,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0051.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0027.mp4,0,True,8,1,0,-0.7235,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0018.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0056.mp4,0,False,8,0,0,-1.0107,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0063.mp4,0,True,8,1,0,-0.9661,No,No
+order_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0074.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0026.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0086.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0002.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0055.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0075.mp4,0,True,8,1,0,-0.9842,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0093.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0016.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0073.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0054.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0095.mp4,0,True,8,1,0,-0.9842,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0053.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0092.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0078.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0013.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0007.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0030.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0022.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0024.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0033.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0008.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0043.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0062.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0003.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0071.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0045.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0048.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0006.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0099.mp4,0,True,8,1,0,-0.9842,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0082.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0076.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0060.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0080.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0090.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0068.mp4,0,True,8,1,0,-0.7544,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0051.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0027.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0018.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0056.mp4,0,True,8,1,0,-1.0116,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0063.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0074.mp4,0,False,8,0,0,-0.6077,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0026.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0086.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0002.mp4,0,True,8,1,0,-0.77,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0055.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0075.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0093.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0016.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0073.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0054.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0095.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0053.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0092.mp4,0,True,8,1,0,-0.77,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0078.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0013.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0007.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0030.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0022.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0024.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0033.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0008.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0043.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0062.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0003.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0071.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0045.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0048.mp4,0,True,8,1,0,-0.77,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0006.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0099.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0082.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0076.mp4,0,True,8,1,0,-0.77,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0060.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0080.mp4,0,True,8,1,0,-0.77,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0090.mp4,0,True,8,1,0,-1.0135,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0068.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0051.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0027.mp4,0,True,8,1,0,-0.9837,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0018.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0056.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0063.mp4,0,False,8,0,0,-0.6542,No,No
+order_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0074.mp4,0,False,8,0,0,-0.9006,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0026.mp4,0,True,8,1,0,-1.0155,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0086.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0002.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0055.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0075.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0093.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0016.mp4,0,True,8,1,0,-0.9989,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0073.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0054.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0095.mp4,0,True,8,1,0,-1.0155,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0053.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0092.mp4,0,True,8,1,0,-0.9989,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0078.mp4,0,False,8,0,0,-0.6663,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0013.mp4,0,False,8,0,0,-0.6663,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0007.mp4,0,True,8,1,0,-0.9989,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0030.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0022.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0024.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0033.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0008.mp4,0,False,8,0,0,-0.6663,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0043.mp4,0,True,8,1,0,-1.0155,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0062.mp4,0,True,8,1,0,-1.0155,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0003.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0071.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0045.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0048.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0006.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0099.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0082.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0076.mp4,0,True,8,1,0,-1.0155,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0060.mp4,0,True,8,1,0,-0.9989,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0080.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0090.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0068.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0051.mp4,0,False,8,0,0,-0.6663,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0027.mp4,0,False,8,0,0,-0.6663,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0018.mp4,0,False,8,0,0,-0.6663,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0056.mp4,0,False,8,0,0,-0.9945,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0063.mp4,0,True,8,1,0,-0.8012,No,No
+order_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0074.mp4,0,False,8,0,0,-0.9135,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0026.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0086.mp4,0,True,8,1,0,-1.0443,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0002.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0055.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0075.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0093.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0016.mp4,0,False,8,0,0,-0.8964,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0073.mp4,0,True,8,1,0,-0.8031,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0054.mp4,0,False,8,0,0,-0.8964,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0095.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0053.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0092.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0078.mp4,0,True,8,1,0,-0.8031,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0013.mp4,0,True,8,1,0,-1.0443,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0007.mp4,0,False,8,0,0,-0.8964,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0030.mp4,0,True,8,1,0,-1.0443,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0022.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0024.mp4,0,True,8,1,0,-0.8031,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0033.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0008.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0043.mp4,0,True,8,1,0,-1.0443,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0062.mp4,0,False,8,0,0,-0.8964,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0003.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0071.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0045.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0048.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0006.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0099.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0082.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0076.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0060.mp4,0,True,8,1,0,-1.0443,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0080.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0090.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0068.mp4,0,True,8,1,0,-0.8031,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0051.mp4,0,True,8,1,0,-1.0443,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0027.mp4,0,True,8,1,0,-1.0346,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0018.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0056.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0063.mp4,0,False,8,0,0,-1.0083,No,No
+order_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0074.mp4,0,False,8,0,0,-0.592,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0026.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0086.mp4,0,True,8,1,0,-0.8822,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0002.mp4,0,False,8,0,0,-1.022,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0055.mp4,0,False,8,0,0,-1.022,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0075.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0093.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0016.mp4,0,False,8,0,0,-0.6354,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0073.mp4,0,False,8,0,0,-0.6354,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0054.mp4,0,False,8,0,0,-1.022,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0095.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0053.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0092.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0078.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0013.mp4,0,False,8,0,0,-1.022,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0007.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0030.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0022.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0024.mp4,0,False,8,0,0,-1.022,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0033.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0008.mp4,0,False,8,0,0,-0.6354,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0043.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0062.mp4,0,True,8,1,0,-0.8822,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0003.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0071.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0045.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0048.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0006.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0099.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0082.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0076.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0060.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0080.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0090.mp4,0,False,8,0,0,-1.022,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0068.mp4,0,False,8,0,0,-0.6354,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0051.mp4,0,False,8,0,0,-0.9139,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0027.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0018.mp4,0,True,8,1,0,-1.0382,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0056.mp4,0,True,8,1,0,-0.8822,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0063.mp4,0,True,8,1,0,-1.0508,No,No
+order_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0074.mp4,0,False,8,0,0,-0.6354,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0080.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0080.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0080.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0080.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_bf_0080.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0080.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0084.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0084.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0084.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0084.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_bf_0084.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0084.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0033.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0033.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0033.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0033.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_af_0033.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0033.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0081.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0081.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0081.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0081.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_af_0081.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0081.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0093.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0093.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0093.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0093.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_bf_0093.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0093.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0017.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0017.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0017.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0017.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_af_0017.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0017.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0036.mp4,0,True,32,1,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0036.mp4,0,True,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0036.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0036.mp4,0,True,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_af_0036.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0036.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0082.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0082.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0082.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0082.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_bf_0082.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0082.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0069.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0069.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0069.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0069.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_af_0069.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0069.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0065.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0065.mp4,0,False,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0065.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0065.mp4,0,False,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_bf_0065.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0065.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0092.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0092.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0092.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0092.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_bf_0092.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0092.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0039.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0039.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0039.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0039.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_af_0039.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0039.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0056.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0056.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0056.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0056.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_bf_0056.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0056.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0052.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0052.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0052.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0052.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_bf_0052.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0052.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0051.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0051.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0051.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0051.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_af_0051.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0051.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0032.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0032.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0032.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0032.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_bf_0032.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0032.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_bf_0031.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_bf_0031.mp4,0,False,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int67_bf_0031.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_bf_0031.mp4,0,False,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_bf_0031.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_bf_0031.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0044.mp4,0,True,32,1,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0044.mp4,0,True,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0044.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0044.mp4,0,True,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_af_0044.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0044.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0078.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0078.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0078.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0078.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int67_af_0078.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0078.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_67ms/fps30_int67_af_0010.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_67ms/fps30_int67_af_0010.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int67_af_0010.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_67ms/fps30_int67_af_0010.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int67_af_0010.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int67_af_0010.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0080.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0080.mp4,0,False,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0080.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0080.mp4,0,False,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0080.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0080.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0084.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0084.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0084.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0084.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0084.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0084.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0033.mp4,0,True,32,1,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0033.mp4,0,True,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0033.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0033.mp4,0,True,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0033.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0033.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0081.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0081.mp4,0,False,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0081.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0081.mp4,0,False,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0081.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0081.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0093.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0093.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0093.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0093.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0093.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0093.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0017.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0017.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0017.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0017.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int100_af_0017.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0017.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0036.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0036.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0036.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0036.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0036.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0036.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0082.mp4,0,True,32,1,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0082.mp4,0,True,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0082.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0082.mp4,0,True,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0082.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0082.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0069.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0069.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0069.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0069.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int100_bf_0069.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0069.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0065.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0065.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0065.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0065.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0065.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0065.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0092.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0092.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0092.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0092.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0092.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0092.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0039.mp4,0,True,32,1,0,-0.7251,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0039.mp4,0,True,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0039.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0039.mp4,0,True,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int100_af_0039.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0039.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0056.mp4,0,True,32,1,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0056.mp4,0,True,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0056.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0056.mp4,0,True,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0056.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0056.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0052.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0052.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0052.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0052.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0052.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0052.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0051.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0051.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0051.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0051.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int100_bf_0051.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0051.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0032.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0032.mp4,0,False,8,1,0,-2.4318,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0032.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0032.mp4,0,False,8,0,1,0.1192,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0032.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0032.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0031.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0031.mp4,0,False,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0031.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0031.mp4,0,False,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_bf_0031.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0031.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0044.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0044.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0044.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0044.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0044.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0044.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_af_0078.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_af_0078.mp4,0,True,8,1,0,-2.1392,No,No.
+moved_twin,data/twin_videos/fps30_int100_af_0078.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_100ms/fps30_int100_af_0078.mp4,0,True,8,0,1,0.1765,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int100_af_0078.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_af_0078.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_100ms/fps30_int100_bf_0010.mp4,0,False,32,0,0,-0.6956,No,No.
+moved_real,data/videos/fps30/int_100ms/fps30_int100_bf_0010.mp4,0,False,8,1,0,-2.1909,No,No.
+moved_twin,data/twin_videos/fps30_int100_bf_0010.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_100ms/fps30_int100_bf_0010.mp4,0,False,8,0,0,-0.1661,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int100_bf_0010.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int100_bf_0010.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0080.mp4,0,True,32,1,0,-0.6814,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0080.mp4,0,True,8,1,0,-2.4214,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0080.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0080.mp4,0,True,8,0,1,0.0894,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0080.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0080.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0084.mp4,0,False,32,0,0,-0.7715,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0084.mp4,0,False,8,1,0,-2.1036,No,No.
+moved_twin,data/twin_videos/fps30_int200_bf_0084.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0084.mp4,0,False,8,0,1,0.1045,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_bf_0084.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0084.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0033.mp4,0,True,32,1,0,-0.7237,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0033.mp4,0,True,8,1,0,-2.1647,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0033.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0033.mp4,0,True,8,0,0,-0.1988,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_af_0033.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0033.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0081.mp4,0,False,32,0,0,-0.7715,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0081.mp4,0,False,8,1,0,-2.1036,No,No.
+moved_twin,data/twin_videos/fps30_int200_bf_0081.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0081.mp4,0,False,8,0,1,0.1045,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_bf_0081.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0081.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0093.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0093.mp4,0,True,8,1,0,-2.1235,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0093.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0093.mp4,0,True,8,0,1,0.1201,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0093.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0093.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0017.mp4,0,False,32,0,0,-0.6812,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0017.mp4,0,False,8,1,0,-2.0491,No,No
+moved_twin,data/twin_videos/fps30_int200_bf_0017.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0017.mp4,0,False,8,0,0,-0.1935,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_bf_0017.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0017.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0036.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0036.mp4,0,True,8,1,0,-2.1235,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0036.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0036.mp4,0,True,8,0,1,0.1201,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0036.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0036.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0082.mp4,0,True,32,1,0,-0.7237,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0082.mp4,0,True,8,1,0,-2.1647,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0082.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0082.mp4,0,True,8,0,0,-0.1988,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_af_0082.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0082.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0069.mp4,0,False,32,0,0,-0.6812,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0069.mp4,0,False,8,1,0,-2.0491,No,No
+moved_twin,data/twin_videos/fps30_int200_bf_0069.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0069.mp4,0,False,8,0,0,-0.1935,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_bf_0069.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0069.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0065.mp4,0,True,32,1,0,-0.6814,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0065.mp4,0,True,8,1,0,-2.4214,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0065.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0065.mp4,0,True,8,0,1,0.0894,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0065.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0065.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0092.mp4,0,False,32,0,0,-0.6812,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0092.mp4,0,False,8,1,0,-2.0491,No,No
+moved_twin,data/twin_videos/fps30_int200_bf_0092.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0092.mp4,0,False,8,0,0,-0.1935,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_bf_0092.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0092.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0039.mp4,0,False,32,0,0,-0.6812,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0039.mp4,0,False,8,1,0,-2.0491,No,No
+moved_twin,data/twin_videos/fps30_int200_bf_0039.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0039.mp4,0,False,8,0,0,-0.1935,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_bf_0039.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0039.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0056.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0056.mp4,0,True,8,1,0,-2.1235,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0056.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0056.mp4,0,True,8,0,1,0.1201,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0056.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0056.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0052.mp4,0,False,32,0,0,-0.7715,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0052.mp4,0,False,8,1,0,-2.1036,No,No.
+moved_twin,data/twin_videos/fps30_int200_bf_0052.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0052.mp4,0,False,8,0,1,0.1045,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_bf_0052.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0052.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0051.mp4,0,True,32,1,0,-0.7735,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0051.mp4,0,True,8,1,0,-2.1235,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0051.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0051.mp4,0,True,8,0,1,0.1201,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0051.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0051.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0032.mp4,0,True,32,1,0,-0.6814,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0032.mp4,0,True,8,1,0,-2.4214,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0032.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0032.mp4,0,True,8,0,1,0.0894,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0032.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0032.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0031.mp4,0,False,32,0,0,-0.6812,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0031.mp4,0,False,8,1,0,-2.0491,No,No
+moved_twin,data/twin_videos/fps30_int200_bf_0031.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0031.mp4,0,False,8,0,0,-0.1935,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_bf_0031.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0031.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0044.mp4,0,False,32,0,0,-0.6812,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0044.mp4,0,False,8,1,0,-2.0491,No,No
+moved_twin,data/twin_videos/fps30_int200_bf_0044.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0044.mp4,0,False,8,0,0,-0.1935,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int200_bf_0044.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0044.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_af_0078.mp4,0,True,32,1,0,-0.6814,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_af_0078.mp4,0,True,8,1,0,-2.4214,No,No.
+moved_twin,data/twin_videos/fps30_int200_af_0078.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_af_0078.mp4,0,True,8,0,1,0.0894,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_af_0078.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_af_0078.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_200ms/fps30_int200_bf_0010.mp4,0,False,32,0,0,-0.6832,No,No.
+moved_real,data/videos/fps30/int_200ms/fps30_int200_bf_0010.mp4,0,False,8,1,0,-2.4167,No,No.
+moved_twin,data/twin_videos/fps30_int200_bf_0010.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_200ms/fps30_int200_bf_0010.mp4,0,False,8,0,1,0.074,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int200_bf_0010.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int200_bf_0010.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0080.mp4,0,True,32,1,0,-0.6817,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0080.mp4,0,True,8,1,0,-2.3751,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0080.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0080.mp4,0,True,8,0,1,0.0616,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0080.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0080.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0084.mp4,0,True,32,1,0,-0.7393,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0084.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0084.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0084.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_af_0084.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0084.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0033.mp4,0,True,32,1,0,-0.6817,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0033.mp4,0,True,8,1,0,-2.3751,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0033.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0033.mp4,0,True,8,0,1,0.0616,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0033.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0033.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0081.mp4,0,True,32,1,0,-0.7393,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0081.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0081.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0081.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_af_0081.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0081.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0093.mp4,0,False,32,0,0,-0.6851,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0093.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0093.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0093.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_bf_0093.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0093.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0017.mp4,0,False,32,0,0,-0.6851,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0017.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0017.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0017.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_bf_0017.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0017.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0036.mp4,0,False,32,0,0,-0.7562,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0036.mp4,0,False,8,1,0,-2.0702,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0036.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0036.mp4,0,False,8,0,1,0.0774,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_bf_0036.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0036.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0082.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0082.mp4,0,True,8,1,0,-2.1105,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0082.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0082.mp4,0,True,8,0,1,0.1041,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0082.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0082.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0069.mp4,0,False,32,0,0,-0.6851,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0069.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0069.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0069.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_bf_0069.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0069.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0065.mp4,0,True,32,1,0,-0.7393,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0065.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0065.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0065.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_af_0065.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0065.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0092.mp4,0,False,32,0,0,-0.7562,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0092.mp4,0,False,8,1,0,-2.0702,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0092.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0092.mp4,0,False,8,0,1,0.0774,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_bf_0092.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0092.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0039.mp4,0,True,32,1,0,-0.7393,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0039.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0039.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0039.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_af_0039.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0039.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0056.mp4,0,False,32,0,0,-0.6782,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0056.mp4,0,False,8,1,0,-1.9851,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0056.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0056.mp4,0,False,8,0,0,-0.1627,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_bf_0056.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0056.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0052.mp4,0,True,32,1,0,-0.6817,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0052.mp4,0,True,8,1,0,-2.3751,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0052.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0052.mp4,0,True,8,0,1,0.0616,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0052.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0052.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0051.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0051.mp4,0,True,8,1,0,-2.1105,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0051.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0051.mp4,0,True,8,0,1,0.1041,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0051.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0051.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0032.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0032.mp4,0,True,8,1,0,-2.1105,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0032.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0032.mp4,0,True,8,0,1,0.1041,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0032.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0032.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_af_0031.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_af_0031.mp4,0,True,8,1,0,-2.1105,No,No.
+moved_twin,data/twin_videos/fps30_int333_af_0031.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_af_0031.mp4,0,True,8,0,1,0.1041,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_af_0031.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_af_0031.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0044.mp4,0,False,32,0,0,-0.6851,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0044.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0044.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0044.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int333_bf_0044.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0044.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0078.mp4,0,False,32,0,0,-0.6782,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0078.mp4,0,False,8,1,0,-1.9851,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0078.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0078.mp4,0,False,8,0,0,-0.1627,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_bf_0078.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0078.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_333ms/fps30_int333_bf_0010.mp4,0,False,32,0,0,-0.6782,No,No.
+moved_real,data/videos/fps30/int_333ms/fps30_int333_bf_0010.mp4,0,False,8,1,0,-1.9851,No,No.
+moved_twin,data/twin_videos/fps30_int333_bf_0010.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_333ms/fps30_int333_bf_0010.mp4,0,False,8,0,0,-0.1627,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int333_bf_0010.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int333_bf_0010.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0080.mp4,0,True,32,1,0,-0.7381,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0080.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0080.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0080.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int500_af_0080.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0080.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0084.mp4,0,False,32,0,0,-0.6971,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0084.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0084.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0084.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0084.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0084.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0033.mp4,0,True,32,1,0,-0.7381,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0033.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0033.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0033.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int500_af_0033.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0033.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0081.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0081.mp4,0,False,8,1,0,-2.0593,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0081.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0081.mp4,0,False,8,0,1,0.0759,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0081.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0081.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0093.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0093.mp4,0,False,8,1,0,-2.0593,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0093.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0093.mp4,0,False,8,0,1,0.0759,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0093.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0093.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0017.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0017.mp4,0,True,8,1,0,-2.1079,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0017.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0017.mp4,0,True,8,0,1,0.0886,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0017.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0017.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0036.mp4,0,False,32,0,0,-0.6971,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0036.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0036.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0036.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0036.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0036.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0082.mp4,0,False,32,0,0,-0.6487,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0082.mp4,0,False,8,1,0,-1.9851,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0082.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0082.mp4,0,False,8,0,0,-0.178,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int500_bf_0082.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0082.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0069.mp4,0,False,32,0,0,-0.6971,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0069.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0069.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0069.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0069.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0069.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0065.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0065.mp4,0,False,8,1,0,-2.0593,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0065.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0065.mp4,0,False,8,0,1,0.0759,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0065.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0065.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0092.mp4,0,True,32,1,0,-0.7381,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0092.mp4,0,True,8,1,0,-2.1183,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0092.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0092.mp4,0,True,8,0,0,-0.1976,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int500_af_0092.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0092.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0039.mp4,0,True,32,1,0,-0.6802,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0039.mp4,0,True,8,1,0,-2.3907,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0039.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0039.mp4,0,True,8,0,1,0.0598,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0039.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0039.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0056.mp4,0,False,32,0,0,-0.7718,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0056.mp4,0,False,8,1,0,-2.0593,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0056.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0056.mp4,0,False,8,0,1,0.0759,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0056.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0056.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0052.mp4,0,True,32,1,0,-0.6802,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0052.mp4,0,True,8,1,0,-2.3907,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0052.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0052.mp4,0,True,8,0,1,0.0598,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0052.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0052.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0051.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0051.mp4,0,True,8,1,0,-2.1079,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0051.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0051.mp4,0,True,8,0,1,0.0886,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0051.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0051.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0032.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0032.mp4,0,True,8,1,0,-2.1079,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0032.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0032.mp4,0,True,8,0,1,0.0886,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0032.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0032.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0031.mp4,0,False,32,0,0,-0.6971,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0031.mp4,0,False,8,1,0,-2.3832,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0031.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0031.mp4,0,False,8,0,1,0.0771,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_bf_0031.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0031.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0044.mp4,0,True,32,1,0,-0.6802,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0044.mp4,0,True,8,1,0,-2.3907,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0044.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0044.mp4,0,True,8,0,1,0.0598,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0044.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0044.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_bf_0078.mp4,0,False,32,0,0,-0.6487,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_bf_0078.mp4,0,False,8,1,0,-1.9851,No,No.
+moved_twin,data/twin_videos/fps30_int500_bf_0078.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_500ms/fps30_int500_bf_0078.mp4,0,False,8,0,0,-0.178,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int500_bf_0078.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_bf_0078.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_500ms/fps30_int500_af_0010.mp4,0,True,32,1,0,-0.7721,No,No.
+moved_real,data/videos/fps30/int_500ms/fps30_int500_af_0010.mp4,0,True,8,1,0,-2.1079,No,No.
+moved_twin,data/twin_videos/fps30_int500_af_0010.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_500ms/fps30_int500_af_0010.mp4,0,True,8,0,1,0.0886,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int500_af_0010.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int500_af_0010.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0080.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0080.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0080.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0080.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0080.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0080.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0084.mp4,0,False,32,0,0,-0.6502,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0084.mp4,0,False,8,1,0,-2.0652,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0084.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0084.mp4,0,False,8,0,0,-0.1335,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_bf_0084.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0084.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0033.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0033.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0033.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0033.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0033.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0033.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0081.mp4,0,False,32,0,0,-0.6502,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0081.mp4,0,False,8,1,0,-2.0652,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0081.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0081.mp4,0,False,8,0,0,-0.1335,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_bf_0081.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0081.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0093.mp4,0,True,32,1,0,-0.6802,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0093.mp4,0,True,8,1,0,-2.4238,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0093.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0093.mp4,0,True,8,0,1,0.0881,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_af_0093.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0093.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0017.mp4,0,False,32,0,0,-0.6502,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0017.mp4,0,False,8,1,0,-2.0652,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0017.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0017.mp4,0,False,8,0,0,-0.1335,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_bf_0017.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0017.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0036.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0036.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0036.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0036.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0036.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0036.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0082.mp4,0,False,32,0,0,-0.7139,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0082.mp4,0,False,8,1,0,-2.4451,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0082.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0082.mp4,0,False,8,0,1,0.1069,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_bf_0082.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0082.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0069.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0069.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0069.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0069.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0069.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0069.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0065.mp4,0,True,32,1,0,-0.6802,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0065.mp4,0,True,8,1,0,-2.4238,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0065.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0065.mp4,0,True,8,0,1,0.0881,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_af_0065.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0065.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0092.mp4,0,True,32,1,0,-0.6802,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0092.mp4,0,True,8,1,0,-2.4238,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0092.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0092.mp4,0,True,8,0,1,0.0881,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_af_0092.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0092.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0039.mp4,0,False,32,0,0,-0.7732,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0039.mp4,0,False,8,1,0,-2.1192,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0039.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0039.mp4,0,False,8,0,1,0.1641,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_bf_0039.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0039.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0056.mp4,0,True,32,1,0,-0.7874,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0056.mp4,0,True,8,1,0,-2.1565,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0056.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0056.mp4,0,True,8,0,1,0.1904,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_af_0056.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0056.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0052.mp4,0,False,32,0,0,-0.6502,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0052.mp4,0,False,8,1,0,-2.0652,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0052.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0052.mp4,0,False,8,0,0,-0.1335,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_bf_0052.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0052.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0051.mp4,0,True,32,1,0,-0.7874,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0051.mp4,0,True,8,1,0,-2.1565,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0051.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0051.mp4,0,True,8,0,1,0.1904,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_af_0051.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0051.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0032.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0032.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0032.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0032.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0032.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0032.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0031.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0031.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0031.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0031.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0031.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0031.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0044.mp4,0,False,32,0,0,-0.6502,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0044.mp4,0,False,8,1,0,-2.0652,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0044.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0044.mp4,0,False,8,0,0,-0.1335,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_bf_0044.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0044.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_af_0078.mp4,0,True,32,1,0,-0.7989,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0078.mp4,0,True,8,1,0,-2.2622,No,No.
+moved_twin,data/twin_videos/fps30_int1000_af_0078.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_af_0078.mp4,0,True,8,0,0,-0.1702,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1000_af_0078.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_af_0078.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1000ms/fps30_int1000_bf_0010.mp4,0,False,32,0,0,-0.7732,No,No.
+moved_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0010.mp4,0,False,8,1,0,-2.1192,No,No.
+moved_twin,data/twin_videos/fps30_int1000_bf_0010.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1000ms/fps30_int1000_bf_0010.mp4,0,False,8,0,1,0.1641,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1000_bf_0010.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1000_bf_0010.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0080.mp4,0,False,32,0,0,-0.6205,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0080.mp4,0,False,8,1,0,-1.8874,No,No
+moved_twin,data/twin_videos/fps30_int1500_bf_0080.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0080.mp4,0,False,8,0,0,-0.1611,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_bf_0080.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0080.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0084.mp4,0,False,32,0,0,-0.7699,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0084.mp4,0,False,8,1,0,-2.0686,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0084.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0084.mp4,0,False,8,0,1,0.0645,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0084.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0084.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0033.mp4,0,False,32,0,0,-0.7142,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0033.mp4,0,False,8,1,0,-2.3965,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0033.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0033.mp4,0,False,8,0,1,0.0975,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0033.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0033.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0081.mp4,0,False,32,0,0,-0.6205,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0081.mp4,0,False,8,1,0,-1.8874,No,No
+moved_twin,data/twin_videos/fps30_int1500_bf_0081.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0081.mp4,0,False,8,0,0,-0.1611,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_bf_0081.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0081.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0093.mp4,0,True,32,1,0,-0.7975,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0093.mp4,0,True,8,1,0,-2.1824,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0093.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0093.mp4,0,True,8,0,0,-0.2132,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_af_0093.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0093.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0017.mp4,0,True,32,1,0,-0.7975,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0017.mp4,0,True,8,1,0,-2.1824,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0017.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0017.mp4,0,True,8,0,0,-0.2132,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_af_0017.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0017.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0036.mp4,0,True,32,1,0,-0.6646,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0036.mp4,0,True,8,1,0,-2.3624,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0036.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0036.mp4,0,True,8,0,1,0.0444,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_af_0036.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0036.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0082.mp4,0,False,32,0,0,-0.7699,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0082.mp4,0,False,8,1,0,-2.0686,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0082.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0082.mp4,0,False,8,0,1,0.0645,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0082.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0082.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0069.mp4,0,True,32,1,0,-0.7975,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0069.mp4,0,True,8,1,0,-2.1824,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0069.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0069.mp4,0,True,8,0,0,-0.2132,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_af_0069.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0069.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0065.mp4,0,False,32,0,0,-0.7699,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0065.mp4,0,False,8,1,0,-2.0686,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0065.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0065.mp4,0,False,8,0,1,0.0645,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0065.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0065.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0092.mp4,0,False,32,0,0,-0.7699,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0092.mp4,0,False,8,1,0,-2.0686,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0092.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0092.mp4,0,False,8,0,1,0.0645,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0092.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0092.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0039.mp4,0,False,32,0,0,-0.6205,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0039.mp4,0,False,8,1,0,-1.8874,No,No
+moved_twin,data/twin_videos/fps30_int1500_bf_0039.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0039.mp4,0,False,8,0,0,-0.1611,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_bf_0039.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0039.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0056.mp4,0,False,32,0,0,-0.7142,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0056.mp4,0,False,8,1,0,-2.3965,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0056.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0056.mp4,0,False,8,0,1,0.0975,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0056.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0056.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0052.mp4,0,True,32,1,0,-0.6646,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0052.mp4,0,True,8,1,0,-2.3624,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0052.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0052.mp4,0,True,8,0,1,0.0444,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_af_0052.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0052.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0051.mp4,0,False,32,0,0,-0.7142,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0051.mp4,0,False,8,1,0,-2.3965,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0051.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0051.mp4,0,False,8,0,1,0.0975,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0051.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0051.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0032.mp4,0,False,32,0,0,-0.7142,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0032.mp4,0,False,8,1,0,-2.3965,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0032.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0032.mp4,0,False,8,0,1,0.0975,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0032.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0032.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0031.mp4,0,False,32,0,0,-0.6205,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0031.mp4,0,False,8,1,0,-1.8874,No,No
+moved_twin,data/twin_videos/fps30_int1500_bf_0031.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0031.mp4,0,False,8,0,0,-0.1611,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int1500_bf_0031.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0031.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0044.mp4,0,True,32,1,0,-0.6646,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0044.mp4,0,True,8,1,0,-2.3624,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0044.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0044.mp4,0,True,8,0,1,0.0444,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_af_0044.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0044.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_af_0078.mp4,0,True,32,1,0,-0.6646,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0078.mp4,0,True,8,1,0,-2.3624,No,No.
+moved_twin,data/twin_videos/fps30_int1500_af_0078.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_af_0078.mp4,0,True,8,0,1,0.0444,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_af_0078.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_af_0078.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_1500ms/fps30_int1500_bf_0010.mp4,0,False,32,0,0,-0.7142,No,No.
+moved_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0010.mp4,0,False,8,1,0,-2.3965,No,No.
+moved_twin,data/twin_videos/fps30_int1500_bf_0010.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_1500ms/fps30_int1500_bf_0010.mp4,0,False,8,0,1,0.0975,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int1500_bf_0010.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int1500_bf_0010.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0080.mp4,0,True,32,1,0,-0.6649,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0080.mp4,0,True,8,1,0,-2.3931,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0080.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0080.mp4,0,True,8,0,1,0.0565,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_af_0080.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0080.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0084.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0084.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0084.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0084.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0084.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0084.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0033.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0033.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0033.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0033.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0033.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0033.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0081.mp4,0,False,32,0,0,-0.7869,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0081.mp4,0,False,8,1,0,-2.115,No,No.
+moved_twin,data/twin_videos/fps30_int2000_bf_0081.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0081.mp4,0,False,8,0,1,0.0903,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_bf_0081.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0081.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0093.mp4,0,False,32,0,0,-0.7869,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0093.mp4,0,False,8,1,0,-2.115,No,No.
+moved_twin,data/twin_videos/fps30_int2000_bf_0093.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0093.mp4,0,False,8,0,1,0.0903,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_bf_0093.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0093.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0017.mp4,0,False,32,0,0,-0.7869,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0017.mp4,0,False,8,1,0,-2.115,No,No.
+moved_twin,data/twin_videos/fps30_int2000_bf_0017.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0017.mp4,0,False,8,0,1,0.0903,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_bf_0017.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0017.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0036.mp4,0,True,32,1,0,-0.6649,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0036.mp4,0,True,8,1,0,-2.3931,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0036.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0036.mp4,0,True,8,0,1,0.0565,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_af_0036.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0036.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0082.mp4,0,False,32,0,0,-0.7869,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0082.mp4,0,False,8,1,0,-2.115,No,No.
+moved_twin,data/twin_videos/fps30_int2000_bf_0082.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0082.mp4,0,False,8,0,1,0.0903,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_bf_0082.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0082.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0069.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0069.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0069.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0069.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0069.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0069.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0065.mp4,0,True,32,1,0,-0.6649,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0065.mp4,0,True,8,1,0,-2.3931,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0065.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0065.mp4,0,True,8,0,1,0.0565,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_af_0065.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0065.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0092.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0092.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0092.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0092.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0092.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0092.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0039.mp4,0,True,32,1,0,-0.8288,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0039.mp4,0,True,8,1,0,-2.2336,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0039.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0039.mp4,0,True,8,0,0,-0.2016,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_af_0039.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0039.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0056.mp4,0,True,32,1,0,-0.6649,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0056.mp4,0,True,8,1,0,-2.3931,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0056.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0056.mp4,0,True,8,0,1,0.0565,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_af_0056.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0056.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0052.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0052.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0052.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0052.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0052.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0052.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0051.mp4,0,True,32,1,0,-0.6649,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0051.mp4,0,True,8,1,0,-2.3931,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0051.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0051.mp4,0,True,8,0,1,0.0565,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_af_0051.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0051.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0032.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0032.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0032.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0032.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0032.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0032.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0031.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0031.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0031.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0031.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0031.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0031.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_af_0044.mp4,0,True,32,1,0,-0.6649,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0044.mp4,0,True,8,1,0,-2.3931,No,No.
+moved_twin,data/twin_videos/fps30_int2000_af_0044.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_af_0044.mp4,0,True,8,0,1,0.0565,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_af_0044.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_af_0044.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0078.mp4,0,False,32,0,0,-0.7157,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0078.mp4,0,False,8,1,0,-2.4429,No,No.
+moved_twin,data/twin_videos/fps30_int2000_bf_0078.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0078.mp4,0,False,8,0,1,0.0947,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int2000_bf_0078.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0078.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_2000ms/fps30_int2000_bf_0010.mp4,0,False,32,0,0,-0.6361,No,No.
+moved_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0010.mp4,0,False,8,1,0,-1.9315,No,No
+moved_twin,data/twin_videos/fps30_int2000_bf_0010.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_2000ms/fps30_int2000_bf_0010.mp4,0,False,8,0,0,-0.1454,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int2000_bf_0010.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int2000_bf_0010.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0080.mp4,0,True,32,1,0,-0.8276,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0080.mp4,0,True,8,1,0,-2.2978,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0080.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0080.mp4,0,True,8,0,0,-0.1874,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_af_0080.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0080.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0084.mp4,0,False,32,0,0,-0.7154,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0084.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0084.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0084.mp4,0,False,8,0,1,0.1119,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0084.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0084.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0033.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0033.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0033.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0033.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0033.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0033.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0081.mp4,0,True,32,1,0,-0.6666,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0081.mp4,0,True,8,1,0,-2.4106,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0081.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0081.mp4,0,True,8,0,1,0.0689,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_af_0081.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0081.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0093.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0093.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0093.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0093.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0093.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0093.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0017.mp4,0,False,32,0,0,-0.6064,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0017.mp4,0,False,8,1,0,-1.9803,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0017.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0017.mp4,0,False,8,0,0,-0.1012,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_bf_0017.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0017.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0036.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0036.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0036.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0036.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0036.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0036.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0082.mp4,0,True,32,1,0,-0.8068,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0082.mp4,0,True,8,1,0,-2.1771,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0082.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0082.mp4,0,True,8,0,1,0.1903,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_af_0082.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0082.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0069.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0069.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0069.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0069.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0069.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0069.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0065.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0065.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0065.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0065.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0065.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0065.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0092.mp4,0,True,32,1,0,-0.8276,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0092.mp4,0,True,8,1,0,-2.2978,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0092.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0092.mp4,0,True,8,0,0,-0.1874,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_af_0092.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0092.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0039.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0039.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0039.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0039.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0039.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0039.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0056.mp4,0,False,32,0,0,-0.6064,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0056.mp4,0,False,8,1,0,-1.9803,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0056.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0056.mp4,0,False,8,0,0,-0.1012,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_bf_0056.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0056.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0052.mp4,0,False,32,0,0,-0.6064,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0052.mp4,0,False,8,1,0,-1.9803,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0052.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0052.mp4,0,False,8,0,0,-0.1012,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_bf_0052.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0052.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0051.mp4,0,False,32,0,0,-0.7709,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0051.mp4,0,False,8,1,0,-2.1171,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0051.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0051.mp4,0,False,8,0,1,0.1528,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_bf_0051.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0051.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_bf_0032.mp4,0,False,32,0,0,-0.6064,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0032.mp4,0,False,8,1,0,-1.9803,No,No.
+moved_twin,data/twin_videos/fps30_int3000_bf_0032.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_bf_0032.mp4,0,False,8,0,0,-0.1012,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_bf_0032.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_bf_0032.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0031.mp4,0,True,32,1,0,-0.6666,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0031.mp4,0,True,8,1,0,-2.4106,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0031.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0031.mp4,0,True,8,0,1,0.0689,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_af_0031.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0031.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0044.mp4,0,True,32,1,0,-0.8276,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0044.mp4,0,True,8,1,0,-2.2978,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0044.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0044.mp4,0,True,8,0,0,-0.1874,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_af_0044.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0044.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0078.mp4,0,True,32,1,0,-0.6666,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0078.mp4,0,True,8,1,0,-2.4106,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0078.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0078.mp4,0,True,8,0,1,0.0689,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int3000_af_0078.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0078.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_3000ms/fps30_int3000_af_0010.mp4,0,True,32,1,0,-0.8276,No,No.
+moved_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0010.mp4,0,True,8,1,0,-2.2978,No,No.
+moved_twin,data/twin_videos/fps30_int3000_af_0010.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_3000ms/fps30_int3000_af_0010.mp4,0,True,8,0,0,-0.1874,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int3000_af_0010.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int3000_af_0010.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0080.mp4,0,False,32,0,0,-0.7576,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0080.mp4,0,False,8,1,0,-2.1323,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0080.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0080.mp4,0,False,8,0,1,0.153,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0080.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0080.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0084.mp4,0,False,32,0,0,-0.7295,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0084.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0084.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0084.mp4,0,False,8,0,1,0.1273,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0084.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0084.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0033.mp4,0,False,32,0,0,-0.7576,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0033.mp4,0,False,8,1,0,-2.1323,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0033.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0033.mp4,0,False,8,0,1,0.153,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0033.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0033.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0081.mp4,0,True,32,1,0,-0.8068,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0081.mp4,0,True,8,1,0,-2.2079,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0081.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0081.mp4,0,True,8,0,1,0.2061,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_af_0081.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0081.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0093.mp4,0,False,32,0,0,-0.7295,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0093.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0093.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0093.mp4,0,False,8,0,1,0.1273,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0093.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0093.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0017.mp4,0,True,32,1,0,-0.8068,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0017.mp4,0,True,8,1,0,-2.2079,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0017.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0017.mp4,0,True,8,0,1,0.2061,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_af_0017.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0017.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0036.mp4,0,False,32,0,0,-0.589,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0036.mp4,0,False,8,1,0,-1.9788,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0036.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0036.mp4,0,False,8,0,0,-0.1152,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_bf_0036.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0036.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0082.mp4,0,True,32,1,0,-0.8575,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0082.mp4,0,True,8,1,0,-2.3313,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0082.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0082.mp4,0,True,8,0,0,-0.1744,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_af_0082.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0082.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0069.mp4,0,False,32,0,0,-0.589,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0069.mp4,0,False,8,1,0,-1.9788,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0069.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0069.mp4,0,False,8,0,0,-0.1152,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_bf_0069.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0069.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0065.mp4,0,True,32,1,0,-0.8575,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0065.mp4,0,True,8,1,0,-2.3313,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0065.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0065.mp4,0,True,8,0,0,-0.1744,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_af_0065.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0065.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0092.mp4,0,True,32,1,0,-0.8068,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0092.mp4,0,True,8,1,0,-2.2079,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0092.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0092.mp4,0,True,8,0,1,0.2061,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_af_0092.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0092.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0039.mp4,0,False,32,0,0,-0.7576,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0039.mp4,0,False,8,1,0,-2.1323,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0039.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0039.mp4,0,False,8,0,1,0.153,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0039.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0039.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0056.mp4,0,False,32,0,0,-0.7295,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0056.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0056.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0056.mp4,0,False,8,0,1,0.1273,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0056.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0056.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0052.mp4,0,True,32,1,0,-0.8575,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0052.mp4,0,True,8,1,0,-2.3313,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0052.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0052.mp4,0,True,8,0,0,-0.1744,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_af_0052.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0052.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0051.mp4,0,False,32,0,0,-0.589,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0051.mp4,0,False,8,1,0,-1.9788,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0051.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0051.mp4,0,False,8,0,0,-0.1152,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_bf_0051.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0051.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0032.mp4,0,False,32,0,0,-0.7295,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0032.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0032.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0032.mp4,0,False,8,0,1,0.1273,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0032.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0032.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0031.mp4,0,False,32,0,0,-0.7295,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0031.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0031.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0031.mp4,0,False,8,0,1,0.1273,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0031.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0031.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0044.mp4,0,False,32,0,0,-0.7295,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0044.mp4,0,False,8,1,0,-2.4557,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0044.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0044.mp4,0,False,8,0,1,0.1273,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int5000_bf_0044.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0044.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_bf_0078.mp4,0,False,32,0,0,-0.589,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0078.mp4,0,False,8,1,0,-1.9788,No,No.
+moved_twin,data/twin_videos/fps30_int5000_bf_0078.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_bf_0078.mp4,0,False,8,0,0,-0.1152,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_bf_0078.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_bf_0078.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_5000ms/fps30_int5000_af_0010.mp4,0,True,32,1,0,-0.8575,No,No.
+moved_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0010.mp4,0,True,8,1,0,-2.3313,No,No.
+moved_twin,data/twin_videos/fps30_int5000_af_0010.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_5000ms/fps30_int5000_af_0010.mp4,0,True,8,0,0,-0.1744,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int5000_af_0010.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int5000_af_0010.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0080.mp4,0,True,32,1,0,-0.8241,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0080.mp4,0,True,8,1,0,-2.2285,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0080.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0080.mp4,0,True,8,0,1,0.1451,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_af_0080.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0080.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0084.mp4,0,False,32,0,0,-0.5751,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0084.mp4,0,False,8,1,0,-1.8187,No,No
+moved_twin,data/twin_videos/fps30_int7000_bf_0084.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0084.mp4,0,False,8,0,0,-0.1299,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_bf_0084.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0084.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0033.mp4,0,True,32,1,0,-0.8241,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0033.mp4,0,True,8,1,0,-2.2285,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0033.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0033.mp4,0,True,8,0,1,0.1451,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_af_0033.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0033.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0081.mp4,0,False,32,0,0,-0.5751,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0081.mp4,0,False,8,1,0,-1.8187,No,No
+moved_twin,data/twin_videos/fps30_int7000_bf_0081.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0081.mp4,0,False,8,0,0,-0.1299,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_bf_0081.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0081.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0093.mp4,0,False,32,0,0,-0.5751,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0093.mp4,0,False,8,1,0,-1.8187,No,No
+moved_twin,data/twin_videos/fps30_int7000_bf_0093.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0093.mp4,0,False,8,0,0,-0.1299,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_bf_0093.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0093.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0017.mp4,0,True,32,1,0,-0.8241,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0017.mp4,0,True,8,1,0,-2.2285,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0017.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0017.mp4,0,True,8,0,1,0.1451,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_af_0017.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0017.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0036.mp4,0,False,32,0,0,-0.7277,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0036.mp4,0,False,8,1,0,-2.4379,No,No.
+moved_twin,data/twin_videos/fps30_int7000_bf_0036.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0036.mp4,0,False,8,0,1,0.1101,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_bf_0036.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0036.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0082.mp4,0,True,32,1,0,-0.8241,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0082.mp4,0,True,8,1,0,-2.2285,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0082.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0082.mp4,0,True,8,0,1,0.1451,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_af_0082.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0082.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0069.mp4,0,False,32,0,0,-0.757,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0069.mp4,0,False,8,1,0,-2.0973,No,No.
+moved_twin,data/twin_videos/fps30_int7000_bf_0069.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0069.mp4,0,False,8,0,1,0.0933,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_bf_0069.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0069.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0065.mp4,0,False,32,0,0,-0.757,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0065.mp4,0,False,8,1,0,-2.0973,No,No.
+moved_twin,data/twin_videos/fps30_int7000_bf_0065.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0065.mp4,0,False,8,0,1,0.0933,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_bf_0065.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0065.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0092.mp4,0,False,32,0,0,-0.7277,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0092.mp4,0,False,8,1,0,-2.4379,No,No.
+moved_twin,data/twin_videos/fps30_int7000_bf_0092.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0092.mp4,0,False,8,0,1,0.1101,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_bf_0092.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0092.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0039.mp4,0,False,32,0,0,-0.5751,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0039.mp4,0,False,8,1,0,-1.8187,No,No
+moved_twin,data/twin_videos/fps30_int7000_bf_0039.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0039.mp4,0,False,8,0,0,-0.1299,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_bf_0039.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0039.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0056.mp4,0,False,32,0,0,-0.5751,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0056.mp4,0,False,8,1,0,-1.8187,No,No
+moved_twin,data/twin_videos/fps30_int7000_bf_0056.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0056.mp4,0,False,8,0,0,-0.1299,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_bf_0056.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0056.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0052.mp4,0,True,32,1,0,-0.8718,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0052.mp4,0,True,8,1,0,-2.2849,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0052.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0052.mp4,0,True,8,0,0,-0.2044,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_af_0052.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0052.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0051.mp4,0,True,32,1,0,-0.679,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0051.mp4,0,True,8,1,0,-2.4342,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0051.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0051.mp4,0,True,8,0,1,0.0061,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_af_0051.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0051.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0032.mp4,0,True,32,1,0,-0.8241,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0032.mp4,0,True,8,1,0,-2.2285,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0032.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0032.mp4,0,True,8,0,1,0.1451,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_af_0032.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0032.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0031.mp4,0,False,32,0,0,-0.7277,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0031.mp4,0,False,8,1,0,-2.4379,No,No.
+moved_twin,data/twin_videos/fps30_int7000_bf_0031.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0031.mp4,0,False,8,0,1,0.1101,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_bf_0031.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0031.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0044.mp4,0,False,32,0,0,-0.7277,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0044.mp4,0,False,8,1,0,-2.4379,No,No.
+moved_twin,data/twin_videos/fps30_int7000_bf_0044.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0044.mp4,0,False,8,0,1,0.1101,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int7000_bf_0044.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0044.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_af_0078.mp4,0,True,32,1,0,-0.8718,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0078.mp4,0,True,8,1,0,-2.2849,No,No.
+moved_twin,data/twin_videos/fps30_int7000_af_0078.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_af_0078.mp4,0,True,8,0,0,-0.2044,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_af_0078.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_af_0078.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_7000ms/fps30_int7000_bf_0010.mp4,0,False,32,0,0,-0.5751,No,No.
+moved_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0010.mp4,0,False,8,1,0,-1.8187,No,No
+moved_twin,data/twin_videos/fps30_int7000_bf_0010.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_7000ms/fps30_int7000_bf_0010.mp4,0,False,8,0,0,-0.1299,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int7000_bf_0010.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int7000_bf_0010.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0080.mp4,0,True,32,1,0,-0.6651,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0080.mp4,0,True,8,1,0,-2.4506,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0080.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0080.mp4,0,True,8,0,1,0.0011,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0080.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0080.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0084.mp4,0,False,32,0,0,-0.5611,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0084.mp4,0,False,8,1,0,-1.9125,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0084.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0084.mp4,0,False,8,0,0,-0.0999,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int10000_bf_0084.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0084.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0033.mp4,0,True,32,1,0,-0.6651,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0033.mp4,0,True,8,1,0,-2.4506,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0033.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0033.mp4,0,True,8,0,1,0.0011,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0033.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0033.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0081.mp4,0,False,32,0,0,-0.7292,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0081.mp4,0,False,8,1,0,-2.4826,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0081.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0081.mp4,0,False,8,0,1,0.1304,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_bf_0081.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0081.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0093.mp4,0,True,32,1,0,-0.8262,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0093.mp4,0,True,8,1,0,-2.2659,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0093.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0093.mp4,0,True,8,0,1,0.1251,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0093.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0093.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0017.mp4,0,False,32,0,0,-0.7413,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0017.mp4,0,False,8,1,0,-2.148,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0017.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0017.mp4,0,False,8,0,1,0.1686,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_bf_0017.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0017.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0036.mp4,0,True,32,1,0,-0.6651,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0036.mp4,0,True,8,1,0,-2.4506,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0036.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0036.mp4,0,True,8,0,1,0.0011,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0036.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0036.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0082.mp4,0,True,32,1,0,-0.8262,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0082.mp4,0,True,8,1,0,-2.2659,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0082.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0082.mp4,0,True,8,0,1,0.1251,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0082.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0082.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0069.mp4,0,True,32,1,0,-0.6651,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0069.mp4,0,True,8,1,0,-2.4506,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0069.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0069.mp4,0,True,8,0,1,0.0011,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0069.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0069.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0065.mp4,0,False,32,0,0,-0.7292,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0065.mp4,0,False,8,1,0,-2.4826,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0065.mp4,0,False,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0065.mp4,0,False,8,0,1,0.1304,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_bf_0065.mp4,0,False,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0065.mp4,0,False,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0092.mp4,0,True,32,1,0,-0.8262,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0092.mp4,0,True,8,1,0,-2.2659,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0092.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0092.mp4,0,True,8,0,1,0.1251,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0092.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0092.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0039.mp4,0,True,32,1,0,-0.6651,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0039.mp4,0,True,8,1,0,-2.4506,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0039.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0039.mp4,0,True,8,0,1,0.0011,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0039.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0039.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0056.mp4,0,True,32,1,0,-0.8861,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0056.mp4,0,True,8,1,0,-2.4209,No,No
+moved_twin,data/twin_videos/fps30_int10000_af_0056.mp4,0,True,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0056.mp4,0,True,8,0,0,-0.1991,No,No.
+still_twin,data/twin_videos/fps30_int10000_af_0056.mp4,0,True,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0056.mp4,0,True,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0052.mp4,0,True,32,1,0,-0.6651,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0052.mp4,0,True,8,1,0,-2.4506,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0052.mp4,0,True,8,0,0,-2.5295,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0052.mp4,0,True,8,0,1,0.0011,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0052.mp4,0,True,8,1,1,0.336,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0052.mp4,0,True,8,-1,0,-1.0785,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0051.mp4,0,False,32,0,0,-0.7413,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0051.mp4,0,False,8,1,0,-2.148,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0051.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0051.mp4,0,False,8,0,1,0.1686,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_bf_0051.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0051.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0032.mp4,0,True,32,1,0,-0.8262,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0032.mp4,0,True,8,1,0,-2.2659,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0032.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0032.mp4,0,True,8,0,1,0.1251,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0032.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0032.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_af_0031.mp4,0,True,32,1,0,-0.8262,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0031.mp4,0,True,8,1,0,-2.2659,No,No.
+moved_twin,data/twin_videos/fps30_int10000_af_0031.mp4,0,True,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_af_0031.mp4,0,True,8,0,1,0.1251,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_af_0031.mp4,0,True,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_af_0031.mp4,0,True,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0044.mp4,0,False,32,0,0,-0.5611,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0044.mp4,0,False,8,1,0,-1.9125,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0044.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0044.mp4,0,False,8,0,0,-0.0999,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int10000_bf_0044.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0044.mp4,0,False,8,-1,0,-0.8188,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0078.mp4,0,False,32,0,0,-0.7413,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0078.mp4,0,False,8,1,0,-2.148,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0078.mp4,0,False,8,0,0,-2.1969,No,No.
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0078.mp4,0,False,8,0,1,0.1686,Yes,"Yes, both shapes stayed still the whole"
+still_twin,data/twin_videos/fps30_int10000_bf_0078.mp4,0,False,8,1,1,0.233,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0078.mp4,0,False,8,-1,0,-0.9329,No,No
+order_32f,data/videos/fps30/int_10000ms/fps30_int10000_bf_0010.mp4,0,False,32,0,0,-0.5611,No,No.
+moved_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0010.mp4,0,False,8,1,0,-1.9125,No,No.
+moved_twin,data/twin_videos/fps30_int10000_bf_0010.mp4,0,False,8,0,0,-2.3065,No,No
+still_real,data/videos/fps30/int_10000ms/fps30_int10000_bf_0010.mp4,0,False,8,0,0,-0.0999,No,"No, in the video, one of"
+still_twin,data/twin_videos/fps30_int10000_bf_0010.mp4,0,False,8,1,1,-0.0394,Yes,"Yes, both shapes stayed still the whole"
+order_twin,data/twin_videos/fps30_int10000_bf_0010.mp4,0,False,8,-1,0,-0.8188,No,No
+order_blank,data/blank_videos/blank/blank_0000.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0001.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0002.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0003.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0004.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0005.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0006.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0007.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0008.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0009.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0010.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0011.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0012.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0013.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0014.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0015.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0016.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0017.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0018.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0019.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0020.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0021.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0022.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0023.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0024.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0025.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0026.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0027.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0028.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0029.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0030.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0031.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0032.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0033.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0034.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0035.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0036.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0037.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0038.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0039.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0040.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0041.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0042.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0043.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0044.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0045.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0046.mp4,0,False,8,-1,0,-0.5489,No,No
+order_blank,data/blank_videos/blank/blank_0047.mp4,0,False,8,-1,0,-0.4568,No,No
+order_blank,data/blank_videos/blank/blank_0048.mp4,0,False,8,-1,0,-0.4501,No,No
+order_blank,data/blank_videos/blank/blank_0049.mp4,0,False,8,-1,0,-0.4568,No,No

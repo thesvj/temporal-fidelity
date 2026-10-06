@@ -1,0 +1,877 @@
+video_id,dim,question,gold,pred,margin,top_token,response
+1034419625,direction,Is the man moving from left to right?,1,0,-0.2414,NO,NO.
+1034419625,direction,"In the camera's point of view, is the man moving from left to right?",1,0,-0.2191,NO,NO.
+1034419625,direction,"In relation to the camera's position, is the man headed from left to right?",1,1,0.1797,YES,YES.
+1034419625,direction,Is the man moving from right to left?,0,0,-1.1053,NO,NO.
+1034419625,direction,"In the camera's point of view, is the man moving from right to left?",0,0,-0.5863,NO,NO.
+1034419625,direction,"In relation to the camera's position, is the man headed from right to left?",0,1,0.1684,YES,YES.
+1034419625_reverse,direction,Is the man moving from right to left?,1,0,-1.094,NO,NO.
+1034419625_reverse,direction,"In the camera's point of view, is the man moving from right to left?",1,0,-0.6854,NO,NO.
+1034419625_reverse,direction,"In relation to the camera's position, is the man headed from right to left?",1,1,0.1859,YES,YES.
+1034419625_reverse,direction,Is the man moving from left to right?,0,0,-0.3503,NO,NO.
+1034419625_reverse,direction,"In the camera's point of view, is the man moving from left to right?",0,0,-0.2191,NO,NO.
+1034419625_reverse,direction,"In relation to the camera's position, is the man headed from left to right?",0,1,0.1797,YES,YES.
+1094590221,direction,Does the position of the basketball moving leftwards?,1,0,-1.3647,NO,NO.
+1094590221,direction,Does the position of the basketball moving rightwards?,0,0,-1.1078,NO,NO.
+1094590221_reverse,direction,Does the position of the basketball moving rightwards?,1,0,-0.9828,NO,NO.
+1094590221_reverse,direction,Does the position of the basketball moving leftwards?,0,0,-1.4694,NO,NO.
+1111657885,direction,Are the people skating towards the camera?,1,0,-1.3474,NO,NO.
+1111657885,direction,Is the direction that the people moving towards the camera?,1,0,-1.211,NO,NO.
+1111657885,direction,Is the movement of the people towards the camera?,1,0,-1.2321,NO,NO.
+1111657885,direction,Are the people skating parallel to the screen?,0,0,-1.0859,NO,NO.
+1111657885,direction,Are the people moving away in relation to the camera?,0,0,-1.4855,NO,NO.
+1111657885,direction,Is the movement of the people away from the camera?,0,0,-0.2252,NO,NO.
+1111657885_reverse,direction,Are the people skating towards the camera?,0,0,-1.2299,NO,NO.
+1111657885_reverse,direction,Is the direction that the people moving towards the camera?,0,0,-1.0861,NO,NO.
+1111657885_reverse,direction,Is the movement of the people towards the camera?,0,0,-1.1055,NO,NO.
+1111657885_reverse,direction,Are the people skating away from the screen?,1,0,-0.3611,NO,NO.
+1111657885_reverse,direction,Are the people moving away in relation to the camera?,1,0,-1.363,NO,NO.
+1111657885_reverse,direction,Is the movement of the people away from the camera?,1,0,-0.228,NO,NO.
+1089810425,direction,Is the panning direction in the video right to left?,1,0,-1.2416,NO,NO.
+1089810425,direction,Is the camera movement in the video panning from right to left?,1,0,-1.9967,NO,NO.
+1089810425,direction,Is the video shifting horizontally?,1,0,-1.6183,NO,NO.
+1089810425,direction,Is the camera moving leftward?,1,0,-1.617,NO,NO.
+1089810425,direction,Is the panning direction in the video left to right?,0,0,-0.4957,NO,NO.
+1089810425,direction,Is the camera movement in the video zooming in?,0,0,-2.1171,NO,NO.
+1089810425,direction,Is the video shifting vertically?,0,0,-1.4997,NO,NO.
+1089810425,direction,Is the camera moving rightward?,0,0,-1.4892,NO,NO.
+1089810425_reverse,direction,Is the panning direction in the video left to right?,1,0,-0.3746,NO,NO.
+1089810425_reverse,direction,Is the camera movement in the video panning from left to right?,1,0,-0.8726,NO,NO.
+1089810425_reverse,direction,Is the video shifting horizontally?,1,0,-1.5029,NO,NO.
+1089810425_reverse,direction,Is the camera moving rightward?,1,0,-1.367,NO,NO.
+1089810425_reverse,direction,Is the panning direction in the video right to left?,0,0,-1.2426,NO,NO.
+1089810425_reverse,direction,Is the camera movement in the video zooming in?,0,0,-2.1171,NO,NO.
+1089810425_reverse,direction,Is the video shifting vertically?,0,0,-1.4997,NO,NO.
+1089810425_reverse,direction,Is the camera moving leftward?,0,0,-1.4892,NO,NO.
+1077507593,order,Does the skillet smoke before burning in fire?,1,1,0.6346,YES,YES.
+1077507593,order,Is smoking the first event to happen to the skillet before burning?,1,0,-1.3688,NO,NO.
+1077507593,order,Does smoking occur before burning in fire for the skillet?,1,0,-2.1199,NO,NO.
+1077507593,order,Does the skillet burn in fire before smoking?,0,0,-1.3445,NO,NO.
+1077507593,order,Is smoking the second event to happen to the skillet after burning?,0,0,-1.1131,NO,NO.
+1077507593,order,Does the skillet smoke after burning in fire?,0,1,1.8965,YES,YES.
+1059718130,direction,Is the sun rising?,1,0,-1.7627,NO,NO.
+1059718130,direction,Is the direction of the sun about rising?,1,0,-0.4971,NO,NO.
+1059718130,direction,Is rising the primary movement of the sun?,1,0,-0.3673,NO,NO.
+1059718130,direction,Is the sun setting?,0,0,-1.6332,NO,NO.
+1059718130,direction,Is the sun making a circular motion?,0,0,-2.4999,NO,NO.
+1059718130,direction,Is descending the primary movement of the sun?,0,0,-2.7347,NO,NO.
+1059718130_reverse,direction,Is the sun falling?,1,0,-2.7627,NO,NO.
+1059718130_reverse,direction,Is the direction of the sun about falling?,1,1,0.3752,YES,YES.
+1059718130_reverse,direction,Is falling the primary movement of the sun?,1,0,-4.6267,NO,NO.
+1059718130_reverse,direction,Is the sun rising?,0,0,-1.7571,NO,NO.
+1059718130_reverse,direction,Is the sun making a circular motion?,0,0,-2.3749,NO,NO.
+1059718130_reverse,direction,Is ascending the primary movement of the sun?,0,0,-1.3506,NO,NO.
+1083845854,direction,Are the clock hands moving clockwise?,1,0,-0.7225,NO,NO.
+1083845854,direction,Are the clock hands moving counterclockwise?,0,0,-1.5905,NO,NO.
+1100329207,direction,Is the direction of the camera view moving forward?,1,0,-0.7355,NO,NO.
+1100329207,direction,Is the video panning in the forward direction?,1,0,-0.9876,NO,NO.
+1100329207,direction,Is the camera movement directed towards moving forward?,1,0,-1.1152,NO,NO.
+1100329207,direction,Is the direction of the camera view moving backward?,0,0,-0.992,NO,NO.
+1100329207,direction,Is the video panning downwards?,0,0,-1.6095,NO,NO.
+1100329207,direction,Is the camera movement tilting up?,0,0,-1.7361,NO,NO.
+1089201973,direction,Is the football moving from left to right?,1,0,-0.6165,NO,NO.
+1089201973,direction,Is the football moving from right to left?,0,0,-1.2281,NO,NO.
+1034736653,direction,Are the woman athletes running from left to right?,1,0,-0.4691,NO,NO.
+1034736653,direction,Are the woman athletes running from right to left?,0,0,-0.8403,NO,NO.
+1084153195,direction,Are the dolphins swimming towards the shore?,1,0,-2.3749,NO,NO.
+1084153195,direction,In which direction are the dolphins swimming? Towards the shore?,1,0,-1.8663,NO,NO.
+1084153195,direction,Are the dolphins hovering in one place in the entire video?,0,0,-1.7227,NO,NO.
+1084153195,direction,Are the dolphins swimming away from the shore?,0,0,-1.6184,NO,NO.
+1084153195,order,"Do the dolphins swim towards the shore, followed by getting fed with fish?",1,0,-3.6231,NO,NO.
+1084153195,order,Is getting fed with fish happens after swimming towards the shore for the dolphins?,1,0,-0.9759,NO,NO.
+1084153195,order,Do the dolphins swim towards the shore and then get fed with fish?,1,0,-4.2518,NO,NO.
+1084153195,order,Do the dolphins get fed with fish before swimming towards the shore?,0,0,-4.1299,NO,NO.
+1084153195,order,Is getting fed with fish happens before swimming towards the shore for the dolphins?,0,0,-0.839,NO,NO.
+1084153195,order,Do the dolphins get fed with fish and then swim towards the shore?,0,0,-2.3728,NO,NO.
+1081092839,direction,Is the direction of the sun descending?,1,0,-0.4998,NO,NO.
+1081092839,direction,Is the movement pattern of the sun falling?,1,0,-1.1097,NO,NO.
+1081092839,direction,Does the sun travel downwards?,1,0,-2.3598,NO,NO.
+1081092839,direction,Is the direction of the sun ascending?,0,0,-0.7435,NO,NO.
+1081092839,direction,Is the movement pattern of the sun rising?,0,1,0.3846,YES,YES.
+1081092839,direction,Does the sun travel upwards during sunrise,0,1,0.6388,YES,YES.
+1059462749,direction,Is the person moving downwards?,1,0,-0.8625,NO,NO.
+1059462749,direction,Does the word 'descending' describe the movement of the person?,1,0,-1.2282,NO,NO.
+1059462749,direction,Is the person descending from a higher point to a lower point?,1,1,1.387,YES,YES.
+1059462749,direction,Is the person moving upwards?,0,0,-0.9919,NO,NO.
+1059462749,direction,Does the word 'rising' describe the movement of the person?,0,0,-1.3594,NO,NO.
+1059462749,direction,Is the person ascending towards a higher point from a lower point?,0,1,0.7606,YES,YES.
+1077590324,order,Is the woman putting clothes into the washing machine and then standing up to operate it?,1,0,-0.5817,NO,NO.
+1077590324,order,Is putting clothes into the washing machine and then turning it on the sequence of actions taken by the woman?,1,0,-0.2039,NO,NO.
+1077590324,order,Is the woman closing the door of the washing machine and then standing in front of it?,1,0,-0.9456,NO,NO.
+1077590324,order,Is the woman sitting down to operate the washing machine and then putting clothes into it?,0,0,-1.7017,NO,NO.
+1077590324,order,Is turning off the washing machine and then getting dressed the sequence of actions taken by the woman?,0,0,-2.4419,NO,NO.
+1077590324,order,Is the woman opening the door of the washing machine and then standing in front of it?,0,0,-1.3317,NO,NO.
+1064645467,order,Does the man take off his jacket before jumping up to grab the bar?,1,0,-1.8579,NO,NO.
+1064645467,order,Does the man jump up to grab the bar after taking off his jacket?,1,0,-3.1267,NO,NO.
+1064645467,order,Does the man take off his jacket and then jump up to grab the bar with his hands?,1,0,-2.7402,NO,NO.
+1064645467,order,Does the man jump up to grab the bar before taking off his jacket?,0,0,-3.8749,NO,NO.
+1064645467,order,Does the man jump up to grab the bar while taking off his jacket?,0,0,-4.13,NO,NO.
+1064645467,order,Does the man jump up to grab the bar and then take off his jacket?,0,0,-3.7475,NO,NO.
+1088279109,direction,Is the elevator rising?,1,0,-1.2379,NO,NO.
+1088279109,direction,Is the elevator moving up?,1,0,-1.368,NO,NO.
+1088279109,direction,Is ascending the direction of the elevator's movement?,1,0,-0.4729,NO,NO.
+1088279109,direction,Is the elevator going down?,0,0,-0.8661,NO,NO.
+1088279109,direction,Is descending the direction of the elevator's movement?,0,0,-0.4246,NO,NO.
+1088279109,direction,Is the elevator stopped?,0,1,0.1381,YES,YES.
+1105233293,order,Are the players passing the ball to each other and then shooting the basketball?,1,0,-1.4679,NO,NO.
+1105233293,order,Is passing the ball to each other and shooting the basketball the correct order of events?,1,0,-0.1035,NO,NO.
+1105233293,order,Does the sequence of events involve passing the ball to each other and then shooting the basketball?,1,0,-0.0789,NO,NO.
+1105233293,order,Are the players shooting the basketball and then passing the ball to each other?,0,0,-1.3407,NO,NO.
+1105233293,order,Is shooting the basketball and blocking the opponent the sequence of actions performed by the players?,0,0,-0.0929,NO,NO.
+1105233293,order,"Does the correct order of events involve dribbling, shooting, passing the basketball?",0,0,0.0118,NO,NO.
+1077146132,order,Does the sequence of events start with getting out of bed?,1,1,0.2576,YES,YES.
+1077146132,order,Does opening the curtains occur after getting out of bed?,1,1,0.387,YES,YES.
+1077146132,order,Is opening the curtains the last event to occur?,1,0,-0.4941,NO,NO.
+1077146132,order,Does the sequence of events start with closing the curtains?,0,0,-0.9846,NO,NO.
+1077146132,order,Does opening the curtains occur before getting into bed?,0,0,-0.8365,NO,NO.
+1077146132,order,"Does the sequence of events end with getting out of bed, instead of opening the curtains?",0,0,-2.3408,NO,NO.
+1096612823,direction,Is the video zooming in?,1,0,-1.8817,NO,NO.
+1096612823,direction,Is direction of movement zooming in?,1,0,-1.4944,NO,NO.
+1096612823,direction,Is the video changing by zooming in?,1,0,-2.3748,NO,NO.
+1096612823,direction,Is the video zooming out?,0,0,-1.4996,NO,NO.
+1096612823,direction,Is the video rotating?,0,0,-1.9995,NO,NO.
+1096612823,direction,Is the video panning left?,0,0,-1.6207,NO,NO.
+1075484900,direction,Is the child turning away from the man?,1,0,-0.3656,NO,NO.
+1075484900,direction,Is the child turning towards the man?,0,0,-0.4824,NO,NO.
+1090578917,order,Is the man leaping to his right and then standing up?,1,0,-1.4828,NO,NO.
+1090578917,order,Is the man standing up from the ground after leaping?,1,0,-1.4847,NO,NO.
+1090578917,order,Is the man leaping to his right before standing up in the video?,1,0,-1.6098,NO,NO.
+1090578917,order,Is the man standing up and then leaping to his right?,0,0,-1.6115,NO,NO.
+1090578917,order,Is the man standing up from the ground before leaping?,0,0,-1.8596,NO,NO.
+1090578917,order,Is the man leaping to his right after standing up in the video?,0,0,-1.4943,NO,NO.
+1090578917,direction,Is the man leaping to his right?,1,0,-0.7344,NO,NO.
+1090578917,direction,Is the man moving towards the right?,1,0,-0.2439,NO,NO.
+1090578917,direction,Is the man leaping to his left?,0,0,-0.8474,NO,NO.
+1090578917,direction,Is the man moving forwards?,0,0,-0.8424,NO,NO.
+1075338140,direction,Is the ball rolling from left to right?,1,1,0.0221,NO,YES.
+1075338140,direction,Is the ball moving in the direction of rolling from left to right?,1,1,0.2609,YES,YES.
+1075338140,direction,Does the ball travel in the direction of rolling from left to right?,1,1,0.2688,YES,YES.
+1075338140,direction,Is the ball spinning in place?,0,0,-1.6184,NO,NO.
+1075338140,direction,Is the ball moving counterclockwise?,0,0,-0.9755,NO,NO.
+1075338140,direction,Is the ball rolling from right to left?,0,0,-0.594,NO,NO.
+1067268403,direction,Are the wind turbines rotating clockwise?,1,0,-1.2365,NO,NO.
+1067268403,direction,Are the wind turbines rotating counterclockwise?,0,0,-0.9844,NO,NO.
+1096007487,direction,Is the 3d cloud spinning leftward from the camera's point of view?,1,0,-1.2391,NO,NO.
+1096007487,direction,Is the 3d cloud spinning leftward as seen from the camera's perspective?,1,0,-0.8577,NO,NO.
+1096007487,direction,Does the 3D cloud appear to be rotating leftward from the viewpoint of the camera?,1,0,-0.6127,NO,NO.
+1096007487,direction,Is the 3d cloud spinning rightward from the camera's point of view?,0,0,-1.1171,NO,NO.
+1096007487,direction,Is the 3d cloud spinning upward from the camera's point of view?,0,0,-0.991,NO,NO.
+1096007487,direction,Is the 3d cloud spinning downward from the camera's point of view?,0,0,-0.9891,NO,NO.
+1095939659,direction,Is the light growing in a clockwise direction?,1,0,-0.8628,NO,NO.
+1095939659,direction,Is the direction of the light's movement anticlockwise?,0,0,-0.6078,NO,NO.
+1059632327,direction,Is the direction of the tennis ball bouncing up and down?,1,0,-0.9514,NO,NO.
+1059632327,direction,Is the direction of the tennis ball bouncing left and right?,0,0,-1.2328,NO,NO.
+1098785169,direction,Is the direction of the galaxy's spin clockwise?,1,0,-1.6096,NO,NO.
+1098785169,direction,Is the direction of the galaxy's spin counterclockwise?,0,0,-0.3651,NO,NO.
+1099984801,direction,Are the clouds moving towards the camera?,1,0,-2.6213,NO,NO.
+1099984801,direction,Are the clouds moving away from the camera?,0,0,-1.6209,NO,NO.
+1082419672,direction,Is the direction of movement in the video flying backwards?,1,0,-1.7393,NO,NO.
+1082419672,direction,Is the entire video moving backwards relative to the ship?,1,0,-1.8616,NO,NO.
+1082419672,direction,Is the direction of movement in the video flying forwards?,0,0,-0.7433,NO,NO.
+1082419672,direction,Is the entire video moving forwards relative to the ship?,0,0,-1.3644,NO,NO.
+1058985719,direction,Is the airplane flying from bottom to top?,1,0,-0.7112,NO,NO.
+1058985719,direction,Is the airplane moving upwards on the screen?,1,0,-1.3626,NO,NO.
+1058985719,direction,Is the airplane flying from top to bottom?,0,0,-0.9724,NO,NO.
+1058985719,direction,Is the airplane moving downwards on the screen?,0,0,-0.9806,NO,NO.
+1055413730,direction,Is the planet Earth spinning rightwards?,1,1,2.1341,YES,YES.
+1055413730,direction,"According to the camera's perspective, is the rotational movement of the planet Earth spinning to the right?",1,0,-0.3444,NO,NO.
+1055413730,direction,"Based on the camera's viewpoint, is the apparent motion of the Earth spinning to the right?",1,0,-0.4754,NO,NO.
+1055413730,direction,Is the planet Earth spinning leftwards?,0,0,-2.8561,NO,NO.
+1055413730,direction,"According to the camera's perspective, is the rotational movement of the planet Earth rotating upward?",0,0,-1.0767,NO,NO.
+1055413730,direction,"Based on the camera's viewpoint, is the apparent motion of the Earth a complete stop?",0,0,-1.4715,NO,NO.
+1081684532,direction,Are the asteroids flying towards the camera?,1,0,-1.8701,NO,NO.
+1081684532,direction,Are the asteroids flying away from the camera?,0,0,-1.3674,NO,NO.
+23391142,direction,Is the video panning to the right?,1,0,-1.1326,NO,NO.
+23391142,direction,Is the movement of the video about panning to the right?,1,0,-0.8593,NO,NO.
+23391142,direction,Is the scene shifting to the right?,1,0,-1.8731,NO,NO.
+23391142,direction,Is the video panning to the left?,0,0,-1.6245,NO,NO.
+23391142,direction,Is the movement of the video about zooming in?,0,0,-1.2391,NO,NO.
+23391142,direction,Is the scene shifting to the bottom?,0,0,-2.1191,NO,NO.
+1053758117,direction,Is the camera zooming into a 3D digital brain?,1,0,-1.8732,NO,NO.
+1053758117,direction,Is the camera moving in the video by zooming in?,1,0,-2.7455,NO,NO.
+1053758117,direction,Is the camera standing still before a 3D digital brain?,0,0,-1.1131,NO,NO.
+1053758117,direction,Is the camera zooming out in the video?,0,0,-1.3667,NO,NO.
+1069717165,order,Does the woman nod her head after shaking it?,1,0,-3.2412,NO,NO.
+1069717165,order,Did the woman nod her head and then shake it?,0,0,-1.348,NO,NO.
+1041584314,order,Does the man show a serious expression and then smile?,1,0,-0.9892,NO,NO.
+1041584314,order,"After showing a serious expression, does the man start to smile?",1,0,-3.0078,NO,NO.
+1041584314,order,Did the man's facial expressions change from serious to smiling over time?,1,0,-0.4617,NO,NO.
+1041584314,order,Does the man show a serious expression after smiling?,1,0,-2.1249,NO,NO.
+1041584314,order,"Before showing a serious expression, does the man start to smile?",0,0,-2.2418,NO,NO.
+1041584314,order,Does the man's facial expressions change from smiling to serious over time?,0,0,-0.8408,NO,NO.
+1106668103,direction,Is the direction of movement in the video moving forward?,1,0,-1.4778,NO,NO.
+1106668103,direction,Is the primary motion depicted in the video about moving forward?,1,0,-1.1113,NO,NO.
+1106668103,direction,Does the primary trajectory in the video involve moving forward?,1,0,-0.1122,NO,NO.
+1106668103,direction,Is the direction of movement in the video moving backward?,0,0,-1.8614,NO,NO.
+1106668103,direction,Is the primary motion depicted in the video about moving leftward?,0,0,-1.2393,NO,NO.
+1106668103,direction,Does the primary trajectory in the video involve moving right ward?,0,0,-0.491,NO,NO.
+1057163434,direction,Is the chef putting the bread on top of the burger?,1,0,-1.2306,NO,NO.
+1057163434,direction,Is the chef removing the bread from the burger?,0,0,-1.9863,NO,NO.
+1085910917,order,Does the video show the events occurring in the sequence of drinking a glass of water and then turning back?,1,0,-1.0888,NO,NO.
+1085910917,order,Does the video show the events occurring in the sequence of turning back and then drinking a glass of water?,0,0,-1.483,NO,NO.
+1058907236,order,Does the sequence of events involve the squirrel first picking up a nut and then turning back?,1,0,-0.8319,NO,NO.
+1058907236,order,Does the sequence of events involve the squirrel first turning back and then picking up a nut?,0,0,-0.7195,NO,NO.
+1100319395,direction,Is the circular pattern moving clockwise?,1,0,-1.6154,NO,NO.
+1100319395,direction,Is the circular pattern spinning clockwise?,1,0,-1.989,NO,NO.
+1100319395,direction,Is the circular pattern spinning in the clockwise direction?,1,0,-1.9925,NO,NO.
+1100319395,direction,Is the circular pattern moving counter-clockwise?,0,0,-1.2448,NO,NO.
+1100319395,direction,Is the circular pattern spinning counter-clockwise?,0,0,-1.4941,NO,NO.
+1100319395,direction,Is the circular pattern spinning in the anticlockwise direction?,0,0,-1.6154,NO,NO.
+1101200293,direction,Is the camera motion relative to the aircraft carrier clockwise?,1,0,-0.8653,NO,NO.
+1101200293,direction,Is the camera motion relative to the aircraft carrier counterclockwise?,0,0,-0.9818,NO,NO.
+1072453637,direction,Is the camera panning to the back of a fighter jet?,1,0,-2.6249,NO,NO.
+1072453637,direction,Is the camera panning to the front around a fighter jet?,0,0,-2.7499,NO,NO.
+1072453637,order,Did the fighter jet shoot one missile first and then shoot two missiles?,1,0,-1.9518,NO,NO.
+1072453637,order,Did the fighter jet shoot two missiles after shooting one missile?,1,0,-3.3036,NO,NO.
+1072453637,order,Did the fighter jet shoot three missiles first and then shoot four missiles?,0,0,-2.7286,NO,NO.
+1072453637,order,Did the fighter jet shoot one missile after shooting two missiles?,0,0,-2.832,NO,NO.
+3396473605,direction,Do the five stars appear from left to right?,1,0,-0.2145,NO,NO.
+3396473605,direction,Do the five stars disappear from right to left?,0,0,-0.924,NO,NO.
+1086820415,direction,Is the large wave moving vertically towards the bottom of the screen?,1,0,-1.2497,NO,NO.
+1086820415,direction,Does the large wave move in the direction towards the bottom of the screen?,1,0,-0.9952,NO,NO.
+1086820415,direction,Is moving vertically towards the bottom the direction of motion of the large wave?,1,0,-1.7454,NO,NO.
+1086820415,direction,Is the large wave moving horizontally towards the right side of the screen?,0,0,-0.4975,NO,NO.
+1086820415,direction,Does the large wave move in the direction towards the top of the screen?,0,0,-0.8697,NO,NO.
+1086820415,direction,Is moving vertically towards the top the direction of motion of the large wave?,0,0,-1.6204,NO,NO.
+1073831006,direction,Are the zebras moving from left to right?,1,0,-0.1111,NO,NO.
+1073831006,direction,Are the zebras moving from left to right relative to the camera?,1,0,-0.3601,NO,NO.
+1073831006,direction,Are the zebras heading rightward?,1,0,-0.1053,NO,NO.
+1073831006,direction,Are the zebras moving from right to left?,0,0,-0.7222,NO,NO.
+1073831006,direction,Are the zebras moving away from the camera?,0,0,-0.736,NO,NO.
+1073831006,direction,Are the zebras heading downward?,0,0,-0.5975,NO,NO.
+1092278063,direction,Are the two rows of duck toy moving in opposite directions on a conveyor belt?,1,0,-1.9614,NO,NO.
+1092278063,direction,Is the direction of the two rows of duck toy moving relative to each other opposite on a conveyor belt?,1,0,-1.4397,NO,NO.
+1092278063,direction,Are the two rows of duck toy moving in the same direction on a conveyor belt?,0,0,-1.8407,NO,NO.
+1092278063,direction,Is the direction of the two rows of duck toy moving relative to each other in the same direction?,0,0,-0.9678,NO,NO.
+1024867412,direction,Is the car taking a right turn?,1,0,-0.8506,NO,NO.
+1024867412,direction,Is the car moving in the right direction?,1,0,-0.8615,NO,NO.
+1024867412,direction,Is making a right turn the maneuver the car is making?,1,0,-1.3595,NO,NO.
+1024867412,direction,Is the car driving straight in the entire video?,0,0,-1.5739,NO,NO.
+1024867412,direction,Is the car moving to the left?,0,0,-1.3577,NO,NO.
+1024867412,direction,Is making a left turn the maneuver the car is making?,0,0,-1.2421,NO,NO.
+1076877854,direction,Is the closest robotic arm moving to the right side of the screen?,1,0,-1.002,NO,NO.
+1076877854,direction,Can the closest robotic arm be observed moving to the right side of the screen?,1,0,-2.1218,NO,NO.
+1076877854,direction,Does the closest robotic arm exhibit movement to the right side of the screen?,1,0,-1.6183,NO,NO.
+1076877854,direction,Is the closest robotic arm moving towards the camera?,0,0,-1.3694,NO,NO.
+1076877854,direction,Can the closest robotic arm be observed moving to the left side of the screen?,0,0,-2.3684,NO,NO.
+1076877854,direction,Does the closest robotic arm sway back and forth?,0,0,-1.872,NO,NO.
+1100468035,direction,Is the camera zooming forward?,1,0,-1.492,NO,NO.
+1100468035,direction,Is the camera moving towards zooming forward?,1,0,-1.2424,NO,NO.
+1100468035,direction,Does the camera show zooming forward movement?,1,0,-1.8628,NO,NO.
+1100468035,direction,Is the camera zooming backward?,0,0,-1.9693,NO,NO.
+1100468035,direction,Is the camera tracking right?,0,0,-0.9966,NO,NO.
+1100468035,direction,Is the camera panning left?,0,0,-1.4933,NO,NO.
+3411806181,direction,Is the person moving the charging gun towards the car?,1,0,-1.1057,NO,NO.
+3411806181,direction,Is the person performing the action of plugging the charging gun into the car?,1,0,-0.9925,NO,NO.
+3411806181,direction,Is the person moving the charging gun towards the side of the car?,1,0,-0.4845,NO,NO.
+3411806181,direction,Is the person moving the charging gun away from the car?,0,0,-0.8442,NO,NO.
+3411806181,direction,Is the person unplugging the charging gun from the car?,0,0,-1.3475,NO,NO.
+3411806181,direction,Is the person moving the charging gun towards himself?,0,0,-0.6003,NO,NO.
+1103088481,order,Is the correct order of events in the video placing a green vegetable into the trolley and then placing a black vegetable into the trolley?,1,0,-1.4785,NO,NO.
+1103088481,order,Is the person picking up a green vegetable before picking up a black vegetable?,1,0,-1.4758,NO,NO.
+1103088481,order,Is the correct order of events in the video placing a black vegetable into the trolley and then placing a green vegetable into the trolley?,0,0,-1.1034,NO,NO.
+1103088481,order,Is the person picking up a green vegetable after picking up a black vegetable?,0,0,-0.9819,NO,NO.
+1097341567,order,Do the bars appear before the arrow in the video?,1,0,-0.6092,NO,NO.
+1097341567,order,Does the arrow appear after the bars in the video?,1,0,-0.8681,NO,NO.
+1097341567,order,Do the bars and the arrow appear at the same time in the video?,0,0,-1.6096,NO,NO.
+1097341567,order,Does the arrow appear before the bars in the video?,0,0,-1.486,NO,NO.
+1056433484,direction,Is the direction of the Earth's motion around the Sun counter-clockwise?,1,1,2.3823,YES,YES.
+1056433484,direction,Does the Earth travel in a counter-clockwise direction in its orbit around the Sun?,1,1,1.1395,YES,YES.
+1056433484,direction,Does the Earth's rotation in relation to the Sun follow a counter-clockwise direction?,1,1,1.6355,YES,YES.
+1056433484,direction,Is the direction of the Earth's motion around the Sun clockwise?,0,0,-2.848,NO,NO.
+1056433484,direction,Does the Earth travel in a clockwise direction in its orbit around the Sun?,0,0,-1.2285,NO,NO.
+1056433484,direction,Does the Earth's rotation in relation to the Sun follow a anti-clockwise direction?,0,1,1.3902,YES,YES.
+1073914229,direction,Do the trains travel towards each other?,1,0,-0.5763,NO,NO.
+1073914229,direction,Do the trains travel away from each other?,0,0,-0.8149,NO,NO.
+1042819039,order,Did the street get filled with people before getting filled with vehicles?,1,0,-2.1829,NO,NO.
+1042819039,order,"Did the events occur in the order of the street getting filled with people, then vehicles?",1,0,-1.0844,NO,NO.
+1042819039,order,Did the street get filled with vehicles before getting filled with people?,0,0,-2.1961,NO,NO.
+1042819039,order,"Did the events occur in the order of the street getting filled with vehicles, then people?",0,0,-1.4729,NO,NO.
+1093139559,direction,Is the camera moving in the direction of zooming in?,1,0,-1.4944,NO,NO.
+1093139559,direction,Does zooming forward best describe the camera's motion?,1,0,-1.4807,NO,NO.
+1093139559,direction,Is the camera moving in the direction of zooming out?,0,0,-1.1213,NO,NO.
+1093139559,direction,Is tilting upwards the best description of the camera's motion?,0,0,-0.9906,NO,NO.
+1108398787,order,Is the person scrolling down and then entering passwords?,1,0,-1.4891,NO,NO.
+1108398787,order,Are the events occurring in the order of scrolling down and then entering passwords?,1,0,-1.3664,NO,NO.
+1108398787,order,Is the person performing the actions by scrolling down and then entering passwords?,1,0,-1.6141,NO,NO.
+1108398787,order,Is the person entering passwords and then scrolling down?,0,0,-1.1113,NO,NO.
+1108398787,order,Are the events occurring in the order of entering passwords and then scrolling up?,0,0,-0.2427,NO,NO.
+1108398787,order,Is the person performing the actions by scrolling up and then entering passwords?,0,0,-1.8665,NO,NO.
+1080591311,direction,Is the jellyfish floating upwards?,1,0,-1.1093,NO,NO.
+1080591311,direction,Is the direction of motion for the jellyfish upwards?,1,0,-1.2301,NO,NO.
+1080591311,direction,Is going up the way the jellyfish is moving?,1,0,-1.1247,NO,NO.
+1080591311,direction,Is the jellyfish moving towards the right?,0,0,-0.3594,NO,NO.
+1080591311,direction,Is floating to the left the direction of motion for the jellyfish?,0,0,-0.9846,NO,NO.
+1080591311,direction,Is going down the way the jellyfish is moving?,0,0,-0.1245,NO,NO.
+1107034223,order,Is the bear catching a fish and then turning back?,1,0,-0.5906,NO,NO.
+1107034223,order,Is the bear turning back and then catching a fish?,0,0,-2.4865,NO,NO.
+3411228673,direction,Is the direction of the movement in the video upwards among skyscraper buildings?,1,0,-2.1128,NO,NO.
+3411228673,direction,Is the path of movement in the video flying upwards?,1,0,-1.3579,NO,NO.
+3411228673,direction,Is the camera moving downwards?,0,0,-1.4877,NO,NO.
+3411228673,direction,Is the path of movement in the video flying backwards?,0,0,-2.1008,NO,NO.
+1043487715,order,Are the children diving into water and then making gestures to the camera?,1,0,-1.8579,NO,NO.
+1043487715,order,Are the children making gestures to the camera after diving into water?,1,0,-2.1184,NO,NO.
+1043487715,order,Is diving into water followed by making gestures to the camera in the video?,1,0,-2.0992,NO,NO.
+1043487715,order,Are the children making gestures to the camera and then diving into water?,0,0,-4.1208,NO,NO.
+1043487715,order,Are the children leaving the swimming pool and then making gestures to the camera?,0,0,-1.0977,NO,NO.
+1043487715,order,Is making gestures to the camera followed by diving into water in the video?,0,0,-3.2394,NO,NO.
+1093737353,direction,Is the camera panning to the right?,1,0,-1.2398,NO,NO.
+1093737353,direction,Is the direction of the camera's movement rightwards?,1,0,-0.614,NO,NO.
+1093737353,direction,Is the camera panning to the left?,0,0,-1.4961,NO,NO.
+1093737353,direction,Is the direction of the camera's movement downwards?,0,0,-0.4826,NO,NO.
+1093737353,order,Is the order that the equipments are shown in the video a line of test tubes and then a beaker?,1,0,-0.4694,NO,NO.
+1093737353,order,Are the test tubes shown before the beaker?,1,0,-1.3475,NO,NO.
+1093737353,order,Is the beaker shown after the test tubes?,1,0,-1.9937,NO,NO.
+1093737353,order,Is the order that the equipments are shown in the video a beaker and then a line of test tubes?,0,1,0.1522,YES,YES.
+1093737353,order,Are the test tubes shown after the beaker?,0,0,-1.3576,NO,NO.
+1093737353,order,Is the beaker shown before the test tubes?,0,0,-1.739,NO,NO.
+1017768724,direction,Is the person moving rightwards?,1,0,-0.7403,NO,NO.
+1017768724,direction,Is the person turning rightwards?,1,0,-0.7323,NO,NO.
+1017768724,direction,Is the person rotating to the right?,1,0,-0.8689,NO,NO.
+1017768724,direction,Is the person moving leftwards?,0,0,-1.3664,NO,NO.
+1017768724,direction,Is the person turning upwards?,0,0,-0.869,NO,NO.
+1017768724,direction,Is the person moving downwards?,0,0,-0.8625,NO,NO.
+1106280325,order,Does a girl appear before the body of water in the video?,1,0,-1.5442,NO,NO.
+1106280325,order,Is a body of water shown after a girl reading a book in the video?,1,0,-1.4806,NO,NO.
+1106280325,order,Is a body of water shown before a girl reading a book in the video?,0,0,-2.3557,NO,NO.
+1106280325,order,Does a girl appear after the body of water in the video?,0,0,-0.8285,NO,NO.
+1100117263,direction,Is the little lion's motion downward?,1,0,-0.2304,NO,NO.
+1100117263,direction,Is the little lion falling from the back of an adult lion?,1,0,-2.1181,NO,NO.
+1100117263,direction,Is the little lion going in the direction of falling down?,1,0,-1.7346,NO,NO.
+1100117263,direction,Is the little lion's motion upward?,0,0,-0.2376,NO,NO.
+1100117263,direction,Is the little lion climbing to the back of an adult lion?,0,0,-1.2497,NO,NO.
+1100117263,direction,Is the little lion climbing up?,0,0,-0.7358,NO,NO.
+15695290,order,Is a house being drawn before a family of people in the video?,1,0,-2.488,NO,NO.
+15695290,order,"Is the house being drawn first, and then the family of people in the video?",1,0,-3.113,NO,NO.
+15695290,order,Is the order of events in the video that a house is being drawn first and then a family of people?,1,0,-0.5978,NO,NO.
+15695290,order,Is a family of people being drawn before a house in the video?,0,0,-2.9875,NO,NO.
+15695290,order,"Is the family of people being drawn first, and then the house in the video?",0,0,-2.3479,NO,NO.
+15695290,order,Is the order of events in the video that a family of people is being drawn first and then a house?,0,0,-0.5818,NO,NO.
+1091090295,order,"Does the bird fly onto the back of the hippo first, then a hippo pokes its head out of water?",1,0,-2.1159,NO,NO.
+1091090295,order,Does a bird flying onto the back of a hippo happen before a hippo pokes its head out of water?,1,0,-2.3663,NO,NO.
+1091090295,order,Does a hippo put its head into water before a bird flying onto the back of a hippo?,0,0,-2.108,NO,NO.
+1091090295,order,Does a hippo poking its head out of water happen before a bird flying onto the back of a hippo?,0,0,-1.4759,NO,NO.
+1021488277,direction,Is a person picking up the pineapple?,1,0,-2.8811,NO,NO.
+1021488277,direction,Is the pineapple being picked up by a person?,1,0,-2.8805,NO,NO.
+1021488277,direction,Can an individual be observed lifting the pineapple?,1,0,-3.6172,NO,NO.
+1021488277,direction,Is a person dropping down the pineapple?,0,0,-3.7538,NO,NO.
+1021488277,direction,Is the pineapple being rotated by a person?,0,0,-2.7498,NO,NO.
+1021488277,direction,Is the pineapple being pushed forward by a person?,0,0,-3.2443,NO,NO.
+1067925569,order,Is the order of events in the video first a container ship is shown and then a cargo train is shown?,1,0,-0.4727,NO,NO.
+1067925569,order,Are the events presented in the video in the sequence of first a container ship is shown and secondly a cargo train is shown?,1,0,-0.7156,NO,NO.
+1067925569,order,Does a cargo train come after a container ship in the video?,1,0,-2.4618,NO,NO.
+1067925569,order,Is the order of events in the video first a cargo train is shown and then a container ship is shown?,0,0,-0.1006,NO,NO.
+1067925569,order,Are the events presented in the video in the sequence of first a cargo train is shown and secondly a container ship is shown?,0,0,-0.3444,NO,NO.
+1067925569,order,Does a container ship come after a cargo train in the video?,0,0,-2.3579,NO,NO.
+1100397435,direction,Is the robot vacuum cleaner moving to the right side of the screen?,1,0,-1.1171,NO,NO.
+1100397435,direction,Is the movement pattern of the robot vacuum cleaner a straight line to the right side of the screen?,1,0,-0.9785,NO,NO.
+1100397435,direction,Is the robot vacuum cleaner heading to the right side of the screen?,1,0,-0.344,NO,NO.
+1100397435,direction,Is the robot vacuum cleaner moving to the left side of the screen?,0,0,-1.3774,NO,NO.
+1100397435,direction,IIs the robot vacuum cleaner moving to the bottom side of the screen?,0,0,-0.9877,NO,NO.
+1100397435,direction,Is the robot vacuum cleaner heading to the upper side of the screen?,0,0,-0.2279,NO,NO.
+1100397435,order,Does the person enter the screen first and then the robot vacuum cleaner starts moving?,1,0,-1.6114,NO,NO.
+1100397435,order,Does a person enter the screen before the robot vacuum cleaner starts moving?,1,0,-3.2538,NO,NO.
+1100397435,order,Is the first event in the video about a person entering the screen and then the robot vacuum cleaner starts moving?,1,0,-1.4865,NO,NO.
+1100397435,order,Does the robot vacuum cleaner start moving first and then a person enters the screen?,0,0,-1.8534,NO,NO.
+1100397435,order,Does the robot vacuum cleaner start moving before a person enters the screen?,0,0,-1.7404,NO,NO.
+1100397435,order,Is the first event in the video about the robot vacuum cleaner starting to move and then a person enters the screen?,0,0,-1.3628,NO,NO.
+1108534143,direction,Is the puppy walking out of a wigwam?,1,0,-2.3658,NO,NO.
+1108534143,direction,Is the direction of the puppy's movement walking out of a wigwam?,1,0,-1.3638,NO,NO.
+1108534143,direction,Is walking out of a wigwam the action the puppy is taking?,1,0,-1.7435,NO,NO.
+1108534143,direction,Is the puppy staying in a wigwam without going out?,0,0,-2.8677,NO,NO.
+1108534143,direction,Is the direction of the puppy's movement entering a wigwam?,0,0,-2.745,NO,NO.
+1108534143,direction,Is walking around a wigwam the action the puppy is taking?,0,0,-2.8699,NO,NO.
+1034049020,order,"Is the order of events Painting a wall while walking, then turning back?",1,0,-0.7257,NO,NO.
+1034049020,order,"Are the events occurring in the order of Painting a wall while walking, then turning back?",1,0,-2.1008,NO,NO.
+1034049020,order,Does the woman turn back after painting a wall while walking?,1,0,-2.3677,NO,NO.
+1034049020,order,"Is the order of events Turning back and painting the wall, then walking?",0,0,-1.2259,NO,NO.
+1034049020,order,Are the events occurring in the order of Turning back first and later painting a wall while walking?,0,0,-2.2351,NO,NO.
+1034049020,order,Does the woman sit down after painting a wall?,0,0,-1.4759,NO,NO.
+1047368344,direction,Is the girl jumping into water?,1,0,-1.8677,NO,NO.
+1047368344,direction,In which direction is the girl moving? Is it towards the water?,1,0,-0.8599,NO,NO.
+1047368344,direction,Is the girl jumping out of water?,0,0,-2.1134,NO,NO.
+1047368344,direction,In which direction is the girl moving? Is it away from the water?,0,0,-1.3429,NO,NO.
+1047368344,order,Is the girl taking off clothes and then jumping into water?,1,0,-3.4943,NO,NO.
+1047368344,order,Does the girl take off clothes before jumping into water?,1,0,-2.9785,NO,NO.
+1047368344,order,"Is the sequence of actions performed by the girl: taking off clothes, putting on clothes, jumping into water?",1,0,-0.5789,NO,NO.
+1047368344,order,Is the girl jumping into water and then putting on clothes?,0,0,-3.4936,NO,NO.
+1047368344,order,Does the girl jump into water before taking off clothes?,0,0,-3.4999,NO,NO.
+1047368344,order,"Is the sequence of actions performed by the girl: putting on clothes, jumping into water, taking off clothes?",0,0,-1.4489,NO,NO.
+1100074677,order,Did the person write something on the paper note and then stand it up?,1,0,-1.7228,NO,NO.
+1100074677,order,Did the person arrange the actions by writing something on the paper note and then standing it up?,1,0,-0.7285,NO,NO.
+1100074677,order,Did the person stands up the paper note and then write something on it?,0,0,-1.2227,NO,NO.
+1100074677,order,Did the person arrange the actions by standing the paper note up and then writing something on it?,0,0,-0.2138,NO,NO.
+1100350201,order,Is the little girl drawn before the man in the video?,1,0,-1.8558,NO,NO.
+1100350201,order,Does the drawing of the little girl occur before the drawing of the man in the video?,1,1,0.1678,YES,YES.
+1100350201,order,Is the order of events in the video that the little girl is drawn first and then the man is drawn?,1,0,-0.4879,NO,NO.
+1100350201,order,Is the man drawn before the little girl in the video?,0,0,-1.8672,NO,NO.
+1100350201,order,Does the drawing of the man occur before the drawing of the little girl in the video?,0,0,-0.4458,NO,NO.
+1100350201,order,Is the order of events in the video that the man is drawn first and then the little girl is drawn?,0,0,-0.4879,NO,NO.
+1086423566,order,Is food added into the bowl and then the bowl rotates?,1,0,-2.2436,NO,NO.
+1086423566,order,In what sequence do the events occur in the video: food added into the bowl and then the bowl rotates?,1,0,-0.4253,NO,NO.
+1086423566,order,Is this the correct order of actions: food added into the bowl and then the bowl rotates?,1,0,-0.858,NO,NO.
+1086423566,order,Is the bowl rotating before adding food into it?,0,0,-2.865,NO,NO.
+1086423566,order,In what sequence do the events occur in the video: food added into the bowl after the bowl rotates?,0,0,-1.0536,NO,NO.
+1086423566,order,Is this the correct order of actions: the bowl rotates and then food added into the bowl?,0,0,-1.2275,NO,NO.
+1069611487,order,Did the video show a pizza box appearing and then pizza slices being taken away?,1,0,-2.6299,NO,NO.
+1069611487,order,Did the video show pizza slices being taken away after a pizza box appeared?,1,0,-1.9949,NO,NO.
+1069611487,order,"Did the events in the video occur in the order: a paper box appears, then pizza slices disappear?",1,0,-0.946,NO,NO.
+1069611487,order,Did the video show pizza slices disappearing before a pizza box appeared?,0,0,-0.7285,NO,NO.
+1069611487,order,Did the video show a paper box appearing as the last event?,0,0,-1.1096,NO,NO.
+1069611487,order,"Did the events in the video occur in the order: pizza slices appear, then a paper box appears?",0,0,-0.9568,NO,NO.
+1083845854_reverse,direction,Are the clock hands moving counterclockwise?,1,0,-1.4827,NO,NO.
+1083845854_reverse,direction,Are the clock hands moving clockwise?,0,0,-0.7237,NO,NO.
+1100329207_reverse,direction,Is the direction of the camera view moving backward?,1,0,-1.1034,NO,NO.
+1100329207_reverse,direction,Is the video panning in the backward direction?,1,0,-2.1057,NO,NO.
+1100329207_reverse,direction,Is the camera movement directed towards moving backward?,1,0,-1.4767,NO,NO.
+1100329207_reverse,direction,Is the direction of the camera view moving forward?,0,0,-0.7329,NO,NO.
+1100329207_reverse,direction,Is the video panning downwards?,0,0,-1.4925,NO,NO.
+1100329207_reverse,direction,Is the camera movement tilting up?,0,0,-1.6183,NO,NO.
+1089201973_reverse,direction,Is the football moving from right to left?,1,0,-1.1144,NO,NO.
+1089201973_reverse,direction,Is the football moving from left to right?,0,0,-0.7404,NO,NO.
+1034736653_reverse,direction,Are the woman athletes running from right to left?,1,0,-0.8261,NO,NO.
+1034736653_reverse,direction,Are the woman athletes running from left to right?,0,0,-0.4689,NO,NO.
+1084153195_reverse,direction,Are the dolphins swimming away from the shore?,1,0,-1.4952,NO,NO.
+1084153195_reverse,direction,In which direction are the dolphins swimming? Away from the shore?,1,0,-0.9882,NO,NO.
+1084153195_reverse,direction,Are the dolphins hovering in one place in the entire video?,0,0,-1.7257,NO,NO.
+1084153195_reverse,direction,Are the dolphins swimming towards the shore?,0,0,-2.3749,NO,NO.
+1081092839_reverse,direction,Is the direction of the sun ascending?,1,0,-0.6217,NO,NO.
+1081092839_reverse,direction,Is the movement pattern of the sun rising?,1,1,0.3881,YES,YES.
+1081092839_reverse,direction,Does the sun travel upwards?,1,0,-0.7306,NO,NO.
+1081092839_reverse,direction,Is the direction of the sun descending?,0,0,-0.4998,NO,NO.
+1081092839_reverse,direction,Is the movement pattern of the sun falling?,0,0,-1.1034,NO,NO.
+1081092839_reverse,direction,Does the sun travel downwards during sunrise,0,0,-1.6057,NO,NO.
+1059462749_reverse,direction,Is the person moving upwards?,1,0,-0.9875,NO,NO.
+1059462749_reverse,direction,Does the word 'ascending' describe the movement of the person?,1,0,-1.6033,NO,NO.
+1059462749_reverse,direction,Is the person ascending from a lower point to a higher point?,1,1,0.5153,YES,YES.
+1059462749_reverse,direction,Is the person moving downwards?,0,0,-0.8613,NO,NO.
+1059462749_reverse,direction,Does the word 'falling' describe the movement of the person?,0,0,-0.9914,NO,NO.
+1059462749_reverse,direction,Is the person descending towards a lower point from a higher point?,0,1,1.5094,YES,YES.
+1088279109_reverse,direction,Is the elevator descending?,1,0,-0.7324,NO,NO.
+1088279109_reverse,direction,Is the elevator moving down?,1,0,-0.8578,NO,NO.
+1088279109_reverse,direction,Is descending the direction of the elevator's movement?,1,0,-0.4463,NO,NO.
+1088279109_reverse,direction,Is the elevator going up?,0,0,-1.1217,NO,NO.
+1088279109_reverse,direction,Is ascending the direction of the elevator's movement?,0,0,-0.5708,NO,NO.
+1088279109_reverse,direction,Is the elevator stopped?,0,1,0.1422,YES,YES.
+1096612823_reverse,direction,Is the video zooming out?,1,0,-1.3746,NO,NO.
+1096612823_reverse,direction,Is direction of movement zooming out?,1,0,-0.7455,NO,NO.
+1096612823_reverse,direction,Is the video changing by zooming out?,1,0,-1.9954,NO,NO.
+1096612823_reverse,direction,Is the video zooming in?,0,0,-1.8712,NO,NO.
+1096612823_reverse,direction,Is the video rotating?,0,0,-1.9905,NO,NO.
+1096612823_reverse,direction,Is the video panning left?,0,0,-1.4995,NO,NO.
+1075484900_reverse,direction,Is the child turning towards the man?,1,0,-0.3664,NO,NO.
+1075484900_reverse,direction,Is the child turning away from the man?,0,0,-0.3554,NO,NO.
+1090578917_reverse,direction,Is the man leaping to his left?,1,0,-0.8473,NO,NO.
+1090578917_reverse,direction,Is the man moving towards the left?,1,0,-1.1126,NO,NO.
+1090578917_reverse,direction,Is the man leaping to his right?,0,0,-0.6004,NO,NO.
+1090578917_reverse,direction,Is the man moving forwards?,0,0,-0.7254,NO,NO.
+1075338140_reverse,direction,Is the ball rolling from right to left?,1,0,-0.4724,NO,NO.
+1075338140_reverse,direction,Is the ball moving in the direction of rolling from right to left?,1,0,-0.8505,NO,NO.
+1075338140_reverse,direction,Does the ball travel in the direction of rolling from right to left?,1,0,-1.3475,NO,NO.
+1075338140_reverse,direction,Is the ball spinning in place?,0,0,-1.6176,NO,NO.
+1075338140_reverse,direction,Is the ball moving counterclockwise?,0,0,-0.8595,NO,NO.
+1075338140_reverse,direction,Is the ball rolling from left to right?,0,1,0.147,YES,YES.
+1067268403_reverse,direction,Are the wind turbines rotating counterclockwise?,1,0,-0.9807,NO,NO.
+1067268403_reverse,direction,Are the wind turbines rotating clockwise?,0,0,-1.2365,NO,NO.
+1096007487_reverse,direction,Is the 3d cloud spinning rightward from the camera's point of view?,1,0,-0.9948,NO,NO.
+1096007487_reverse,direction,Is the 3d cloud spinning rightward as seen from the camera's perspective?,1,0,-0.489,NO,NO.
+1096007487_reverse,direction,Does the 3D cloud appear to be rotating rightward from the viewpoint of the camera?,1,0,-0.6056,NO,NO.
+1096007487_reverse,direction,Is the 3d cloud spinning leftward from the camera's point of view?,0,0,-1.1198,NO,NO.
+1096007487_reverse,direction,Is the 3d cloud spinning upward from the camera's point of view?,0,0,-0.8683,NO,NO.
+1096007487_reverse,direction,Is the 3d cloud spinning downward from the camera's point of view?,0,0,-0.8683,NO,NO.
+1095939659_reverse,direction,Is the light growing in a anticlockwise direction?,1,0,-0.7441,NO,NO.
+1095939659_reverse,direction,Is the direction of the light's movement clockwise?,0,0,-0.9842,NO,NO.
+1098785169_reverse,direction,Is the direction of the galaxy's spin counterclockwise?,1,0,-0.3595,NO,NO.
+1098785169_reverse,direction,Is the direction of the galaxy's spin clockwise?,0,0,-1.4831,NO,NO.
+1099984801_reverse,direction,Are the clouds moving away from the camera?,1,0,-1.6174,NO,NO.
+1099984801_reverse,direction,Are the clouds moving towards the camera?,0,0,-2.3748,NO,NO.
+1082419672_reverse,direction,Is the direction of movement in the video flying forwards?,1,0,-0.7433,NO,NO.
+1082419672_reverse,direction,Is the entire video moving forwards relative to the ship?,1,0,-1.3645,NO,NO.
+1082419672_reverse,direction,Is the direction of movement in the video flying backwards?,0,0,-1.6172,NO,NO.
+1082419672_reverse,direction,Is the entire video moving backwards relative to the ship?,0,0,-1.7445,NO,NO.
+1058985719_reverse,direction,Is the airplane flying from top to bottom?,1,0,-0.8443,NO,NO.
+1058985719_reverse,direction,Is the airplane moving downwards on the screen?,1,0,-0.8556,NO,NO.
+1058985719_reverse,direction,Is the airplane flying from bottom to top?,0,0,-0.5818,NO,NO.
+1058985719_reverse,direction,Is the airplane moving upwards on the screen?,0,0,-1.242,NO,NO.
+1055413730_reverse,direction,Is the planet Earth spinning leftwards?,1,0,-2.86,NO,NO.
+1055413730_reverse,direction,"According to the camera's perspective, is the rotational movement of the planet Earth spinning to the left?",1,0,-0.9657,NO,NO.
+1055413730_reverse,direction,"Based on the camera's viewpoint, is the apparent motion of the Earth spinning to the left?",1,0,-0.9656,NO,NO.
+1055413730_reverse,direction,Is the planet Earth spinning rightwards?,0,1,2.1341,YES,YES.
+1055413730_reverse,direction,"According to the camera's perspective, is the rotational movement of the planet Earth rotating upward?",0,0,-0.9618,NO,NO.
+1055413730_reverse,direction,"Based on the camera's viewpoint, is the apparent motion of the Earth a complete stop?",0,0,-1.4747,NO,NO.
+1081684532_reverse,direction,Are the asteroids flying away from the camera?,1,0,-1.363,NO,NO.
+1081684532_reverse,direction,Are the asteroids flying towards the camera?,0,0,-1.7468,NO,NO.
+23391142_reverse,direction,Is the video panning to the left?,1,0,-1.6245,NO,NO.
+23391142_reverse,direction,Is the movement of the video about panning to the left?,1,0,-1.2323,NO,NO.
+23391142_reverse,direction,Is the scene shifting to the left?,1,0,-1.9997,NO,NO.
+23391142_reverse,direction,Is the video panning to the right?,0,0,-1.2415,NO,NO.
+23391142_reverse,direction,Is the movement of the video about zooming in?,0,0,-1.119,NO,NO.
+23391142_reverse,direction,Is the scene shifting to the bottom?,0,0,-2.119,NO,NO.
+1053758117_reverse,direction,Is the camera zooming out from a 3D digital brain?,1,0,-1.7451,NO,NO.
+1053758117_reverse,direction,Is the camera moving in the video by zooming out?,1,0,-2.371,NO,NO.
+1053758117_reverse,direction,Is the camera standing still before a 3D digital brain?,0,0,-0.9915,NO,NO.
+1053758117_reverse,direction,Is the camera zooming in in the video?,0,0,-2.2328,NO,NO.
+1106668103_reverse,direction,Is the direction of movement in the video moving backward?,1,0,-1.8614,NO,NO.
+1106668103_reverse,direction,Is the primary motion depicted in the video about moving backward?,1,0,-1.2375,NO,NO.
+1106668103_reverse,direction,Does the primary trajectory in the video involve moving backward?,1,0,-1.8597,NO,NO.
+1106668103_reverse,direction,Is the direction of movement in the video moving forward?,0,0,-1.4809,NO,NO.
+1106668103_reverse,direction,Is the primary motion depicted in the video about moving leftward?,0,0,-1.2413,NO,NO.
+1106668103_reverse,direction,Does the primary trajectory in the video involve moving right ward?,0,0,-0.4884,NO,NO.
+1057163434_reverse,direction,Is the chef removing the bread from the burger?,1,0,-1.8596,NO,NO.
+1057163434_reverse,direction,Is the chef putting the bread on top of the burger?,0,0,-1.1156,NO,NO.
+1100319395_reverse,direction,Is the circular pattern moving counter-clockwise?,1,0,-1.2421,NO,NO.
+1100319395_reverse,direction,Is the circular pattern spinning counter-clockwise?,1,0,-1.4878,NO,NO.
+1100319395_reverse,direction,Is the circular pattern spinning in the anticlockwise direction?,1,0,-1.6115,NO,NO.
+1100319395_reverse,direction,Is the circular pattern moving clockwise?,0,0,-1.4929,NO,NO.
+1100319395_reverse,direction,Is the circular pattern spinning clockwise?,0,0,-1.868,NO,NO.
+1100319395_reverse,direction,Is the circular pattern spinning in the clockwise direction?,0,0,-1.9903,NO,NO.
+1101200293_reverse,direction,Is the camera motion relative to the aircraft carrier counterclockwise?,1,0,-0.8627,NO,NO.
+1101200293_reverse,direction,Is the camera motion relative to the aircraft carrier clockwise?,0,0,-0.988,NO,NO.
+1072453637_reverse,direction,Is the camera panning to the front of a fighter jet?,1,0,-3.0019,NO,NO.
+1072453637_reverse,direction,Is the camera panning to the back around a fighter jet?,0,0,-2.6162,NO,NO.
+3396473605_reverse,direction,Do the five stars disappear from right to left?,1,0,-0.924,NO,NO.
+3396473605_reverse,direction,Do the five stars appear from left to right?,0,0,-0.2146,NO,NO.
+1086820415_reverse,direction,Is the large wave moving vertically towards the top of the screen?,1,0,-1.1219,NO,NO.
+1086820415_reverse,direction,Does the large wave move in the direction towards the top of the screen?,1,0,-0.7472,NO,NO.
+1086820415_reverse,direction,Is moving vertically towards the top the direction of motion of the large wave?,1,0,-1.4949,NO,NO.
+1086820415_reverse,direction,Is the large wave moving horizontally towards the right side of the screen?,0,0,-0.4952,NO,NO.
+1086820415_reverse,direction,Does the large wave move in the direction towards the bottom of the screen?,0,0,-0.8708,NO,NO.
+1086820415_reverse,direction,Is moving vertically towards the bottom the direction of motion of the large wave?,0,0,-1.6248,NO,NO.
+1073831006_reverse,direction,Are the zebras moving from right to left?,1,0,-0.5973,NO,NO.
+1073831006_reverse,direction,Are the zebras moving from right to left relative to the camera?,1,0,-0.3611,NO,NO.
+1073831006_reverse,direction,Are the zebras heading leftward?,1,0,-0.2315,NO,NO.
+1073831006_reverse,direction,Are the zebras moving from left to right?,0,0,-0.228,NO,NO.
+1073831006_reverse,direction,Are the zebras moving away from the camera?,0,0,-0.7343,NO,NO.
+1073831006_reverse,direction,Are the zebras heading downward?,0,0,-0.594,NO,NO.
+1024867412_reverse,direction,Is the car taking a right left?,1,0,-0.9889,NO,NO.
+1024867412_reverse,direction,Is the car moving in the left direction?,1,0,-1.2363,NO,NO.
+1024867412_reverse,direction,Is making a left turn the maneuver the car is making?,1,0,-1.3598,NO,NO.
+1024867412_reverse,direction,Is the car driving straight in the entire video?,0,0,-1.4568,NO,NO.
+1024867412_reverse,direction,Is the car moving to the right?,0,0,-0.8595,NO,NO.
+1024867412_reverse,direction,Is making a right turn the maneuver the car is making?,0,0,-1.3595,NO,NO.
+1076877854_reverse,direction,Is the closest robotic arm moving to the left side of the screen?,1,0,-1.3704,NO,NO.
+1076877854_reverse,direction,Can the closest robotic arm be observed moving to the left side of the screen?,1,0,-2.3702,NO,NO.
+1076877854_reverse,direction,Does the closest robotic arm exhibit movement to the left side of the screen?,1,0,-1.6218,NO,NO.
+1076877854_reverse,direction,Is the closest robotic arm moving towards the camera?,0,0,-1.4924,NO,NO.
+1076877854_reverse,direction,Can the closest robotic arm be observed moving to the right side of the screen?,0,0,-2.1202,NO,NO.
+1076877854_reverse,direction,Does the closest robotic arm sway back and forth?,0,0,-1.867,NO,NO.
+1100468035_reverse,direction,Is the camera zooming backward?,1,0,-1.8532,NO,NO.
+1100468035_reverse,direction,Is the camera moving towards zooming backward?,1,0,-2.4657,NO,NO.
+1100468035_reverse,direction,Does the camera show zooming backward movement?,1,0,-2.2194,NO,NO.
+1100468035_reverse,direction,Is the camera zooming forward?,0,0,-1.4891,NO,NO.
+1100468035_reverse,direction,Is the camera tracking right?,0,0,-0.9932,NO,NO.
+1100468035_reverse,direction,Is the camera panning left?,0,0,-1.4885,NO,NO.
+3411806181_reverse,direction,Is the person moving the charging gun away from the car?,1,0,-0.7305,NO,NO.
+3411806181_reverse,direction,Is the person unplugging the charging gun from the car?,1,0,-1.2155,NO,NO.
+3411806181_reverse,direction,Is the person moving the charging gun towards himself?,1,0,-0.5903,NO,NO.
+3411806181_reverse,direction,Is the person moving the charging gun towards the car?,0,0,-0.9877,NO,NO.
+3411806181_reverse,direction,Is the person performing the action of plugging the charging gun into the car?,0,0,-0.9755,NO,NO.
+3411806181_reverse,direction,Is the person moving the charging gun towards the side of the car?,0,0,-0.5941,NO,NO.
+1073914229_reverse,direction,Do the trains travel away from each other?,1,0,-0.7908,NO,NO.
+1073914229_reverse,direction,Do the trains travel towards each other?,0,0,-0.5708,NO,NO.
+1093139559_reverse,direction,Is the camera moving in the direction of zooming out?,1,0,-1.1213,NO,NO.
+1093139559_reverse,direction,Does zooming out best describe the camera's motion?,1,0,-0.7419,NO,NO.
+1093139559_reverse,direction,Is the camera moving in the direction of zooming in?,0,0,-1.4944,NO,NO.
+1093139559_reverse,direction,Is tilting upwards the best description of the camera's motion?,0,0,-0.9894,NO,NO.
+1080591311_reverse,direction,Is the jellyfish floating downwards?,1,0,-0.6003,NO,NO.
+1080591311_reverse,direction,Is the direction of motion for the jellyfish downwards?,1,0,-0.4781,NO,NO.
+1080591311_reverse,direction,Is going down the way the jellyfish is moving?,1,0,-0.1245,NO,NO.
+1080591311_reverse,direction,Is the jellyfish moving towards the right?,0,0,-0.2424,NO,NO.
+1080591311_reverse,direction,Is floating to the left the direction of motion for the jellyfish?,0,0,-0.9846,NO,NO.
+1080591311_reverse,direction,Is going up the way the jellyfish is moving?,0,0,-1.2426,NO,NO.
+3411228673_reverse,direction,Is the direction of the movement in the video downwards among skyscraper buildings?,1,0,-1.603,NO,NO.
+3411228673_reverse,direction,Is the path of movement in the video flying downwards?,1,0,-0.6032,NO,NO.
+3411228673_reverse,direction,Is the camera moving upwards?,0,0,-1.9903,NO,NO.
+3411228673_reverse,direction,Is the path of movement in the video flying backwards?,0,0,-1.9847,NO,NO.
+1093737353_reverse,direction,Is the camera panning to the left?,1,0,-1.4925,NO,NO.
+1093737353_reverse,direction,Is the direction of the camera's movement leftwards?,1,0,-0.6092,NO,NO.
+1093737353_reverse,direction,Is the camera panning to the right?,0,0,-1.2424,NO,NO.
+1093737353_reverse,direction,Is the direction of the camera's movement downwards?,0,0,-0.4826,NO,NO.
+1017768724_reverse,direction,Is the person moving leftwards?,1,0,-1.239,NO,NO.
+1017768724_reverse,direction,Is the person turning leftwards?,1,0,-0.6056,NO,NO.
+1017768724_reverse,direction,Is the person rotating to the left?,1,0,-0.9931,NO,NO.
+1017768724_reverse,direction,Is the person moving rightwards?,0,0,-0.7364,NO,NO.
+1017768724_reverse,direction,Is the person turning upwards?,0,0,-0.9875,NO,NO.
+1017768724_reverse,direction,Is the person moving downwards?,0,0,-0.8613,NO,NO.
+1100117263_reverse,direction,Is the little lion's motion upward?,1,0,-0.2304,NO,NO.
+1100117263_reverse,direction,Is the little lion climbing to the back of an adult lion?,1,0,-1.3476,NO,NO.
+1100117263_reverse,direction,Is the little lion climbing up?,1,0,-0.7278,NO,NO.
+1100117263_reverse,direction,Is the little lion's motion downward?,0,0,-0.111,NO,NO.
+1100117263_reverse,direction,Is the little lion falling from the back of an adult lion?,0,0,-2.118,NO,NO.
+1100117263_reverse,direction,Is the little lion going in the direction of falling down?,0,0,-1.7346,NO,NO.
+1021488277_reverse,direction,Is a person dropping down the pineapple?,1,0,-3.6293,NO,NO.
+1021488277_reverse,direction,Is the pineapple being dropped down by a person?,1,0,-2.9935,NO,NO.
+1021488277_reverse,direction,Can an individual be observed dropping the pineapple?,1,0,-3.7389,NO,NO.
+1021488277_reverse,direction,Is a person picking up the pineapple?,0,0,-2.8819,NO,NO.
+1021488277_reverse,direction,Is the pineapple being rotated by a person?,0,0,-2.7442,NO,NO.
+1021488277_reverse,direction,Is the pineapple being pushed forward by a person?,0,0,-3.2442,NO,NO.
+1100397435_reverse,direction,Is the robot vacuum cleaner moving to the left side of the screen?,1,0,-1.4892,NO,NO.
+1100397435_reverse,direction,Is the movement pattern of the robot vacuum cleaner a straight line to the left side of the screen?,1,0,-0.9829,NO,NO.
+1100397435_reverse,direction,Is the robot vacuum cleaner heading to the left side of the screen?,1,0,-0.478,NO,NO.
+1100397435_reverse,direction,Is the robot vacuum cleaner moving to the right side of the screen?,0,0,-1.115,NO,NO.
+1100397435_reverse,direction,IIs the robot vacuum cleaner moving to the bottom side of the screen?,0,0,-0.9862,NO,NO.
+1100397435_reverse,direction,Is the robot vacuum cleaner heading to the upper side of the screen?,0,0,-0.2189,NO,NO.
+1108534143_reverse,direction,Is the puppy entering a wigwam?,1,0,-2.8699,NO,NO.
+1108534143_reverse,direction,Is the direction of the puppy's movement entering a wigwam?,1,0,-2.7422,NO,NO.
+1108534143_reverse,direction,Is entering a wigwam the action the puppy is taking?,1,0,-2.7499,NO,NO.
+1108534143_reverse,direction,Is the puppy staying in a wigwam without going out?,0,0,-2.8668,NO,NO.
+1108534143_reverse,direction,Is the direction of the puppy's movement walking out of a wigwam?,0,0,-1.3623,NO,NO.
+1108534143_reverse,direction,Is walking around a wigwam the action the puppy is taking?,0,0,-2.8693,NO,NO.
+1047368344_reverse,direction,Is the girl jumping out of water?,1,0,-1.9884,NO,NO.
+1047368344_reverse,direction,In which direction is the girl moving? Is it away from the water?,1,0,-1.3429,NO,NO.
+1047368344_reverse,direction,Is the girl jumping into water?,0,0,-1.9784,NO,NO.
+1047368344_reverse,direction,In which direction is the girl moving? Is it towards the water?,0,0,-0.9786,NO,NO.
+1059072773_1059718130_0,order,Are the sun rising and ice cream melting at the same time?,1,0,-3.2549,NO,NO.
+1059072773_1059718130_0,order,Do sun rising and ice cream melting occur simultaneously?,1,0,-4.004,NO,NO.
+1059072773_1059718130_0,order,Is the sun rising happening before ice cream melting?,0,0,-1.8681,NO,NO.
+1059072773_1059718130_0,order,Are the ice cream melting and sun rising happening at different times?,0,0,-0.1006,NO,NO.
+1059072773_1059718130_1,order,Does the ice cream melt before the sun rises?,1,0,-2.6339,NO,NO.
+1059072773_1059718130_1,order,Does the ice cream melt and then the sun rises in the video?,1,0,-3.1312,NO,NO.
+1059072773_1059718130_1,order,Does the sun rise before the ice cream melts in the video?,0,0,-1.3659,NO,NO.
+1059072773_1059718130_1,order,Do both events occur at the same time in the video?,0,0,-1.3367,NO,NO.
+1059072773_1059718130_2,order,Does the sun rise before the ice cream melts?,1,1,0.762,YES,YES.
+1059072773_1059718130_2,order,Is the sequence of events in the video sun rising and ice cream melting?,1,0,-2.2386,NO,NO.
+1059072773_1059718130_2,order,Does the ice cream melt before the sun rises?,0,0,-2.6339,NO,NO.
+1059072773_1059718130_2,order,Is the sequence of events in the video ice cream melting and sun rising?,0,0,-1.9617,NO,NO.
+1024867412_1034049020_0,order,Is a girl walking on the street while a dog is simultaneously driving?,1,0,-8.7544,NO,NO.
+1024867412_1034049020_0,order,Is a girl walking on the street while a dog is driving at the same time?,1,0,-8.625,NO,NO.
+1024867412_1034049020_0,order,Does a girl walk on the street before the dog starts driving?,0,0,-2.8749,NO,NO.
+1024867412_1034049020_0,order,Is a girl walking on the street followed by a dog driving in the video?,0,0,-5.2573,NO,NO.
+1024867412_1034049020_1,order,Is a dog driving and then a girl walking on the street?,1,0,-6.2545,NO,NO.
+1024867412_1034049020_1,order,"Does the video show a sequence of a dog driving, followed by a girl walking on the street?",1,0,-4.9958,NO,NO.
+1024867412_1034049020_1,order,Is a girl walking on the street and then a dog driving?,0,0,-7.4953,NO,NO.
+1024867412_1034049020_1,order,"Does the video show a sequence of a girl walking on the street, followed by a dog driving?",0,0,-6.1175,NO,NO.
+1024867412_1034049020_2,order,"Is a girl walking on the street, then a dog is driving?",1,0,-7.8723,NO,NO.
+1024867412_1034049020_2,order,Does a girl walking on the street occur before a dog driving?,1,0,-3.6194,NO,NO.
+1024867412_1034049020_2,order,"Is a dog driving, then a girl is walking on the street?",0,0,-5.2544,NO,NO.
+1024867412_1034049020_2,order,Does a dog driving occur before a girl walking on the street?,0,0,-4.1354,NO,NO.
+1096238125_1098970151_0,order,Are two people lifting weights at the same time as a cat licking its paw?,1,0,-4.6236,NO,NO.
+1096238125_1098970151_0,order,Is a cat licking its paw while concurrently two people are lifting weights happening in the video?,1,0,-5.6294,NO,NO.
+1096238125_1098970151_0,order,Are two people lifting weights after a cat licking its paw?,0,0,-3.8758,NO,NO.
+1096238125_1098970151_0,order,Does two people lifting weights followed by a cat licking its paw happen in the video?,0,0,-3.3644,NO,NO.
+1096238125_1098970151_1,order,Are two people lifting weights and then a cat is licking its paw in the video?,1,0,-3.7417,NO,NO.
+1096238125_1098970151_1,order,Is a cat licking its paw followed by two people lifting weights?,0,0,-4.1294,NO,NO.
+1096238125_1098970151_2,order,Is a cat licking its paw and then two people lifting weights?,1,0,-4.7564,NO,NO.
+1096238125_1098970151_2,order,Does a cat lick its paw before two people lift weights?,1,0,-2.1307,NO,NO.
+1096238125_1098970151_2,order,Is two people lifting weights and then a cat is licking its paw?,0,0,-4.1215,NO,NO.
+1096238125_1098970151_2,order,Does two people lifting weights happen before a cat licking its paw?,0,0,-1.9943,NO,NO.
+1069717165_1041584314_0,order,Are the woman and the man showing different expressions at the same time?,1,0,-1.2066,NO,NO.
+1069717165_1041584314_0,order,Is the video presenting the woman and man showing their expressions simultaneously?,1,0,-1.8457,NO,NO.
+1069717165_1041584314_0,order,Do the woman and man show their expressions at the same time?,1,0,-1.832,NO,NO.
+1069717165_1041584314_0,order,Is the man showing different expressions before the woman?,0,0,-1.67,NO,NO.
+1069717165_1041584314_0,order,Is the woman showing different expressions before the man?,0,0,-1.4283,NO,NO.
+1069717165_1041584314_0,order,Are the woman and the man appearing at different time?,0,0,-1.5865,NO,NO.
+1069717165_1041584314_1,order,"Does the video show the woman showing different expressions first, followed by the man?",1,0,-1.0907,NO,NO.
+1069717165_1041584314_1,order,"Is it true that the man shows his expressions first, followed by the man?",0,0,-2.6136,NO,NO.
+1069717165_1041584314_2,order,"Is the order of events in the video: First, a man is showing different expressions; then, a woman is showing different expressions?",1,0,-0.9569,NO,NO.
+1069717165_1041584314_2,order,"In the video, does the man present his expressions first, followed by the woman?",1,0,-1.2258,NO,NO.
+1069717165_1041584314_2,order,Is the order of events in the video: Both the woman and the man are showing different expressions at the same time?,0,0,-1.0945,NO,NO.
+1069717165_1041584314_2,order,"In the video, does the woman present her expressions first, followed by the man?",0,0,-0.8534,NO,NO.
+1055413730_1055973887_0,order,"Is the correct order of events in the video the fire ball expanding, while simultaneously the earth is spinning?",1,0,-1.4942,NO,NO.
+1055413730_1055973887_0,order,"Is the correct order of events in the video the fire ball expanding, then the earth is spinning?",0,0,-2.1155,NO,NO.
+1055413730_1055973887_1,order,Is the correct order of events in the video about the earth spinning first and then the fire ball expanding?,1,0,-1.2349,NO,NO.
+1055413730_1055973887_1,order,Is the correct order of events in the video about the fire ball expanding first and then the earth spinning?,0,0,-2.1116,NO,NO.
+1055413730_1055973887_2,order,"Is the correct order of events in the video that the fire ball is expanding, then the earth is spinning?",1,0,-2.11,NO,NO.
+1055413730_1055973887_2,order,Is the earth spinning before the fire ball is expanding in the correct order of events in the video?,0,0,-0.7309,NO,NO.
+1058907236_1021488277_0,order,Is a person picking up a pineapple and a squirrel foraging happening concurrently in the video?,1,0,-6.374,NO,NO.
+1058907236_1021488277_0,order,Is a squirrel foraging and a person picking up a pineapple at the same time in the video?,1,0,-4.624,NO,NO.
+1058907236_1021488277_0,order,Is a person picking up a pineapple and then a squirrel foraging in the video?,0,0,-5.75,NO,NO.
+1058907236_1021488277_0,order,Is a squirrel foraging and then a person picking up a pineapple in the video?,0,0,-4.8766,NO,NO.
+1058907236_1021488277_1,order,Is a squirrel foraging and then a person picking up a pineapple in the video?,1,0,-4.4969,NO,NO.
+1058907236_1021488277_1,order,"In the video, is the first event a squirrel foraging and then a person picking up a pineapple?",1,0,-2.4831,NO,NO.
+1058907236_1021488277_1,order,"According to the video, does a squirrel forage before a person picks up a pineapple?",1,0,-1.492,NO,NO.
+1058907236_1021488277_1,order,Is a person picking up a pineapple and then a squirrel foraging in the video?,0,0,-5.6238,NO,NO.
+1058907236_1021488277_1,order,"In the video, is the first event a person picking up a pineapple and then a squirrel foraging?",0,0,-2.3666,NO,NO.
+1058907236_1021488277_1,order,"According to the video, does a person pick up a pineapple before a squirrel starts foraging?",0,0,-1.4848,NO,NO.
+1058907236_1021488277_2,order,Is a person picking up a pineapple and then a squirrel is foraging?,1,0,-3.38,NO,NO.
+1058907236_1021488277_2,order,"In the video, are events happening in the sequence: first, a person is picking up a pineapple; then, a squirrel is foraging?",1,0,-2.5971,NO,NO.
+1058907236_1021488277_2,order,"According to the arrangement of events in the video, does a person pick up a pineapple before a squirrel starts foraging?",1,0,-1.4729,NO,NO.
+1058907236_1021488277_2,order,Is a squirrel foraging before a person picks up a pineapple?,0,0,-3.882,NO,NO.
+1058907236_1021488277_2,order,Is a person picking up a pineapple and a squirrel foraging happening concurrently in the video?,0,0,-5.6168,NO,NO.
+1058907236_1021488277_2,order,"According to the arrangement of events in the video, does a squirrel start foraging before a person picks up a pineapple?",0,0,-1.2196,NO,NO.
+1054717541_1047368344_0,order,Are a person kneading dough and a girl jumping into water occurring at the same time in the video?,1,0,-5.7524,NO,NO.
+1054717541_1047368344_0,order,Is a person kneading dough occurring after a girl jumping into water in the video?,0,0,-4.0011,NO,NO.
+1054717541_1047368344_1,order,Is the sequence of events in the video a person kneading dough followed by a girl jumping into water?,1,0,-2.207,NO,NO.
+1054717541_1047368344_1,order,Is the sequence of events in the video a girl jumping into water followed by a person kneading dough?,0,0,-2.8446,NO,NO.
+1054717541_1047368344_2,order,Does the sequence of events in the video start with a girl jumping into water and then a person kneading dough?,1,0,-2.6116,NO,NO.
+1054717541_1047368344_2,order,Does the sequence of events in the video start with a person kneading dough and then a girl jumping into water?,0,0,-1.8536,NO,NO.
+1089201973_1086820415_0,order,Is a person kicking football shown at the same time as a big wave?,1,0,-5.7514,NO,NO.
+1089201973_1086820415_0,order,Do a person kicking football and a big wave being shown happen together in the video?,1,0,-5.1202,NO,NO.
+1089201973_1086820415_0,order,Is the first event shown in the video a person kicking football before by a big wave?,0,0,-3.9999,NO,NO.
+1089201973_1086820415_0,order,Is the order of events in the video a person kicks football and then a big wave is shown?,0,0,-2.4955,NO,NO.
+1089201973_1086820415_1,order,Is a person kicking football shown before a big wave in the video?,1,0,-3.9999,NO,NO.
+1089201973_1086820415_1,order,Is a person kicking football shown after a big wave in the video?,0,0,-3.6269,NO,NO.
+1089201973_1086820415_2,order,Is the order of events in the video that a big wave is shown and then a person is kicking football?,1,0,-3.2331,NO,NO.
+1089201973_1086820415_2,order,Is the order of events in the video that a person is kicking football and then a big wave is shown?,0,0,-3.11,NO,NO.
+1080990179_1086820415_0,order,Are an apple drying out and a big wave shown at the same time?,1,0,-5.6264,NO,NO.
+1080990179_1086820415_0,order,Is it correct that an apple drying out and a big wave are shown simultaneously?,1,0,-5.62,NO,NO.
+1080990179_1086820415_0,order,Is an apple drying out first and then a big wave is shown?,0,0,-4.0034,NO,NO.
+1080990179_1086820415_0,order,Is a big wave shown first and then an apple is drying out?,0,0,-3.3686,NO,NO.
+1080990179_1086820415_1,order,Is the order of events in the video that an apple is drying out first and then a big wave is shown?,1,0,-1.8479,NO,NO.
+1080990179_1086820415_1,order,Is the order of events in the video that a big wave is shown first and then an apple is drying out?,0,0,-2.2116,NO,NO.
+1080990179_1086820415_2,order,Does the video show a big wave before an apple drying out?,1,0,-3.7581,NO,NO.
+1080990179_1086820415_2,order,Does an apple drying out happen after a big wave is shown in the video?,1,0,-3.75,NO,NO.
+1080990179_1086820415_2,order,Are both events (an apple drying out and a big wave shown) happening simultaneously in the video?,0,0,-5.2406,NO,NO.
+1080990179_1086820415_2,order,Is a big wave shown later in the video compared to an apple drying out?,0,0,-2.4943,NO,NO.
+1067268403_1064645467_0,order,Are a man doing exercise and wind turbines rotating concurrently in the video?,1,0,-4.1289,NO,NO.
+1067268403_1064645467_0,order,Is the order of events in the video wind turbines rotating followed by a man doing exercise?,0,0,-0.8508,NO,NO.
+1067268403_1064645467_1,order,Is the order of events in the video: Wind turbines are rotating followed by a man doing exercise?,1,0,-1.5794,NO,NO.
+1067268403_1064645467_1,order,Is the order of events in the video: A man doing exercise followed by wind turbines rotating?,0,0,-1.0977,NO,NO.
+1067268403_1064645467_2,order,Is the order of events in the video a man doing exercise followed by wind turbines rotating?,1,0,-0.8406,NO,NO.
+1067268403_1064645467_2,order,"Is wind turbines rotating followed by a man doing exercise, the order of events in the video?",0,0,-1.973,NO,NO.
+1082268005_1063373449_0,order,Does the video show that viruses dissolving and planet earth assembling from toy bricks happening simultaneously?,1,0,-6.5009,NO,NO.
+1082268005_1063373449_0,order,Does the video show that viruses are dissolving and then planet earth is assembling from toy bricks?,0,0,-6.1281,NO,NO.
+1082268005_1063373449_1,order,Are the events in the video happening in the order of planet earth assembling from toy bricks and then viruses dissolving?,1,0,-3.4926,NO,NO.
+1082268005_1063373449_1,order,Are the events in the video happening in the order of viruses dissolving and then planet earth assembling from toy bricks?,0,0,-4.25,NO,NO.
+1082268005_1063373449_2,order,Are the events in the video happening in the order of viruses dissolving and then planet earth assembling from toy bricks?,1,0,-4.25,NO,NO.
+1082268005_1063373449_2,order,Are the events in the video happening in the order of planet earth assembling from toy bricks and then viruses dissolving?,0,0,-3.4926,NO,NO.
+1060403198_1049965795_0,order,"Do the events happen simultaneously, with a light bulb lighting up while the tree is growing up?",1,0,-2.9905,NO,NO.
+1060403198_1049965795_0,order,Is the order of events in the video that a light bulb is lighting up and then the tree is growing up?,0,0,-3.3656,NO,NO.
+1060403198_1049965795_1,order,Are the events in the video ordered as the tree growing up and then a light bulb lighting up?,1,0,-0.7434,NO,NO.
+1060403198_1049965795_1,order,Is the tree growing up and then a light bulb lighting up the order of events in the video?,1,0,-0.7192,NO,NO.
+1060403198_1049965795_1,order,Is the order of events in the video that a light bulb is lighting up and then the tree is growing up?,0,0,-2.9879,NO,NO.
+1060403198_1049965795_1,order,Is a light bulb lighting up and then the tree growing up the order of events in the video?,0,0,-1.9758,NO,NO.
+1060403198_1049965795_2,order,Is the order of events in the video that a light bulb is lighting up and then the tree is growing up?,1,0,-2.9879,NO,NO.
+1060403198_1049965795_2,order,Is a light bulb lighting up and then the tree growing up the order of events in the video?,1,0,-1.9758,NO,NO.
+1060403198_1049965795_2,order,Are the events in the video ordered as the tree growing up and then a light bulb lighting up?,0,0,-0.7434,NO,NO.
+1060403198_1049965795_2,order,Is the tree growing up and then a light bulb lighting up the order of events in the video?,0,0,-0.7192,NO,NO.
+1091143117_1094219575_0,order,Does the opening of the eye happen simultaneously as the wilting of the flower?,1,0,-2.4922,NO,NO.
+1091143117_1094219575_0,order,Is the eye opening while at the same time the flower is wilting,1,0,-2.2525,NO,NO.
+1091143117_1094219575_0,order,Is an eye opening before a flower wilts?,0,0,-1.8748,NO,NO.
+1091143117_1094219575_0,order,Is a flower wilting before an eye opens?,0,0,-3.1305,NO,NO.
+1091143117_1094219575_1,order,Does the eye open first and then the flower wilts?,1,0,-2.1249,NO,NO.
+1091143117_1094219575_1,order,Does the opening of the eye happen before the wilting of the flower?,1,0,-0.9728,NO,NO.
+1091143117_1094219575_1,order,Is the order of events in the video that the eye opens first and then the flower wilts?,1,0,-1.4879,NO,NO.
+1091143117_1094219575_1,order,Does the flower wilt first and then the eye opens?,0,0,-2.7581,NO,NO.
+1091143117_1094219575_1,order,Does the wilting of the flower happen before the opening of the eye?,0,0,-1.7284,NO,NO.
+1091143117_1094219575_1,order,Is the order of events in the video that the flower wilts first and then the eye opens?,0,0,-1.2284,NO,NO.
+1091143117_1094219575_2,order,Is a flower wilting first and then an eye opening?,1,0,-2.2348,NO,NO.
+1091143117_1094219575_2,order,Does a flower wilt first before an eye opens?,1,0,-2.6186,NO,NO.
+1091143117_1094219575_2,order,Are the events in the video occurring in the order of a flower wilting first and then an eye opening?,1,0,-1.8508,NO,NO.
+1091143117_1094219575_2,order,Is an eye opening first and then a flower wilting?,0,0,-2.1249,NO,NO.
+1091143117_1094219575_2,order,Does an eye open first before a flower wilts?,0,0,-3.1249,NO,NO.
+1091143117_1094219575_2,order,Do the events in the video occur in the order of an eye opening first and then a flower wilting?,0,0,-1.3558,NO,NO.
+1086105089_1085910917_0,order,Does a woman drink water while a building is being constructed simultaneously?,1,0,-3.7499,NO,NO.
+1086105089_1085910917_0,order,Is a building being constructed shown at the same time as a woman drinking water?,1,0,-4.125,NO,NO.
+1086105089_1085910917_0,order,Does a building being constructed happen before a woman drinking water?,0,0,-2.2186,NO,NO.
+1086105089_1085910917_0,order,"Does a building is being constructed comes first, followed by a woman drinking water?",0,0,-3.1059,NO,NO.
+1086105089_1085910917_1,order,Does the building being constructed happen before a woman is drinking water?,1,0,-2.3723,NO,NO.
+1086105089_1085910917_1,order,"Does a building being constructed come first, followed by a woman drinking water?",1,0,-2.0946,NO,NO.
+1086105089_1085910917_1,order,Is it true that the building being constructed happens before a woman is drinking water?,1,0,-2.3608,NO,NO.
+1086105089_1085910917_1,order,Does a woman is drinking water happen before a building is being constructed?,0,0,-2.6099,NO,NO.
+1086105089_1085910917_1,order,"Does a woman is drinking water come first, followed by a building being constructed?",0,0,-3.358,NO,NO.
+1086105089_1085910917_1,order,Is it true that a woman is drinking water happens before a building is being constructed?,0,0,-1.983,NO,NO.
+1086105089_1085910917_2,order,Does a woman drink water before a building is being constructed?,1,0,-3.1369,NO,NO.
+1086105089_1085910917_2,order,Does the event of a woman drinking water happen before the event of a building being constructed?,1,0,-2.082,NO,NO.
+1086105089_1085910917_2,order,Does a woman drinking water come before a building being constructed in sequence?,1,0,-2.2259,NO,NO.
+1086105089_1085910917_2,order,Does a building being constructed come first before a woman drinking water?,0,0,-1.2259,NO,NO.
+1086105089_1085910917_2,order,Does the event of a building being constructed happen before the event of a woman drinking water?,0,0,-1.6692,NO,NO.
+1086105089_1085910917_2,order,Does a building being constructed come before a woman drinking water in sequence?,0,0,-2.3598,NO,NO.
+1034736653_1043054206_0,order,Do car race and women run happen at the same time in the video?,1,0,-2.4928,NO,NO.
+1034736653_1043054206_0,order,Does cars race happen before women run in the video?,0,0,-2.1249,NO,NO.
+1034736653_1043054206_1,order,"Do the events occur in the order of women running, then cars racing?",1,0,-1.1079,NO,NO.
+1034736653_1043054206_1,order,"Do the events occur in the order of cars racing, then women running?",0,0,-1.738,NO,NO.
+1034736653_1043054206_2,order,"Do the events occur in the order of cars racing, then women running?",1,0,-1.738,NO,NO.
+1034736653_1043054206_2,order,"Do the events occur in the order of women running, then cars racing?",0,0,-1.1079,NO,NO.
+1086423566_1094782389_0,order,Does the event of a dog giving a high five to a woman happen simultaneously with foods being added into a bowl in the video?,1,0,-4.4932,NO,NO.
+1086423566_1094782389_0,order,"Is the chronological order of events in the video that foods are added into a bowl, and then a dog is giving a high five to a woman?",0,0,-3.2259,NO,NO.
+1086423566_1094782389_1,order,"Is the correct chronological order of events in the video that foods are added into a bowl, and then a dog gives a high five to a woman?",1,0,-2.3366,NO,NO.
+1086423566_1094782389_1,order,"Is the correct chronological order of events in the video that a dog gives a high five to a woman, and then foods are added into a bowl?",0,0,-0.9639,NO,NO.
+1086423566_1094782389_2,order,"Is the correct chronological order of the events in the video: 'A dog is giving a high five to a woman, and then foods are added into a bowl'?",1,0,-2.5535,NO,NO.
+1086423566_1094782389_2,order,"Is the correct chronological order of the events in the video: 'Foods are added into a bowl, and then a dog is giving a high five to a woman'?",0,0,-2.8369,NO,NO.
+1053758117_1055413730_0,order,Are the digital brain spinning and the earth spinning happening together?,1,0,-1.4916,NO,NO.
+1053758117_1055413730_0,order,Is the digital brain spinning happening after the earth is spinning?,0,0,-1.4905,NO,NO.
+1053758117_1055413730_1,order,Does the digital brain spin before the earth in the video?,1,0,-2.3749,NO,NO.
+1053758117_1055413730_1,order,Is the order of events in the video: the digital brain spins and then the earth spins?,1,0,-0.8477,NO,NO.
+1053758117_1055413730_1,order,Does the earth spin before the digital brain in the video?,0,0,-0.7379,NO,NO.
+1053758117_1055413730_1,order,Is the order of events in the video: the earth spins and then the digital brain spins?,0,0,-0.8508,NO,NO.
+1053758117_1055413730_2,order,Does the earth spin before the digital brain in the video?,1,0,-0.7379,NO,NO.
+1053758117_1055413730_2,order,Is the order of events in the video: the earth spins and then the digital brain spins?,1,0,-0.8508,NO,NO.
+1053758117_1055413730_2,order,Does the digital brain spin before the earth in the video?,0,0,-2.3749,NO,NO.
+1053758117_1055413730_2,order,Is the order of events in the video: the digital brain spins and then the earth spins?,0,0,-0.8477,NO,NO.
+1076877854_1073914229_0,order,Are robotic arms and trains shown at the same time in the video?,1,0,-3.1143,NO,NO.
+1076877854_1073914229_0,order,Is it true that robotic arms working and trains driving happen simultaneously in the video?,1,0,-2.4616,NO,NO.
+1076877854_1073914229_0,order,Are the robotic arms working before trains start driving in the video?,0,0,-1.6141,NO,NO.
+1076877854_1073914229_0,order,Is it true that robotic arms working after trains driving in the video?,0,0,-4.1117,NO,NO.
+1076877854_1073914229_1,order,"In the video, do the events occur with the robotic arms working first, and then the trains driving?",1,0,-1.2215,NO,NO.
+1076877854_1073914229_1,order,"In the video, do the events occur with the trains driving first, and then the robotic arms working?",0,0,-0.3617,NO,NO.
+1076877854_1073914229_2,order,"In the video, do the events occur with the trains driving first, and then the robotic arms working?",1,0,-0.3617,NO,NO.
+1076877854_1073914229_2,order,"In the video, do the events occur with the robotic arms working first, and then the trains driving?",0,0,-1.2215,NO,NO.
+1067268406_1067427023_0,order,Is a white car driving while snow particles are melting simultaneously?,1,0,-3.7431,NO,NO.
+1067268406_1067427023_0,order,Is the order of events in the video that a white car is driving while snow particles are melting simultaneously?,1,0,-1.7309,NO,NO.
+1067268406_1067427023_0,order,Is a white car driving happens before snow particles are melting,0,0,-2.0031,NO,NO.
+1067268406_1067427023_0,order,"Is the order of events in the video that a white car is driving, then snow particles are melting?",0,0,-2.2259,NO,NO.
+1067268406_1067427023_1,order,"Is the order of events in the video that a white car is driving, then snow particles are melting?",1,0,-2.0866,NO,NO.
+1067268406_1067427023_1,order,"Is the order of events in the video that snow particles are melting, then a white car is driving?",0,0,-0.7194,NO,NO.
+1067268406_1067427023_2,order,"Is the order of events in the video that snow particles are melting, then a white car is driving?",1,0,-0.7194,NO,NO.
+1067268406_1067427023_2,order,"Is the order of events in the video that a white car is driving, then snow particles are melting?",0,0,-2.0866,NO,NO.
+1086286649,direction,Are the armored vehicles moving from right to left?,1,0,-0.8362,NO,NO.
+1086286649,direction,Are the armored vehicles approaching from the left side of the screen?,1,0,-0.9919,NO,NO.
+1086286649,direction,Are the armored vehicles proceeding from right to left?,1,0,-0.4316,NO,NO.
+1086286649,direction,Are the armored vehicles from left to right?,0,0,-0.7109,NO,NO.
+1086286649,direction,Are the armored vehicles approaching from the right side of the screen?,0,0,-0.486,NO,NO.
+1086286649,direction,Are the armored vehicles proceeding from left to right?,0,0,-0.0701,NO,NO.
+1093041749,order,Is the dragon landing from the sky and then breathing fire?,1,0,-3.13,NO,NO.
+1093041749,order,Is landing from the sky and then breathing fire the order of events performed by the dragon?,1,0,-2.238,NO,NO.
+1093041749,order,Is the dragon breathing fire and then landing from the sky?,0,0,-5.0056,NO,NO.
+1093041749,order,Is breathing fire and then landing from the sky the order of events performed by the dragon?,0,0,-1.8446,NO,NO.
+3406661033,order,Did the man propel himself forward in wheelchair and then hand the document to colleagues?,1,0,-2.8303,NO,NO.
+3406661033,order,Did the man hand the document to colleagues and then propel himself forward in wheelchair?,0,0,-2.464,NO,NO.
+3406618583,direction,Is the camera moving by panning up and down around the girl in the video?,1,0,-2.4912,NO,NO.
+3406618583,direction,Is the camera movement in the video by panning up and down around the girl?,1,0,-2.1143,NO,NO.
+3406618583,direction,Is the camera moving around the girl in the video by panning up and down?,1,0,-2.6186,NO,NO.
+3406618583,direction,Is the camera moving by panning left and right around the girl in the video?,0,0,-2.6115,NO,NO.
+3406618583,direction,Is the camera movement in the video by rotating clockwise around the girl?,0,0,-2.1088,NO,NO.
+3406618583,direction,Is the camera moving in the video by zooming in and out around the girl?,0,0,-2.8655,NO,NO.
+3405120819,order,Does the chef perform shaping dough before smiling at the camera?,1,0,-2.3728,NO,NO.
+3405120819,order,Does the chef smiling at the camera before shaping dough?,0,0,-1.8737,NO,NO.
+3405088753,order,Is the salesman packing up the bread before saying something to the woman?,1,0,-1.3443,NO,NO.
+3405088753,order,Is the salesman saying something to the woman before packing up the bread?,0,0,-1.8319,NO,NO.
+21218935,order,Is the woman doing push ups and then smiling at the camera?,1,0,-3.2464,NO,NO.
+21218935,order,"In which order does the woman perform the actions, doing push ups and then smiling at the camera?",1,0,-0.4348,NO,NO.
+21218935,order,Is the woman smiling at the camera and then doing push ups?,0,0,-4.7435,NO,NO.
+21218935,order,"In which order does the woman perform the actions, smiling and then doing push ups?",0,0,-0.4489,NO,NO.
+8307961,order,Is the man chatting with a woman while walking and then showing something on his tablet to a woman?,1,0,-2.1035,NO,NO.
+8307961,order,Is the man walking and simultaneously showing something on his tablet to a woman?,0,0,-1.7193,NO,NO.
+26631100,order,Are three hands holding the clay pot first and then two hands are holding the clay pot?,1,0,-0.4251,NO,NO.
+26631100,order,Is the order of events in the video that three hands are holding the clay pot first and then two hands are holding the clay pot?,1,1,0.1763,YES,YES.
+26631100,order,Are two hands holding the clay pot first and then three hands are holding the clay pot?,0,0,-1.1909,NO,NO.
+26631100,order,Is the order of events in the video that two hands are holding the clay pot first and then three hands are holding the clay pot?,0,0,0.0574,NO,NO.
+1104663381,direction,Is the pizza dough rotating counter-clockwise?,1,0,-0.9653,NO,NO.
+1104663381,direction,Is the pizza dough moving in the direction of rotating counter-clockwise?,1,0,-0.9948,NO,NO.
+1104663381,direction,Is the pizza dough rotating clockwise?,0,0,-0.6093,NO,NO.
+1104663381,direction,Is the pizza dough moving in the direction of flipping up and down?,0,0,-1.7415,NO,NO.
+1088497853,direction,Is the direction of the movement in the video upwards?,1,0,-1.2481,NO,NO.
+1088497853,direction,Is the camera moving upwards before the stone building?,1,0,-2.3478,NO,NO.
+1088497853,direction,Is the trajectory of the camera movement in the video flying upwards?,1,0,-0.9892,NO,NO.
+1088497853,direction,Is the direction of the movement in the video downwards?,0,0,-0.4937,NO,NO.
+1088497853,direction,Is the camera moving rightwards before the stone building?,0,0,-1.7347,NO,NO.
+1088497853,direction,Is the trajectory of the camera movement in the video flying leftwards?,0,0,-1.2325,NO,NO.
+13324343,order,Does the man tie his shoelaces and then glide on the skateboard?,1,0,-3.8731,NO,NO.
+13324343,order,"In the sequence of actions, does the man tie his shoelaces and then glide on the skateboard?",1,0,-1.8479,NO,NO.
+13324343,order,Is tying his shoelaces and then gliding on the skateboard the correct order of actions by the man?,1,0,-1.4569,NO,NO.
+13324343,order,Does the man glide on the skateboard and then tie his shoelaces?,0,0,-3.3772,NO,NO.
+13324343,order,"In the sequence of actions, does the man glide on the skateboard and then tie his shoelaces?",0,0,-2.2285,NO,NO.
+13324343,order,Is glide on the skateboard and then tying his shoelaces the correct order of actions by the man?,0,0,-2.0979,NO,NO.
+1014976360,order,Does the man look at his phone and then taking off his glasses?,1,0,-1.8613,NO,NO.
+1014976360,order,Does the man take off his glasses and then look at his phone?,0,0,-1.6096,NO,NO.
+18416608,order,"Is the woman sampling water in a bottle first, then operating her tablet?",1,0,-1.8407,NO,NO.
+18416608,order,"Is the woman operating her tablet first, then sampling water in a bottle?",0,0,-1.7286,NO,NO.
+1061351290,order,Does the woman touch her pregnant belly before measuring her belly with a measuring tape?,1,0,-1.2308,NO,NO.
+1061351290,order,Is the order of events in the video involving the woman about touching her pregnant belly and then measuring her belly with a measuring tape?,1,0,-0.3486,NO,NO.
+1061351290,order,Does the woman perform the action of touching her pregnant belly before measuring her belly with a measuring tape?,1,0,-1.476,NO,NO.
+1061351290,order,Does the woman take off clothes after measuring her belly with a measuring tape?,0,0,-4.5,NO,NO.
+1061351290,order,Is the sequence of actions in the video involving the woman about measure her belly with a measuring tape and then touching her pregnant belly?,0,0,-0.9603,NO,NO.
+1061351290,order,Does the woman measure her belly with a measuring tape before touching her pregnant belly?,0,0,-3.7527,NO,NO.
+1022115337,order,Is the video showing dancing and then sending an air kiss?,1,0,-2.9939,NO,NO.
+1022115337,order,Does dancing occur before sending an air kiss?,1,0,-1.4936,NO,NO.
+1022115337,order,Does sending an air kiss occur after dancing?,1,0,-1.13,NO,NO.
+1022115337,order,Is the video showing sending an air kiss and then dancing?,0,0,-2.7499,NO,NO.
+1022115337,order,Does sending an air kiss occur before dancing?,0,0,-1.2455,NO,NO.
+1022115337,order,Does dancing occur after sending an air kiss?,0,0,-2.0051,NO,NO.
+27537016,order,Did the man show off his car key and then pull back inside the car?,1,0,-2.0909,NO,NO.
+27537016,order,Was showing off his car key followed by pulling back inside the car?,1,0,-2.5805,NO,NO.
+27537016,order,Is showing off his car key and then pulling back inside the car the correct sequence of events involving the man?,1,0,-1.4616,NO,NO.
+27537016,order,Did the man pull back inside the car and then show off his car key?,0,0,-2.4616,NO,NO.
+27537016,order,Was pulling back inside the car followed by showing off his car key?,0,0,-1.954,NO,NO.
+27537016,order,Is throwing away his car key and then pulling back inside the car the correct sequence of events involving the man?,0,0,-2.1685,NO,NO.

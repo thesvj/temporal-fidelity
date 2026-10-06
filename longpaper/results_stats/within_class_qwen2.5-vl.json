@@ -1,0 +1,112 @@
+{
+ "pooled": {
+  "n_visible": 1005,
+  "probe_auc": 0.9377010092048353,
+  "margin_auc": 0.6050357261680318,
+  "probe_acc": 0.8567164179104477
+ },
+ "in/btw": {
+  "n": 269,
+  "probe_pooled_auc": 0.9600178193562757,
+  "probe_within_auc": 0.9998329435349148,
+  "probe_within_null95": 0.563528789397483,
+  "margin_raw_auc": 0.6958180198240339,
+  "margin_signfree_auc": 0.6958180198240339,
+  "diff_pooled_minus_margin": 0.2641997995322418,
+  "diff_pooled_ci": [
+   0.20189256933459362,
+   0.3293245081638069
+  ],
+  "diff_within_minus_margin": 0.3040149237108809,
+  "diff_within_ci": [
+   0.24673799091908147,
+   0.3660243328213782
+  ],
+  "margin_heldout_bacc_signfree": 0.6146910180226525,
+  "layers_chosen": [
+   18,
+   18,
+   18,
+   21,
+   21
+  ]
+ },
+ "in/in": {
+  "n": 287,
+  "probe_pooled_auc": 0.9956101843722563,
+  "probe_within_auc": 0.9963905960394108,
+  "probe_within_null95": 0.5640132669983415,
+  "margin_raw_auc": 0.7340015608233343,
+  "margin_signfree_auc": 0.7340015608233343,
+  "diff_pooled_minus_margin": 0.261608623548922,
+  "diff_pooled_ci": [
+   0.20571294839991136,
+   0.32117574595782045
+  ],
+  "diff_within_minus_margin": 0.2623890352160765,
+  "diff_within_ci": [
+   0.20784987920240666,
+   0.32109526105722197
+  ],
+  "margin_heldout_bacc_signfree": 0.631294086935669,
+  "layers_chosen": [
+   21,
+   18,
+   27,
+   21,
+   18
+  ]
+ },
+ "btw/in": {
+  "n": 228,
+  "probe_pooled_auc": 0.8913657770800628,
+  "probe_within_auc": 0.9991365777080062,
+  "probe_within_null95": 0.5669113029827315,
+  "margin_raw_auc": 0.3925039246467818,
+  "margin_signfree_auc": 0.6074960753532183,
+  "diff_pooled_minus_margin": 0.28386970172684456,
+  "diff_pooled_ci": [
+   0.19882854025718313,
+   0.36841459329210163
+  ],
+  "diff_within_minus_margin": 0.391640502354788,
+  "diff_within_ci": [
+   0.3193587441224456,
+   0.46618777820578666
+  ],
+  "margin_heldout_bacc_signfree": 0.5543314988143209,
+  "layers_chosen": [
+   18,
+   18,
+   21,
+   21,
+   18
+  ]
+ },
+ "btw/btw": {
+  "n": 164,
+  "probe_pooled_auc": 0.6728089887640449,
+  "probe_within_auc": 0.6361048689138576,
+  "probe_within_null95": 0.5749438202247191,
+  "margin_raw_auc": 0.5546067415730337,
+  "margin_signfree_auc": 0.5546067415730337,
+  "diff_pooled_minus_margin": 0.11820224719101124,
+  "diff_pooled_ci": [
+   0.0015566521680678185,
+   0.23534244315595496
+  ],
+  "diff_within_minus_margin": 0.08149812734082396,
+  "diff_within_ci": [
+   -0.022095178567579744,
+   0.18566089527027024
+  ],
+  "margin_heldout_bacc_signfree": 0.5082811128385584,
+  "layers_chosen": [
+   18,
+   18,
+   18,
+   18,
+   18
+  ]
+ }
+}
